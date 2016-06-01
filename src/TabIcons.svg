@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="94"
+   height="17.99999"
+   id="svg3840"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="TabIcons.svg">
+  <defs
+     id="defs3842" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="47"
+     inkscape:cy="8.9999952"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     showborder="false"
+     inkscape:window-width="1600"
+     inkscape:window-height="806"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3891"
+       empspacing="1"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       originx="-130px"
+       originy="-672.00001px"
+       color="#808080"
+       opacity="0.1254902"
+       empcolor="#808080"
+       empopacity="0.25098039" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata3845">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Background"
+     style="display:inline"
+     transform="translate(0,24.999999)" />
+  <g
+     inkscape:label="Icons"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-130,-362.36218)"
+     style="display:inline">
+    <g
+       style="display:inline"
+       id="g3027-6"
+       inkscape:export-filename="/media/freedrive/RebeccaCurrent2016/Personal Projects/LMMS Theme Source Files/TabIcons1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="translate(0,-25.000002)">
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/media/freedrive/RebeccaCurrent2016/Personal Projects/LMMS Theme Source Files/TabIcons1.png"
+         ry="0"
+         rx="0"
+         y="387.36218"
+         x="130"
+         height="17.99999"
+         width="94"
+         id="rect4740-3"
+         style="fill:#000000;fill-opacity:1;stroke:none;display:inline" />
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/media/freedrive/RebeccaCurrent2016/Personal Projects/LMMS Theme Source Files/TabIcons1.png"
+         id="g4698-6">
+        <rect
+           style="fill:none;stroke:none;display:inline"
+           id="rect4586-1"
+           width="12"
+           height="12"
+           x="179"
+           y="390.36218"
+           rx="0"
+           ry="0"
+           inkscape:export-filename="/media/freedrive/RebeccaCurrent2016/Personal Projects/LMMS Theme Source Files/TabIcons.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           sodipodi:nodetypes="ccccccccccccc"
+           style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+           d="m 184,390.36219 0,5.0409 -5,-0.0409 0,2 5,0 0,4.99997 2,0 0,-4.99997 4.99998,0 0,-2 -4.99998,0 0,-5.00001 z"
+           id="path4588-7"
+           inkscape:connector-curvature="0"
+           inkscape:export-filename="/media/freedrive/RebeccaCurrent2016/Personal Projects/LMMS Theme Source Files/TabIcons.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+      </g>
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/media/freedrive/RebeccaCurrent2016/Personal Projects/LMMS Theme Source Files/TabIcons1.png"
+         id="g4693-9">
+        <rect
+           ry="0"
+           rx="0"
+           y="390.36218"
+           x="164"
+           height="12"
+           width="12"
+           id="rect4646-7"
+           style="fill:none;stroke:none;display:inline"
+           inkscape:export-filename="/media/freedrive/RebeccaCurrent2016/Personal Projects/LMMS Theme Source Files/TabIcons.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <g
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           inkscape:export-filename="/media/freedrive/RebeccaCurrent2016/Personal Projects/LMMS Theme Source Files/TabIcons.png"
+           id="g4634-7"
+           transform="translate(214.63601,585.49529)"
+           style="fill:#800000;display:inline">
+          <path
+             style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+             d="m -45.63601,-195.1331 0,2.15625 c -0.364311,0.094 -0.714919,0.21999 -1.03125,0.40625 l -1.5,-1.5 -1.40625,1.40625 1.5,1.5 c -0.186263,0.31633 -0.3123,0.66694 -0.40625,1.03125 l -2.15625,0 0,2 2.15625,0 c 0.09395,0.36431 0.219987,0.71492 0.40625,1.03125 l -1.5,1.5 1.40625,1.40625 1.5,-1.5 c 0.316331,0.18626 0.666939,0.3123 1.03125,0.40625 l 0,2.15625 2,0 0,-2.15625 c 0.364311,-0.0939 0.714919,-0.21999 1.03125,-0.40625 l 1.5,1.5 1.4375,-1.40625 -1.53125,-1.53125 c 0.179654,-0.30989 0.314609,-0.64464 0.40625,-1 l 2.15625,0 0,-2 -2.15625,0 c -0.09164,-0.35536 -0.226596,-0.69011 -0.40625,-1 l 1.53125,-1.53125 -1.4375,-1.40625 -1.5,1.5 c -0.316331,-0.18626 -0.666939,-0.3123 -1.03125,-0.40625 l 0,-2.15625 -2,0 z m 1,4 c 1.104569,0 2,0.89543 2,2 0,1.10457 -0.895431,2 -2,2 -1.104569,0 -2,-0.89543 -2,-2 0,-1.10457 0.895431,-2 2,-2 z"
+             id="path4656-8"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/media/freedrive/RebeccaCurrent2016/Personal Projects/LMMS Theme Source Files/TabIcons1.png"
+         id="g4684-0">
+        <rect
+           style="fill:none;stroke:none;display:inline"
+           id="rect4683-3"
+           width="13"
+           height="12"
+           x="148"
+           y="390.36218"
+           rx="0"
+           ry="0"
+           inkscape:export-filename="/media/freedrive/RebeccaCurrent2016/Personal Projects/LMMS Theme Source Files/TabIcons.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <rect
+           y="390.36218"
+           x="149"
+           height="12"
+           width="1"
+           id="rect4696-6"
+           style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+           inkscape:export-filename="/media/freedrive/RebeccaCurrent2016/Personal Projects/LMMS Theme Source Files/TabIcons.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+           id="rect4698-1"
+           width="1"
+           height="12.000001"
+           x="159"
+           y="390.36221"
+           inkscape:export-filename="/media/freedrive/RebeccaCurrent2016/Personal Projects/LMMS Theme Source Files/TabIcons.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <rect
+           y="392.36218"
+           x="148"
+           height="5.0000062"
+           width="3"
+           id="rect4710-7"
+           style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+           inkscape:export-filename="/media/freedrive/RebeccaCurrent2016/Personal Projects/LMMS Theme Source Files/TabIcons.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+           id="rect4714-3"
+           width="3"
+           height="5.0000062"
+           x="158"
+           y="392.36218"
+           inkscape:export-filename="/media/freedrive/RebeccaCurrent2016/Personal Projects/LMMS Theme Source Files/TabIcons.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <rect
+           y="390.36221"
+           x="154"
+           height="12.000001"
+           width="1"
+           id="rect4808-1"
+           style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+           inkscape:export-filename="/media/freedrive/RebeccaCurrent2016/Personal Projects/LMMS Theme Source Files/TabIcons.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <rect
+           y="395.36218"
+           x="153"
+           height="5.0000062"
+           width="3"
+           id="rect4811-2"
+           style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+           inkscape:export-filename="/media/freedrive/RebeccaCurrent2016/Personal Projects/LMMS Theme Source Files/TabIcons.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+      </g>
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/media/freedrive/RebeccaCurrent2016/Personal Projects/LMMS Theme Source Files/TabIcons1.png"
+         id="g4680-7">
+        <rect
+           ry="0"
+           rx="0"
+           y="390.36218"
+           x="133"
+           height="12"
+           width="12"
+           id="rect4742-2"
+           style="fill:none;stroke:none;display:inline"
+           inkscape:export-filename="/media/freedrive/RebeccaCurrent2016/Personal Projects/LMMS Theme Source Files/TabIcons.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+           d="m 135.00001,392.3622 0,3 -2,0 0,2 2,0 0,3 3,0 0,-2 2,0 0,2 3,0 0,-3 2,0 0,-2 -2,0 0,-3 -3,0 0,2 -2,0 0,-2 -3,0 z"
+           id="rect4758-0-8"
+           inkscape:export-filename="/media/freedrive/RebeccaCurrent2016/Personal Projects/LMMS Theme Source Files/TabIcons.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+      </g>
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/media/freedrive/RebeccaCurrent2016/Personal Projects/LMMS Theme Source Files/TabIcons1.png"
+         id="g4706-4">
+        <rect
+           style="fill:none;stroke:none;display:inline"
+           id="rect4978-3"
+           width="12"
+           height="12"
+           x="208.99998"
+           y="390.36218"
+           rx="0"
+           ry="0"
+           inkscape:export-filename="/media/freedrive/RebeccaCurrent2016/Personal Projects/LMMS Theme Source Files/TabIcons.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           sodipodi:nodetypes="ccccccccccccccccccccccc"
+           inkscape:connector-curvature="0"
+           id="path4992-2"
+           d="m 209,390.36217 0,12 3,0 0,-5 -1,0 0,-7 z m 5,0 0,7 -1,0 0,5 4,0 0,-5 -1,0 0,-7 z m 5,0 0,7 -1,0 0,5 3,0 0,-12 z"
+           style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+           inkscape:export-filename="/media/freedrive/RebeccaCurrent2016/Personal Projects/LMMS Theme Source Files/TabIcons.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+      </g>
+      <rect
+         style="fill:none;stroke:none;display:inline"
+         id="rect4706-7"
+         width="12"
+         height="12"
+         x="194"
+         y="390.36218"
+         rx="0"
+         ry="0"
+         inkscape:export-filename="/media/freedrive/RebeccaCurrent2016/Personal Projects/LMMS Theme Source Files/TabIcons1.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#ffffff;stroke:none"
+         d="m 64,3 0,12 2,0 0,-6.5 2,2.5 5,0 0,-2 -4,0 z"
+         transform="translate(130,387.36218)"
+         id="path5484-6"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccc"
+         inkscape:export-filename="/media/freedrive/RebeccaCurrent2016/Personal Projects/LMMS Theme Source Files/TabIcons1.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/media/freedrive/RebeccaCurrent2016/Personal Projects/LMMS Theme Source Files/TabIcons1.png"
+         inkscape:transform-center-y="-3"
+         inkscape:transform-center-x="1.5"
+         style="fill:#ffffff;stroke:none"
+         d="m 204,402.36218 -2,-6 2,0 2,6 z"
+         id="path3083-8"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+    </g>
+  </g>
+</svg>
