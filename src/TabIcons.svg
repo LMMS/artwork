@@ -2,34 +2,54 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="94"
    height="17.99999"
    id="svg3840"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="TabIcons.svg">
   <defs
-     id="defs3842" />
+     id="defs3842">
+    <linearGradient
+       id="linearGradient6229"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#282a32;stop-opacity:1;"
+         offset="0"
+         id="stop6231" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6229"
+       id="linearGradient6233"
+       x1="130"
+       y1="396.36218"
+       x2="224"
+       y2="396.36218"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
+     pagecolor="#121316"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
+     inkscape:zoom="12.074468"
      inkscape:cx="47"
-     inkscape:cy="8.9999952"
+     inkscape:cy="8.9999946"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="false"
+     showgrid="true"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
@@ -47,12 +67,12 @@
        visible="true"
        enabled="true"
        snapvisiblegridlinesonly="true"
-       originx="-130px"
-       originy="-672.00001px"
-       color="#808080"
-       opacity="0.1254902"
-       empcolor="#808080"
-       empopacity="0.25098039" />
+       originx="0"
+       originy="0"
+       color="#ffffff"
+       opacity="0.05882353"
+       empcolor="#ffffff"
+       empopacity="0.05882353" />
   </sodipodi:namedview>
   <metadata
      id="metadata3845">
@@ -62,7 +82,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -96,7 +116,7 @@
          height="17.99999"
          width="94"
          id="rect4740-3"
-         style="fill:#000000;fill-opacity:1;stroke:none;display:inline" />
+         style="fill:url(#linearGradient6233);fill-opacity:1;stroke:none;display:inline" />
       <g
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"

@@ -2,6 +2,7 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -14,13 +15,13 @@
    height="39.999992"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r13725"
    version="1.0"
    sodipodi:docname="TitleBars.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape">
   <sodipodi:namedview
      id="base"
-     pagecolor="#181e24"
+     pagecolor="#121316"
      bordercolor="#666666"
      borderopacity="1.0"
      gridtolerance="10000"
@@ -28,15 +29,15 @@
      objecttolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="14.375003"
-     inkscape:cx="40"
-     inkscape:cy="19.930431"
+     inkscape:zoom="7.1875015"
+     inkscape:cx="33.548722"
+     inkscape:cy="16.496965"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
-     showgrid="false"
+     inkscape:current-layer="layer2"
+     showgrid="true"
      showborder="false"
      inkscape:window-width="1600"
-     inkscape:window-height="805"
+     inkscape:window-height="806"
      inkscape:window-x="0"
      inkscape:window-y="32"
      showguides="true"
@@ -60,17 +61,25 @@
        spacingx="1px"
        spacingy="1px"
        empspacing="1"
-       empcolor="#313131"
-       empopacity="1"
+       empcolor="#ffffff"
+       empopacity="0.05882353"
        snapvisiblegridlinesonly="true"
-       originx="304px"
-       originy="-1192px"
-       color="#313131"
-       opacity="1"
+       originx="0"
+       originy="0"
+       color="#ffffff"
+       opacity="0.05882353"
        dotted="false" />
   </sodipodi:namedview>
   <defs
      id="defs4">
+    <linearGradient
+       id="linearGradient4296"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#282a32;stop-opacity:1;"
+         offset="0"
+         id="stop4298" />
+    </linearGradient>
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern6342"
@@ -546,6 +555,25 @@
          offset="1"
          id="stop4537" />
     </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4296"
+       id="linearGradient4300"
+       x1="-300"
+       y1="-234.00004"
+       x2="-271.99999"
+       y2="-234.00004"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.99987502,0,-0.02874635)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4296"
+       id="linearGradient4302"
+       x1="-300"
+       y1="-217.9998"
+       x2="-229"
+       y2="-217.9998"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <metadata
      id="metadata7">
@@ -555,7 +583,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -565,16 +593,6 @@
      id="layer1"
      style="display:inline"
      transform="translate(304,242.00003)">
-    <rect
-       style="fill:#191d22;fill-opacity:1;stroke:none"
-       id="rect3603"
-       width="79"
-       height="39.999992"
-       x="-304"
-       y="-242.00003"
-       inkscape:export-filename="/home/rebecca/Personal Projects/LMMS Theme Source Files/Icons.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
     <text
        xml:space="preserve"
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana"
@@ -606,7 +624,7 @@
        id="g6343"
        transform="translate(-846.73831,-7.3886415)" />
     <rect
-       style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
+       style="fill:url(#linearGradient4302);fill-opacity:1;stroke:none;display:inline"
        id="rect7795"
        width="71"
        height="23.999519"
@@ -616,14 +634,14 @@
        sodipodi:nodetypes="ccccc"
        inkscape:connector-curvature="0"
        id="path7797"
-       d="m -271.99999,-237.99954 0,8 -28.00001,-0.001 0,-8 z"
-       style="fill:#000000;fill-opacity:1;stroke:none;display:inline" />
+       d="m -271.99999,-237.99854 0,7.999 -28.00001,-0.001 0,-7.999 z"
+       style="display:inline;fill:url(#linearGradient4300);fill-opacity:1;stroke:none" />
     <text
        sodipodi:linespacing="125%"
        id="text7799"
        y="-231.92722"
        x="-296.76038"
-       style="font-size:5.60224104px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Cabin;-inkscape-font-specification:Cabin"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.60224104px;line-height:125%;font-family:Cabin;-inkscape-font-specification:Cabin;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          y="-231.92722"
          x="-296.76038"
