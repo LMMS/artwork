@@ -2,11 +2,13 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="348"
@@ -28,14 +30,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.8284271"
-     inkscape:cx="126.59074"
-     inkscape:cy="448.51454"
+     inkscape:cx="178.54078"
+     inkscape:cy="372.47884"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      showborder="false"
      inkscape:window-width="1600"
-     inkscape:window-height="806"
+     inkscape:window-height="811"
      inkscape:window-x="0"
      inkscape:window-y="32"
      showguides="true"
@@ -71,14 +73,32 @@
        empcolor="#001a62"
        empopacity="1"
        snapvisiblegridlinesonly="true"
-       originx="304px"
-       originy="-755.99996px"
+       originx="0"
+       originy="0"
        color="#ffffff"
        opacity="0"
        dotted="false" />
   </sodipodi:namedview>
   <defs
-     id="defs4" />
+     id="defs4">
+    <linearGradient
+       id="linearGradient9960"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#282a32;stop-opacity:1;"
+         offset="0"
+         id="stop9962" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient9960"
+       id="linearGradient9964"
+       x1="-300"
+       y1="-219.9998"
+       x2="40"
+       y2="-219.9998"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -87,7 +107,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -98,7 +118,7 @@
      style="display:inline"
      transform="translate(304,242.00003)">
     <rect
-       style="display:inline;fill:#282a32;fill-opacity:1;stroke:none"
+       style="display:inline;fill:url(#linearGradient9964);fill-opacity:1;stroke:none"
        id="rect7795"
        width="340"
        height="19.999521"
@@ -132,15 +152,15 @@
        id="path5321"
        inkscape:connector-curvature="0" />
     <rect
-       y="-197.99905"
+       y="-198"
        x="-300"
        height="44.000008"
        width="340"
        id="rect5710"
-       style="display:inline;fill:#282a32;fill-opacity:1;stroke:none" />
+       style="display:inline;fill:url(#linearGradient9960);fill-opacity:1;stroke:none" />
     <path
-       style="display:inline;fill:#282a32;fill-opacity:1;stroke:none"
-       d="m -271.99999,-205.99904 0,8 -28.00001,-0.001 0,-8 z"
+       style="display:inline;fill:url(#linearGradient9960);fill-opacity:1;stroke:none"
+       d="m -271.99999,-205.999 0,7.999 -28.00001,-0.001 0,-7.999 z"
        id="path5712"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
@@ -148,123 +168,123 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.60224104px;line-height:125%;font-family:Cabin;-inkscape-font-specification:Cabin;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
        x="-292.47592"
-       y="-200.07797"
+       y="-200.07843"
        id="text5714"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5716"
          x="-292.47592"
-         y="-200.07797">16x16</tspan></text>
+         y="-200.07843">16x16</tspan></text>
     <rect
-       y="-142.08644"
-       x="-300.17679"
-       height="99.998009"
-       width="340.17679"
+       y="-141.99998"
+       x="-300"
+       height="100"
+       width="340"
        id="rect5976"
-       style="display:inline;fill:#282a32;fill-opacity:1;stroke:none" />
+       style="display:inline;fill:url(#linearGradient9960);fill-opacity:1;stroke:none" />
     <path
        sodipodi:nodetypes="ccccc"
        inkscape:connector-curvature="0"
        id="path3537"
-       d="m -271.99998,-149.99804 0,8 -28.00001,-0.001 0,-8 z"
-       style="display:inline;fill:#282a32;fill-opacity:1;stroke:none" />
+       d="m -271.99998,-149.999 0,7.999 -28.00001,-0.001 0,-7.999 z"
+       style="display:inline;fill:url(#linearGradient9960);fill-opacity:1;stroke:none" />
     <text
        sodipodi:linespacing="125%"
        id="text3539"
-       y="-144.03775"
-       x="-294.22781"
+       y="-144.03726"
+       x="-294.22778"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.60224104px;line-height:125%;font-family:Cabin;-inkscape-font-specification:Cabin;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
-         y="-144.03775"
-         x="-294.22781"
+         y="-144.03726"
+         x="-294.22778"
          id="tspan3541"
          sodipodi:role="line">20x20</tspan></text>
     <path
-       style="display:inline;fill:#282a32;fill-opacity:1;stroke:none"
-       d="m -271.99998,-37.998036 0,8 -28.00001,-0.001 0,-8 z"
+       style="display:inline;fill:url(#linearGradient9960);fill-opacity:1;stroke:none"
+       d="m -271.99998,-37.998999 0,7.999 -28.00001,-0.001 0,-7.999 z"
        id="path5418"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.60224104px;line-height:125%;font-family:Cabin;-inkscape-font-specification:Cabin;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
-       x="-293.18466"
-       y="-32.037758"
+       x="-293.18463"
+       y="-31.999998"
        id="text5420"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5422"
-         x="-293.18466"
-         y="-32.037758">22x22</tspan></text>
+         x="-293.18463"
+         y="-31.999998">22x22</tspan></text>
     <rect
-       style="display:inline;fill:#282a32;fill-opacity:1;stroke:none"
+       style="display:inline;fill:url(#linearGradient9960);fill-opacity:1;stroke:none"
        id="rect6048"
        width="340"
-       height="59.999001"
+       height="60"
        x="-300"
-       y="-29.998037" />
+       y="-30" />
     <path
        sodipodi:nodetypes="ccccc"
        inkscape:connector-curvature="0"
        id="path3682"
-       d="m -271.99998,70.001964 0,8.000001 -28.00001,-0.001 0,-8.000001 z"
-       style="display:inline;fill:#282a32;fill-opacity:1;stroke:none" />
+       d="m -271.99998,70.001001 0,7.999 -28.00001,-10e-4 0,-7.999 z"
+       style="display:inline;fill:url(#linearGradient9960);fill-opacity:1;stroke:none" />
     <text
        sodipodi:linespacing="125%"
        id="text3684"
-       y="75.962242"
+       y="76"
        x="-293.36716"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.60224104px;line-height:125%;font-family:Cabin;-inkscape-font-specification:Cabin;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
-         y="75.962242"
+         y="76"
          x="-293.36716"
          id="tspan3686"
          sodipodi:role="line">24x24</tspan></text>
     <rect
-       y="78.001953"
+       y="78"
        x="-300"
-       height="31.998999"
+       height="32"
        width="340"
        id="rect3688"
-       style="display:inline;fill:#282a32;fill-opacity:1;stroke:none" />
+       style="display:inline;fill:url(#linearGradient9960);fill-opacity:1;stroke:none" />
     <path
-       style="display:inline;fill:#282a32;fill-opacity:1;stroke:none"
-       d="m -271.99998,114.00196 0,8 -28.00001,-10e-4 0,-8 z"
+       style="display:inline;fill:url(#linearGradient9960);fill-opacity:1;stroke:none"
+       d="m -271.99998,114.001 0,7.999 -28.00001,-0.001 0,-7.999 z"
        id="path4461"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
     <rect
-       style="display:inline;fill:#282a32;fill-opacity:1;stroke:none"
+       style="display:inline;fill:url(#linearGradient9960);fill-opacity:1;stroke:none"
        id="rect4464"
        width="340"
-       height="107.998"
+       height="108"
        x="-300"
-       y="122.00196" />
+       y="121.99996" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.60224104px;line-height:125%;font-family:Cabin;-inkscape-font-specification:Cabin;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
        x="-293.74277"
-       y="119.95945"
+       y="119.95798"
        id="text4466"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4468"
          x="-293.74277"
-         y="119.95945">48x48</tspan></text>
+         y="119.95798">48x48</tspan></text>
     <path
        sodipodi:nodetypes="ccccc"
        inkscape:connector-curvature="0"
        id="path7797"
-       d="m -271.99999,-237.99954 0,8 -28.00001,-0.001 0,-8 z"
-       style="display:inline;fill:#282a32;fill-opacity:1;stroke:none" />
+       d="m -271.99999,-237.99854 0,7.999 -28.00001,-0.001 0,-7.999 z"
+       style="display:inline;fill:url(#linearGradient9960);fill-opacity:1;stroke:none" />
     <text
        sodipodi:linespacing="125%"
        id="text7799"
-       y="-232.03926"
+       y="-232.03876"
        x="-292.38135"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.60224104px;line-height:125%;font-family:Cabin;-inkscape-font-specification:Cabin;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
-         y="-232.03926"
+         y="-232.03876"
          x="-292.38135"
          id="tspan7801"
          sodipodi:role="line">14x14</tspan></text>
@@ -272,26 +292,26 @@
        sodipodi:nodetypes="ccccc"
        inkscape:connector-curvature="0"
        id="path5338"
-       d="m -271.99999,34.000461 0,8 -28.00001,-0.001 0,-8 z"
-       style="display:inline;fill:#282a32;fill-opacity:1;stroke:none" />
+       d="m -271.99999,34.001461 0,7.999 -28.00001,-0.001 0,-7.999 z"
+       style="display:inline;fill:url(#linearGradient9960);fill-opacity:1;stroke:none" />
     <text
        sodipodi:linespacing="125%"
        id="text5340"
        y="39.960747"
-       x="-292.86539"
+       x="-292.86542"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.60224104px;line-height:125%;font-family:Cabin;-inkscape-font-specification:Cabin;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          y="39.960747"
-         x="-292.86539"
+         x="-292.86542"
          id="tspan5342"
          sodipodi:role="line">22x16</tspan></text>
     <rect
-       y="42.00045"
+       y="42"
        x="-300"
-       height="23.999002"
+       height="24"
        width="340"
        id="rect5344"
-       style="display:inline;fill:#282a32;fill-opacity:1;stroke:none" />
+       style="display:inline;fill:url(#linearGradient9960);fill-opacity:1;stroke:none" />
     <rect
        style="opacity:0.15019765;fill:none;stroke:none"
        id="rect5805"
@@ -310,157 +330,202 @@
      style="display:inline"
      transform="translate(304,242.00003)">
     <rect
-       y="-225.00005"
-       x="-279"
-       height="12"
-       width="12"
+       y="-226.00005"
+       x="-280"
+       height="14.000007"
+       width="14"
        id="rect7064"
        style="opacity:0.65;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.32599998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        rx="1.0000063"
-       ry="1.0000063" />
+       ry="1.0000063"
+       inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/exported_icons/moog_saw_wave_active.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
        style="opacity:0.65;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.32599998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect7066"
-       width="12"
-       height="12"
-       x="-263"
-       y="-225.00005"
+       width="14"
+       height="14.000007"
+       x="-264"
+       y="-226.00005"
        rx="1.0000063"
-       ry="1.0000063" />
+       ry="1.0000063"
+       inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/exported_icons/random_wave_inactive.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
-       y="-225.00005"
-       x="-247"
-       height="12"
-       width="12"
+       y="-226.00005"
+       x="-248"
+       height="14.000007"
+       width="14"
        id="rect7068"
        style="opacity:0.65;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.32599998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        rx="1.0000063"
        ry="1.0000063"
-       inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/exported_icons/rect7068.png"
+       inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/exported_icons/random_wave_active.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
        style="opacity:0.65;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.32599998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect7070"
-       width="12"
-       height="12"
-       x="-231"
-       y="-225.00005"
+       width="14"
+       height="14.000007"
+       x="-232"
+       y="-226.00005"
        rx="1.0000063"
-       ry="1.0000063" />
+       ry="1.0000063"
+       inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/exported_icons/triangle_wave_inactive.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
-       y="-225.00005"
-       x="-215"
-       height="12"
-       width="12"
+       y="-226.00005"
+       x="-216"
+       height="14.000007"
+       width="14"
        id="rect7072"
        style="opacity:0.65;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.32599998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        rx="1.0000063"
-       ry="1.0000063" />
+       ry="1.0000063"
+       inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/exported_icons/triangle_wave_active.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
        style="opacity:0.65;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.32599998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect7074"
-       width="12"
-       height="12"
-       x="-199"
-       y="-225.00005"
+       width="14"
+       height="14.000007"
+       x="-200"
+       y="-226.00005"
        rx="1.0000063"
-       ry="1.0000063" />
+       ry="1.0000063"
+       inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/exported_icons/saw_wave_inactive.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
-       y="-225.00005"
-       x="-183"
-       height="12"
-       width="12"
+       y="-226.00005"
+       x="-184"
+       height="14.000007"
+       width="14"
        id="rect7076"
        style="opacity:0.65;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.32599998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        rx="1.0000063"
-       ry="1.0000063" />
+       ry="1.0000063"
+       inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/exported_icons/saw_wave_active.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
        style="opacity:0.65;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.32599998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect7078"
-       width="12"
-       height="12"
-       x="-167"
-       y="-225.00005"
+       width="14"
+       height="14.000007"
+       x="-168"
+       y="-226.00005"
        rx="1.0000063"
-       ry="1.0000063" />
+       ry="1.0000063"
+       inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/exported_icons/sin_wave_inactive.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
-       y="-225.00005"
-       x="-151"
-       height="12"
-       width="12"
+       y="-226.00005"
+       x="-152"
+       height="14.000007"
+       width="14"
        id="rect7080"
        style="opacity:0.65;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.32599998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        rx="1.0000063"
-       ry="1.0000063" />
+       ry="1.0000063"
+       inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/exported_icons/sin_wave_active.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
        style="opacity:0.65;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.32599998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect7082"
-       width="12"
-       height="12"
-       x="-135"
-       y="-225.00005"
+       width="14"
+       height="14.000007"
+       x="-136"
+       y="-226.00005"
        rx="1.0000063"
-       ry="1.0000063" />
+       ry="1.0000063"
+       inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/exported_icons/exp_wave_inactive.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
-       y="-225.00005"
-       x="-119"
-       height="12"
-       width="12"
+       y="-226.00005"
+       x="-120"
+       height="14.000007"
+       width="14"
        id="rect7084"
        style="opacity:0.65;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.32599998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        rx="1.0000063"
-       ry="1.0000063" />
+       ry="1.0000063"
+       inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/exported_icons/exp_wave_active.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
        style="opacity:0.65;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.32599998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect7086"
-       width="12"
-       height="12"
-       x="-103"
-       y="-225.00005"
+       width="14"
+       height="14.000007"
+       x="-104"
+       y="-226.00005"
        rx="1.0000063"
-       ry="1.0000063" />
+       ry="1.0000063"
+       inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/exported_icons/white_noise_wave_inactive.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
-       y="-225.00005"
-       x="-87"
-       height="12"
-       width="12"
+       y="-226.00005"
+       x="-88"
+       height="14.000007"
+       width="14"
        id="rect7088"
        style="opacity:0.65;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.32599998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        rx="1.0000063"
-       ry="1.0000063" />
+       ry="1.0000063"
+       inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/exported_icons/white_noise_wave_active.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
        style="opacity:0.65;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.32599998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect7090"
-       width="12"
-       height="12"
-       x="-71"
-       y="-225.00005"
+       width="14"
+       height="14.000007"
+       x="-72"
+       y="-226.00005"
        rx="1.0000063"
-       ry="1.0000063" />
+       ry="1.0000063"
+       inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/exported_icons/square_wave_inactive.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
-       y="-225.00005"
-       x="-55"
-       height="12"
-       width="12"
+       y="-226.00005"
+       x="-56"
+       height="14.000007"
+       width="14"
        id="rect7092"
        style="opacity:0.65;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.32599998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        rx="1.0000063"
-       ry="1.0000063" />
+       ry="1.0000063"
+       inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/exported_icons/square_wave_active.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
        style="opacity:0.65;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.32599998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect7094"
-       width="12"
-       height="12"
-       x="-39"
-       y="-225.00005"
+       width="14"
+       height="14.000007"
+       x="-40"
+       y="-226.00005"
        rx="1.0000063"
-       ry="1.0000063" />
+       ry="1.0000063"
+       inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/exported_icons/round_square_wave_inactive.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
-       y="-225.00005"
-       x="-23"
-       height="12"
-       width="12"
+       y="-226.00005"
+       x="-24"
+       height="14.000007"
+       width="14"
        id="rect7096"
        style="opacity:0.65;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.32599998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        rx="1.0000063"
@@ -468,17 +533,17 @@
     <rect
        style="opacity:0.65;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.32599998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect7098"
-       width="12"
-       height="12"
-       x="-7"
-       y="-225.00005"
+       width="14"
+       height="14.000007"
+       x="-8"
+       y="-226.00005"
        rx="1.0000063"
        ry="1.0000063" />
     <rect
-       y="-225.00005"
-       x="9"
-       height="12"
-       width="12"
+       y="-226.00005"
+       x="8"
+       height="14.000007"
+       width="14"
        id="rect7100"
        style="opacity:0.65;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.32599998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        rx="1.0000063"
@@ -559,7 +624,7 @@
          sodipodi:role="line" /></text>
     <g
        id="g5533"
-       transform="translate(6,3.4751878e-8)">
+       transform="translate(6,-9.4940275e-4)">
       <g
          id="g5543"
          inkscape:export-filename="/home/rebecca/Personal Projects/LMMS Theme Source Files/default/apply-selected.png"
@@ -583,7 +648,8 @@
       </g>
     </g>
     <g
-       id="g5503">
+       id="g5503"
+       transform="translate(0,-9.4898389e-4)">
       <g
          style="fill:#ff0000"
          id="g5484"
@@ -633,7 +699,8 @@
        id="g5529"
        inkscape:export-filename="/home/rebecca/Personal Projects/LMMS Theme Source Files/default/note.png"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
+       inkscape:export-ydpi="90"
+       transform="translate(0,-9.4940275e-4)">
       <rect
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
@@ -1377,7 +1444,8 @@
        id="g5886"
        inkscape:export-filename="/home/rebecca/Personal Projects/LMMS Theme Source Files/default/add_bb_track.png"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
+       inkscape:export-ydpi="90"
+       transform="translate(0,-9.629895e-4)">
       <g
          id="g3616"
          transform="matrix(1.25,0,0,1.25,122.14245,104.6929)"
@@ -1440,7 +1508,7 @@
     </g>
     <g
        id="g3685"
-       transform="translate(23.99999,0)"
+       transform="translate(23.99999,-9.594895e-4)"
        inkscape:export-filename="/home/rebecca/Personal Projects/LMMS Theme Source Files/Exports/progression_cubic_hermite.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
@@ -1464,7 +1532,7 @@
         </g>
       </g>
       <path
-         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
+         style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
          d="m -222.99999,-131.99904 c 0,0 2,-3 4,-3 3,0 4,6 7,6 3,0 7,-4 7,-4 l 0,13 -18,0 z"
          id="path4810-8"
          inkscape:connector-curvature="0"
@@ -1472,7 +1540,7 @@
     </g>
     <g
        id="g3691"
-       transform="translate(23.99999,0)"
+       transform="translate(23.99999,-9.594895e-4)"
        inkscape:export-filename="/home/rebecca/Personal Projects/LMMS Theme Source Files/Exports/progression_discrete.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
@@ -1500,11 +1568,11 @@
          inkscape:connector-curvature="0"
          id="path4806"
          d="m -198.99999,-131.99904 4,0 0,-3 8,0 0,6 6,0 0,9 -18,0 z"
-         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline" />
+         style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
     </g>
     <g
        id="g3697"
-       transform="translate(23.99999,0)"
+       transform="translate(23.99999,-9.594895e-4)"
        inkscape:export-filename="/home/rebecca/Personal Projects/LMMS Theme Source Files/Exports/automation.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
@@ -1528,7 +1596,7 @@
         </g>
       </g>
       <path
-         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
+         style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
          d="m -174.99999,-131.99904 4,-3 7,6 7,-4 0,13 -18,0 z"
          id="path4802-3"
          inkscape:connector-curvature="0"
@@ -1536,7 +1604,7 @@
     </g>
     <g
        id="g3703"
-       transform="translate(23.99999,0)"
+       transform="translate(23.99999,-9.594895e-4)"
        inkscape:export-filename="/home/rebecca/Personal Projects/LMMS Theme Source Files/Exports/add_automation.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
@@ -1573,7 +1641,7 @@
     </g>
     <g
        id="g3710"
-       transform="translate(23.99999,0)"
+       transform="translate(23.99999,-9.629895e-4)"
        inkscape:export-filename="/home/rebecca/Personal Projects/LMMS Theme Source Files/exported_icons/song_editor.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
@@ -1596,7 +1664,7 @@
            height="16"
            width="16"
            id="rect3867"
-           style="opacity:0.5;fill:none;stroke:none;display:inline"
+           style="display:inline;opacity:0.5;fill:none;stroke:none"
            transform="matrix(1.25,0,0,1.25,266.14245,104.6929)" />
         <g
            id="g5224"
@@ -1610,19 +1678,19 @@
                id="rect4501"
                transform="matrix(0.996442,0,0,0.98786868,-197.49851,-258.31265)"
                d="m 197,195 0,4 6,0 0,-4 -6,0 z m 12,0 0,4 6,0 0,-4 -6,0 z m -12,5 0,4 6,0 0,-4 -6,0 z m 12,0 0,4 6,0 0,-4 -6,0 z m -12,5 0,4 6,0 0,-4 -6,0 z m 12,0 0,4 6,0 0,-4 -6,0 z"
-               style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline" />
+               style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
             <path
                inkscape:connector-curvature="0"
                id="rect4501-5"
                d="m 4.7792228,-65.677257 0,3.95148 5.9786502,0 0,-3.95148 -5.9786502,0 z m 0,4.93935 0,3.95147 5.9786502,0 0,-3.95147 -5.9786502,0 z m 0,4.93934 0,3.95148 5.9786502,0 0,-3.95148 -5.9786502,0 z"
-               style="opacity:0.55;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline" />
+               style="display:inline;opacity:0.55;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
           </g>
         </g>
       </g>
     </g>
     <g
        id="g3729"
-       transform="translate(23.99999,0)"
+       transform="translate(23.99999,-9.594895e-4)"
        inkscape:export-filename="/home/rebecca/Personal Projects/LMMS Theme Source Files/Exports/fx_mixer.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
@@ -1649,11 +1717,11 @@
          inkscape:connector-curvature="0"
          id="rect3549"
          d="m -77.99999,-136.99904 0,2 -2,0 0,9.15625 2,0 0,6.9375 2,0 0,-6.9375 2,0 0,-9.15625 -2,0 0,-2 -2,0 z m 7,0 0,6.84375 -2,0 0,9.15625 2,0 0,2.09375 2,0 0,-2.09375 2,0 0,-9.15625 -2,0 0,-6.84375 -2,0 z m 7,0 0,2 -2,0 0,9.15625 2,0 0,6.9375 2,0 0,-6.9375 2,0 0,-9.15625 -2,0 0,-2 -2,0 z"
-         style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
+         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none" />
     </g>
     <g
        id="g3735"
-       transform="translate(23.99999,0)"
+       transform="translate(23.99999,-9.594895e-4)"
        inkscape:export-filename="/home/rebecca/Personal Projects/LMMS Theme Source Files/Exports/project_save.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
@@ -1681,11 +1749,11 @@
          inkscape:connector-curvature="0"
          id="rect4309-9"
          d="m -54.99999,-136.99904 0,18 18,0 0,-15 -3,-3 0,6 -12,0 0,-6 z m 4,0 0,5 10,0 0,-5 z m 7,1 2,0 0,3 -2,0 z m -8,8 12,0 0,7 -12,0 z"
-         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline" />
+         style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
     </g>
     <g
        id="g3741"
-       transform="translate(23.99999,0)"
+       transform="translate(23.99999,-9.594895e-4)"
        inkscape:export-filename="/home/rebecca/Personal Projects/LMMS Theme Source Files/Exports/project_open.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
@@ -1713,11 +1781,11 @@
          inkscape:connector-curvature="0"
          id="rect4298"
          d="m -29.999991,-134.99904 0,5 16,0 0,-4 -12,0 0,-1 z m -1,6 1,8 16,0 1,-8 z"
-         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline" />
+         style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
     </g>
     <g
        id="g3747"
-       transform="translate(23.999993,3.9990018)"
+       transform="translate(23.999993,-9.594895e-4)"
        inkscape:export-filename="/home/rebecca/Personal Projects/LMMS Theme Source Files/default/project_open_recent.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
@@ -1749,7 +1817,7 @@
     </g>
     <g
        id="g3754"
-       transform="translate(-312.00001,23.999999)"
+       transform="translate(-312.00001,23.999019)"
        inkscape:export-filename="/home/rebecca/Personal Projects/LMMS Theme Source Files/Exports/project_new_from_template.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
@@ -1777,11 +1845,11 @@
          inkscape:connector-curvature="0"
          id="rect4172-7"
          d="m 20.000009,-136.99904 0,18 12,0 0,-13 -4,0 -1,0 0,-1 0,-4 z m 8,0 0,4 4,0 z m -3,7 2,0 0,3 3,0 0,2 -3,0 0,3 -2,0 0,-3 -3,0 0,-2 3,0 z"
-         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline" />
+         style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
     </g>
     <g
        id="g3826"
-       transform="translate(-1e-5,0)"
+       transform="translate(-10e-6,-9.8029613e-4)"
        inkscape:export-filename="/home/rebecca/Personal Projects/LMMS Theme Source Files/default/project_export.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
@@ -1812,7 +1880,7 @@
           </g>
         </g>
         <path
-           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
+           style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
            d="m -270.99999,-112.99904 0,17.999999 12,0 0,-5 -6,0 0,-0.999999 0,-4 0,-1 6,0 0,-2 -4,0 -1,0 0,-1 0,-4 z m 8,0 0,4 4,0 z m 6,4.999 0,3 -7,-0.0273 0,4.0273 7,0 0,3.000003 4,-4.998963 z"
            id="rect4172-8"
            inkscape:connector-curvature="0"
@@ -1821,7 +1889,7 @@
     </g>
     <g
        id="g4843"
-       transform="translate(-23.999999,20.000996)">
+       transform="translate(-23.999999,20.000016)">
       <g
          style="fill:#b3b3b3"
          transform="matrix(1.25,0,0,1.25,146.14244,108.6919)"
@@ -1839,13 +1907,13 @@
       </g>
     </g>
     <path
-       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
-       d="m -244,-112.99904 0,18.000005 12,0 0,-13.000005 -4,0 -1,0 0,-1 0,-4 -7,0 z m 8,0 0,4 4,0 -4,-4 z m -7,3 5,0 0,1 -5,0 0,-1 z m 0,3 10,0 0,1 -10,0 0,-1 z m 0,3 10,0 0,1 -10,0 0,-1 z m 0,3 10,0 0,1.000005 -10,0 0,-1.000005 z m 0,3.000005 10,0 0,1 -10,0 0,-1 z"
+       style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m -244,-114.00002 0,18.000002 12,0 0,-13.000002 -4,0 -1,0 0,-1 0,-4 -7,0 z m 8,0 0,4 4,0 -4,-4 z m -7,3 5,0 0,1 -5,0 0,-1 z m 0,3 10,0 0,1 -10,0 0,-1 z m 0,3 10,0 0,1 -10,0 0,-1 z m 0,3 10,0 0,1 -10,0 0,-1 z m 0,3.000002 10,0 0,1 -10,0 0,-1 z"
        id="rect4172-39"
        inkscape:connector-curvature="0" />
     <g
        id="g3814"
-       transform="translate(-1e-5,0)"
+       transform="translate(-10e-6,-9.8029613e-4)"
        inkscape:export-filename="/home/rebecca/Personal Projects/LMMS Theme Source Files/Exports/project_new.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
@@ -1873,11 +1941,11 @@
          inkscape:connector-curvature="0"
          id="rect4172"
          d="m -219.99999,-112.99904 0,18 12,0 0,-13 -4,0 -1,0 0,-1 0,-4 z m 8,0 0,4 4,0 z"
-         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline" />
+         style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
     </g>
     <g
        id="g3808"
-       transform="translate(-1e-5,0)"
+       transform="translate(-10e-6,-9.8029613e-4)"
        inkscape:export-filename="/home/rebecca/Personal Projects/LMMS Theme Source Files/Exports/record_accompany.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
@@ -1904,11 +1972,11 @@
          inkscape:connector-curvature="0"
          id="path4153"
          d="m -189.99999,-111.99904 a 8,8 0 0 0 -8,8 8,8 0 0 0 8,8 8,8 0 0 0 8,-8 8,8 0 0 0 -8,-8 z m -3,3 4,2.5 4,2.5 -4,2.5 -4,2.5 0,-5 0,-5 z"
-         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline" />
+         style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
     </g>
     <g
        id="g3802"
-       transform="translate(-1e-5,0)"
+       transform="translate(-10e-6,-9.8029613e-4)"
        inkscape:export-filename="/home/rebecca/Personal Projects/LMMS Theme Source Files/Exports/record.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
@@ -1935,11 +2003,11 @@
          inkscape:connector-curvature="0"
          id="path4147"
          d="m -165.99999,-111.99904 a 8,8 0 0 0 -8,8 8,8 0 0 0 8,8 8,8 0 0 0 8,-8 8,8 0 0 0 -8,-8 z m 0,4 a 4,4 0 0 1 4,4 4,4 0 0 1 -4,4 4,4 0 0 1 -4,-4 4,4 0 0 1 4,-4 z"
-         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline" />
+         style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
     </g>
     <g
        id="g3796"
-       transform="translate(-1e-5,0)"
+       transform="translate(-10e-6,-9.8029613e-4)"
        inkscape:export-filename="/home/rebecca/Personal Projects/LMMS Theme Source Files/Exports/play.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
@@ -1963,7 +2031,7 @@
         </g>
       </g>
       <path
-         style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
          d="m -147.99999,-95.99904 0,-16 12,8 z"
          id="path6610-5"
          inkscape:connector-curvature="0"
@@ -1971,7 +2039,7 @@
     </g>
     <g
        id="g3790"
-       transform="translate(-1e-5,0)"
+       transform="translate(-10e-6,-9.8029613e-4)"
        inkscape:export-filename="/home/rebecca/Personal Projects/LMMS Theme Source Files/Exports/stop.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
@@ -1995,14 +2063,14 @@
         </g>
       </g>
       <path
-         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
+         style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
          d="m -124.99999,-110.99904 14,0 0,14.000001 -14,0 z"
          id="rect4141-2"
          inkscape:connector-curvature="0" />
     </g>
     <g
        id="g3784"
-       transform="translate(-1e-5,0)"
+       transform="translate(-10e-6,-9.8029613e-4)"
        inkscape:export-filename="/home/rebecca/Personal Projects/LMMS Theme Source Files/Exports/pause.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
@@ -2028,12 +2096,12 @@
       <path
          id="rect4233"
          d="m -99.99999,-110.99904 0,14 3.999999,0 0,-14 -3.999999,0 z m 7.999999,0 0,14 4,0 0,-14 -4,0 z"
-         style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
          inkscape:connector-curvature="0" />
     </g>
     <g
        id="g3778"
-       transform="translate(-1e-5,0)"
+       transform="translate(-10e-6,-9.8029613e-4)"
        inkscape:export-filename="/home/rebecca/Personal Projects/LMMS Theme Source Files/default/step_btn_remove.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
@@ -2059,12 +2127,12 @@
       <path
          id="rect4251"
          d="m -77.999991,-105.99904 16,0 0,4 -16,0 z"
-         style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
          inkscape:connector-curvature="0" />
     </g>
     <g
        id="g3772"
-       transform="translate(-1e-5,0)"
+       transform="translate(-10e-6,-9.8029613e-4)"
        inkscape:export-filename="/home/rebecca/Personal Projects/LMMS Theme Source Files/default/step_btn_add.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
@@ -2091,11 +2159,11 @@
          inkscape:connector-curvature="0"
          id="rect4243"
          d="m -47.999991,-111.99904 0,6 -6,0 0,4 6,0 0,6 4,0 0,-6 6,0 0,-4 -6,0 0,-6 -4,0 z"
-         style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
+         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none" />
     </g>
     <g
        id="g3768"
-       transform="translate(-1e-5,0)"
+       transform="translate(-10e-6,-9.6078613e-4)"
        inkscape:export-filename="/home/rebecca/Personal Projects/LMMS Theme Source Files/Exports/edit_draw.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
@@ -2105,7 +2173,7 @@
          height="20"
          width="20"
          id="rect4226-8"
-         style="opacity:0.5;fill:none;stroke:none;display:inline"
+         style="display:inline;opacity:0.5;fill:none;stroke:none"
          inkscape:export-filename="C:\Users\becca\Desktop\edit_draw.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
@@ -2117,7 +2185,7 @@
     </g>
     <g
        id="g3764"
-       transform="translate(-1e-5,0)"
+       transform="translate(-10e-6,-9.8078613e-4)"
        inkscape:export-filename="/home/rebecca/Personal Projects/LMMS Theme Source Files/Exports/edit_select.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
@@ -2125,7 +2193,7 @@
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
          inkscape:export-filename="C:\Users\becca\Desktop\edit_draw.png"
-         style="opacity:0.5;fill:none;stroke:none;display:inline"
+         style="display:inline;opacity:0.5;fill:none;stroke:none"
          id="rect5129"
          width="20"
          height="20"
@@ -2135,11 +2203,11 @@
          inkscape:connector-curvature="0"
          id="rect4262-4"
          d="m -7.99999,-113.99904 0,2 2,0 0,-2 -2,0 z m 3,0 0,2 2,0 0,-2 -2,0 z m 3,0 0,2 2,0 0,-2 -2,0 z m 3,0 0,2 2,0 0,-2 -2,0 z m 3,0 0,2 2,0 0,-2 -2,0 z m 3,0 0,2 2,0 0,-2 -2,0 z m 3,0 0,2 2,0 0,-2 -2,0 z m -18,3 0,2 2,0 0,-2 -2,0 z m 18,0 0,2 2,0 0,-2 -2,0 z m -18,3 0,2 2,0 0,-2 -2,0 z m 18,0 0,2 2,0 0,-2 -2,0 z m -18,3 0,2 2,0 0,-2 -2,0 z m 18,0 0,2 2,0 0,-2 -2,0 z m -18,3 0,2.000003 2,0 0,-2.000003 -2,0 z m 18,0 0,2.000003 2,0 0,-2.000003 -2,0 z m -18,3.000003 0,2 2,0 0,-2 -2,0 z m 18,0 0,2 2,0 0,-2 -2,0 z m -18,3 0,2 2,0 0,-2 -2,0 z m 3,0 0,2 2,0 0,-2 -2,0 z m 3,0 0,2 2,0 0,-2 -2,0 z m 3,0 0,2 2,0 0,-2 -2,0 z m 3,0 0,2 2,0 0,-2 -2,0 z m 3,0 0,2 2,0 0,-2 -2,0 z m 3,0 0,2 2,0 0,-2 -2,0 z"
-         style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
+         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none" />
     </g>
     <g
        id="g3637"
-       transform="translate(144,43.999996)"
+       transform="translate(144,43.999049)"
        inkscape:export-filename="/home/rebecca/Personal Projects/LMMS Theme Source Files/Exports/keep_stop_position.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
@@ -2160,13 +2228,13 @@
       </g>
       <path
          inkscape:connector-curvature="0"
-         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;display:inline"
+         style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
          d="m -293,-128.00004 0,8 6,-4 -6,-4 z m 8,0 0,8 6,-4 -6,-4 z"
          id="path4897-3" />
     </g>
     <g
        id="g3838"
-       transform="translate(-1e-5,-9.9950708e-4)"
+       transform="translate(-10e-6,-0.00194714)"
        inkscape:export-filename="/home/rebecca/Personal Projects/LMMS Theme Source Files/default/edit_copy.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
@@ -2194,7 +2262,7 @@
          style="display:inline"
          transform="translate(-295.99999,-89.99904)">
         <path
-           style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+           style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
            d="m 9,153 0,14 2,0 0,-12 12,0 0,-2 -14,0 z m 4,4 0,14 14,0 0,-14 -14,0 z"
            transform="translate(-8,-151.99999)"
            id="rect4358-6"
@@ -2203,7 +2271,7 @@
     </g>
     <g
        id="g3846"
-       transform="translate(-1e-5,-9.9950708e-4)"
+       transform="translate(-10e-6,-0.00194714)"
        inkscape:export-filename="/home/rebecca/Personal Projects/LMMS Theme Source Files/Exports/master_pitch.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
@@ -2231,11 +2299,11 @@
          inkscape:connector-curvature="0"
          id="rect4412"
          d="m -266.99999,-88.99904 0,1 0,1 6,0 0,1 4,0 0,-3 z m 6,4 0,1 -6,0 0,1 6,0 0,1 4,0 0,-3 z m 0,4 0,1 -6,0 0,1 6,0 0,1 4,0 0,-3 z m 0,4 0,1 -6,0 0,2 10,0 0,-3 z"
-         style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
+         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none" />
     </g>
     <g
        id="g3852"
-       transform="translate(-1e-5,-9.9950708e-4)"
+       transform="translate(-10e-6,-0.00194714)"
        inkscape:export-filename="/home/rebecca/Personal Projects/LMMS Theme Source Files/Exports/master_volume.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
@@ -2262,11 +2330,11 @@
          inkscape:connector-curvature="0"
          id="rect4614"
          d="m -242.99999,-88.99904 1.66602,3 8.33398,0 0,-3 -10,0 z m 2.22266,4 1.66601,3 6.11133,0 0,-3 -7.77734,0 z m 2.22265,4 5.55469,10 0,-10 -5.55469,0 z"
-         style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
+         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none" />
     </g>
     <g
        id="g3859"
-       transform="translate(-1e-5,-9.9950708e-4)"
+       transform="translate(-10e-6,-0.00194714)"
        inkscape:export-filename="/home/rebecca/Personal Projects/LMMS Theme Source Files/Exports/autoscroll_off.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
@@ -2290,7 +2358,7 @@
         </g>
       </g>
       <path
-         style="opacity:0.35;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+         style="display:inline;opacity:0.35;fill:#ffffff;fill-opacity:1;stroke:none"
          d="m -221.96304,-81.99904 8.96305,0 0,-4 7,6 -7,6 0,-4 -9,0 z"
          id="path4890"
          inkscape:connector-curvature="0"
@@ -2298,7 +2366,7 @@
     </g>
     <g
        id="g3866"
-       transform="translate(-1e-5,-9.9950708e-4)"
+       transform="translate(-10e-6,-0.00194714)"
        inkscape:export-filename="/home/rebecca/Personal Projects/LMMS Theme Source Files/Exports/autoscroll_on.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
@@ -2326,11 +2394,11 @@
          inkscape:connector-curvature="0"
          id="rect4885"
          d="m -197.96304,-81.99904 8.96305,0 0,-4 7,6 -7,6 0,-4 -9,0 z"
-         style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
+         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none" />
     </g>
     <g
        id="g3872"
-       transform="translate(-1e-5,-9.9950708e-4)"
+       transform="translate(-10e-6,-0.00194714)"
        inkscape:export-filename="/home/rebecca/Personal Projects/LMMS Theme Source Files/Exports/back_to_start.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
@@ -2356,12 +2424,12 @@
       <path
          id="path4897-8"
          d="m -166.99999,-83.99904 -6,4 6,4 0,-8 z m 8,0 -6,4 6,4 0,-8 z"
-         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;display:inline"
+         style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
          inkscape:connector-curvature="0" />
     </g>
     <g
        id="g3878"
-       transform="translate(-1e-5,-9.9950708e-4)"
+       transform="translate(-10e-6,-0.00194714)"
        inkscape:export-filename="/home/rebecca/Personal Projects/LMMS Theme Source Files/Exports/back_to_zero.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
@@ -2387,12 +2455,12 @@
       <path
          id="path4895"
          d="m -126.99999,-85.99904 0,12 2,0 0,-12 -2,0 z m 10,2 -6,4 6,4 0,-8 z m 8,0 -6,4 6,4 0,-8 z"
-         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;display:inline"
+         style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
          inkscape:connector-curvature="0" />
     </g>
     <g
        id="g4859"
-       transform="matrix(1.1,0,0,1.1,73.399983,81.347517)"
+       transform="matrix(1.1,0,0,1.1,73.399983,81.346568)"
        inkscape:export-filename="/home/rebecca/Personal Projects/LMMS Theme Source Files/default/add.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
@@ -2407,7 +2475,7 @@
            style="opacity:0.5;fill:none;stroke:none" />
         <path
            sodipodi:nodetypes="ccccccccccccc"
-           style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;marker:none;enable-background:accumulate"
            d="m -225.81817,-70.315958 0,6.419397 -6.36363,-0.05576 0,3.636363 6.36363,0 0,6.363637 3.63637,0 0,-6.363637 6.36363,0 0,-3.636363 -6.36363,0 0,-6.363637 z"
            id="path4802"
            inkscape:connector-curvature="0" />
@@ -2415,7 +2483,7 @@
     </g>
     <g
        id="g4460"
-       transform="translate(-168,24)"
+       transform="translate(-168,24.000008)"
        inkscape:export-filename="/home/rebecca/Personal Projects/LMMS Theme Source Files/default/reload.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
@@ -2429,12 +2497,12 @@
       <path
          id="path4409"
          transform="translate(-300,-330.00006)"
-         d="m 326,242 c -4.41828,0 -8,3.58173 -8,8 0,4.41827 3.58172,8 8,8 4.07829,0 7.44369,-3.05556 7.9375,-7 l -2.03125,0 c -0.47298,2.84141 -2.93063,5 -5.90625,5 -3.3137,0 -6,-2.6863 -6,-6 0,-3.3137 2.6863,-6 6,-6 1.66334,0 3.16205,0.66061 4.25,1.75 L 328,248 l 6,0 0,-6 -2.34375,2.34375 C 330.21025,242.89104 328.21248,242 326,242 z"
+         d="m 326,242 c -4.41828,0 -8,3.58173 -8,8 0,4.41827 3.58172,8 8,8 4.07829,0 7.44369,-3.05556 7.9375,-7 l -2.03125,0 c -0.47298,2.84141 -2.93063,5 -5.90625,5 -3.3137,0 -6,-2.6863 -6,-6 0,-3.3137 2.6863,-6 6,-6 1.66334,0 3.16205,0.66061 4.25,1.75 L 328,248 l 6,0 0,-6 -2.34375,2.34375 C 330.21025,242.89104 328.21248,242 326,242 Z"
          style="fill:#ffffff;fill-opacity:1;stroke:none"
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="matrix(-1.2197244,0,0,1.2120721,-492.06303,-169.29998)"
+       transform="matrix(-1.2197244,0,0,1.2120721,-492.06303,-169.29997)"
        id="g4884"
        style="fill:#ffffff;fill-opacity:1"
        inkscape:export-filename="/home/rebecca/Personal Projects/LMMS Theme Source Files/default/edit_move.png"
@@ -2443,7 +2511,7 @@
       <g
          id="g4924">
         <path
-           style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4;marker:none;enable-background:accumulate"
            d="m 86,264 -4,4 3,0 0,5 -5,0 0,-3 -4,4 4,4 0,-3 5,0 0,5 -3,0 4,4 4,-4 -3,0 0,-5 5,0 0,3 4,-4 -4,-4 0,3 -5,0 0,-5 3,0 -4,-4 z"
            transform="matrix(-0.81985734,0,0,0.82503343,-196.81744,-132.58292)"
            id="path4396"
@@ -2455,7 +2523,7 @@
     </g>
     <g
        id="g5304"
-       transform="translate(-122,17.999986)"
+       transform="translate(-122,17.999993)"
        style="fill:#ffffff;fill-opacity:1"
        inkscape:export-filename="/media/freedrive/RebeccaCurrent2016/Personal Projects/LMMS Theme Source Files/exported_icons/loop_points_on.png"
        inkscape:export-xdpi="90"
@@ -2468,7 +2536,7 @@
         <g
            id="g6109">
           <rect
-             style="opacity:0.5;fill:none;stroke:none;display:inline"
+             style="display:inline;opacity:0.5;fill:none;stroke:none"
              id="rect4306"
              width="20"
              height="20"
@@ -2488,14 +2556,14 @@
     </g>
     <g
        id="g3656"
-       transform="translate(-192,24.000002)"
+       transform="translate(-192,24.000008)"
        inkscape:export-filename="/media/freedrive/RebeccaCurrent2016/Personal Projects/LMMS Theme Source Files/exported_icons/loop_points_off.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <g
          id="g6105">
         <rect
-           style="opacity:0.5;fill:none;stroke:none;display:inline"
+           style="display:inline;opacity:0.5;fill:none;stroke:none"
            id="rect4321"
            width="20"
            height="20"
@@ -2516,7 +2584,7 @@
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
        inkscape:export-filename="/home/rebecca/Personal Projects/LMMS Theme Source Files/default/bb_track.png"
-       transform="translate(24.000001,-3.9990035)"
+       transform="translate(24.000001,-3.999963)"
        id="g4201">
       <g
          style="fill:#b3b3b3"
@@ -2930,7 +2998,7 @@
        id="text4737" />
     <g
        id="g3902"
-       transform="matrix(1.1,0,0,1.0998115,-49.60001,149.37852)"
+       transform="matrix(1.1,0,0,1.0998115,-49.60001,149.3738)"
        style="fill:none">
       <g
          style="fill:none"
@@ -2950,7 +3018,7 @@
     </g>
     <g
        id="g5452"
-       transform="translate(28.999989,-0.03034614)"
+       transform="translate(28.999989,-0.0312956)"
        inkscape:export-filename="/home/rebecca/Personal Projects/LMMS Theme Source Files/exported_icons/tempo_sync.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
@@ -3070,7 +3138,7 @@
        id="g5442" />
     <g
        id="g5467"
-       transform="translate(-24,0)"
+       transform="translate(-24,-9.4762939e-4)"
        style="fill:#ff0000"
        inkscape:export-filename="/home/rebecca/Personal Projects/LMMS Theme Source Files/exported_icons/instrument_track.png"
        inkscape:export-xdpi="90"
@@ -3112,7 +3180,7 @@
     </g>
     <g
        id="g4604"
-       transform="translate(216,-23.999977)"
+       transform="translate(216,-24.000937)"
        inkscape:export-filename="/home/rebecca/Personal Projects/LMMS Theme Source Files/default/edit_paste.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
@@ -3130,7 +3198,7 @@
            style="fill:none">
           <rect
              transform="scale(-1,1)"
-             style="opacity:0.5;fill:none;stroke:none;display:inline"
+             style="display:inline;opacity:0.5;fill:none;stroke:none"
              id="rect4472"
              width="20"
              height="20"
@@ -3150,7 +3218,8 @@
        id="g3612"
        inkscape:export-filename="/home/rebecca/Personal Projects/LMMS Theme Source Files/default/sample_track.png"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
+       inkscape:export-ydpi="90"
+       transform="translate(0,-9.629895e-4)">
       <g
          style="fill:none"
          transform="matrix(1.25,0,0,1.25,98.142451,104.6929)"
@@ -3172,13 +3241,13 @@
          inkscape:export-filename="/home/rebecca/Personal Projects/LMMS Theme Source Files/default/sample_track.png"
          id="rect4894"
          d="m -267.99999,-136.00004 0,16 1,0 0,-16 z m 8,0 0,15 1,0 0,-15 z m -6,2 0,11 1,0 0,-11 z m 4,1 0,9 1,0 0,-9 z m 4,0 0,9 1,0 0,-9 z m -12,1 0,7 1,0 0,-7 z m 6,1 0,5 1,0 0,-5 z m 8,0 0,5 1,0 0,-5 z m -16,1 0,3 1,0 0,-3 z m 18,-2 -1e-5,7 1,0 1e-5,-7 z"
-         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
+         style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccc" />
     </g>
     <g
        id="g5139"
-       transform="translate(0,32)"
+       transform="translate(0,31.999991)"
        inkscape:export-filename="/home/rebecca/Personal Projects/LMMS Theme Source Files/default/analysis.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
@@ -3188,17 +3257,17 @@
          height="47.999989"
          width="48"
          id="rect5103"
-         style="fill:none;stroke:none;display:inline" />
+         style="display:inline;fill:none;stroke:none" />
       <path
          sodipodi:nodetypes="sssssssssccccsscscsssssccccccccccccccccccccccccccccccccccccccccsssssssssssssss"
          inkscape:connector-curvature="0"
          id="path5112"
          d="m -84,100.99996 c -1,0 -2,1 -2,2 l 0,30 c 0,1 1,2 2,2 l 40,0 c 1,0 2,-1 2,-2 l 0,-30 c 0,-1 -1,-2 -2,-2 z m 0.84375,2 32.15625,0 c 1,0 1,1 1,1 l 0,22 c 0,0 0,1 -1,1 l -32,0 c -1,0 -1,-1 -1,-1 l 0,-22 c 0,-0.75 0.5625,-0.95312 0.84375,-1 z m 37.15625,0 c 1.10457,0 2,0.89543 2,2 0,1.10457 -0.89543,2 -2,2 -1.10457,0 -2,-0.89543 -2,-2 0,-1.10457 0.89543,-2 2,-2 z m -28,3 0,19 2,0 0,-19 z m 12,0 0,18 2,0 0,-18 z m -8,1 0,15 2,0 0,-15 z m 12,1 0,13 2,0 0,-13 z m -20,1 0,11 2,0 0,-11 z m 12,2 0,8 2,0 0,-8 z m -16,1 0,5 2,0 0,-5 z m 28,1 0,4 2,0 0,-4 z m 8,3 c 1.10457,0 2,0.89543 2,2 0,1.10457 -0.89543,2 -2,2 -1.10457,0 -2,-0.89543 -2,-2 0,-1.10457 0.89543,-2 2,-2 z m -36,13 c 1.10457,0 2,0.89543 2,2 0,1.10457 -0.89543,2 -2,2 -1.10457,0 -2,-0.89543 -2,-2 0,-1.10457 0.89543,-2 2,-2 z m 36,0 c 1.10457,0 2,0.89543 2,2 0,1.10457 -0.89543,2 -2,2 -1.10457,0 -2,-0.89543 -2,-2 0,-1.10457 0.89543,-2 2,-2 z"
-         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline" />
+         style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
     </g>
     <g
        id="g4854"
-       transform="translate(215.99997,-24.000029)"
+       transform="translate(215.99997,-24.00098)"
        inkscape:export-filename="/home/rebecca/Personal Projects/LMMS Theme Source Files/default/edit_cut.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
@@ -3217,7 +3286,7 @@
            inkscape:connector-curvature="0"
            id="rect4763"
            transform="translate(-300.00003,-330.0001)"
-           d="m 32,266 0,4 12,12 c 1.78846,-0.39893 3,-2.0913 3,-4 0,-2.20914 -1.79086,-4 -4,-4 -0.84635,0 -1.60998,0.30155 -2.25,0.75 z m 12,0 -5.5,5.5 2,2 3.5,-3.5 z m -11,8 c -2.20914,0 -4,1.79086 -4,4 0,1.9087 1.21154,3.60107 3,4 l 5.5,-5.5 -2,-2 -0.25,0.25 C 34.60998,274.30155 33.84635,274 33,274 z m 0,1 c 1.08482,0 2.0356,0.57486 2.5625,1.4375 l -4.125,4.125 C 30.57486,280.0356 30,279.08481 30,278 c 0,-1.65685 1.34314,-3 3,-3 z m 10,0 c 1.65686,0 3,1.34315 3,3 0,1.08481 -0.57486,2.0356 -1.4375,2.5625 l -4.125,-4.125 C 40.9644,275.57486 41.91518,275 43,275 z"
+           d="m 32,266 0,4 12,12 c 1.78846,-0.39893 3,-2.0913 3,-4 0,-2.20914 -1.79086,-4 -4,-4 -0.84635,0 -1.60998,0.30155 -2.25,0.75 z m 12,0 -5.5,5.5 2,2 3.5,-3.5 z m -11,8 c -2.20914,0 -4,1.79086 -4,4 0,1.9087 1.21154,3.60107 3,4 l 5.5,-5.5 -2,-2 -0.25,0.25 C 34.60998,274.30155 33.84635,274 33,274 Z m 0,1 c 1.08482,0 2.0356,0.57486 2.5625,1.4375 l -4.125,4.125 C 30.57486,280.0356 30,279.08481 30,278 c 0,-1.65685 1.34314,-3 3,-3 z m 10,0 c 1.65686,0 3,1.34315 3,3 0,1.08481 -0.57486,2.0356 -1.4375,2.5625 l -4.125,-4.125 C 40.9644,275.57486 41.91518,275 43,275 Z"
            style="fill:#ffffff;fill-opacity:1;stroke:none" />
       </g>
     </g>
@@ -3340,7 +3409,7 @@
     </g>
     <g
        id="g4452"
-       transform="translate(168.00001,-24.000009)"
+       transform="translate(168.00001,-24.000927)"
        inkscape:export-filename="/media/freedrive/RebeccaCurrent2016/Personal Projects/LMMS Theme Source Files/exported_icons/metronome.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
@@ -3393,17 +3462,10 @@
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccsssss" />
     </g>
-    <rect
-       y="130"
-       x="-236"
-       height="48"
-       width="48"
-       id="rect4525"
-       style="fill:none;stroke:none" />
     <path
        inkscape:connector-curvature="0"
        style="fill:#ffffff;fill-opacity:1;stroke:none"
-       d="m -221,126.00096 c -12.70255,0 -23,10.29745 -23,23 0,12.70255 10.29745,23 23,23 12.70255,0 23,-10.29745 23,-23 0,-12.70255 -10.29745,-23 -23,-23 z m -1,5.0625 0,4.9375 2,0 0,-4.9375 c 4.21668,0.23202 8.01665,1.91891 10.96875,4.5625 l -3.46875,3.46875 1.40625,1.40625 3.46875,-3.46875 c 2.64359,2.9521 4.33048,6.75207 4.5625,10.96875 l -4.9375,0 0,2 4.9375,0 c -0.23202,4.21668 -1.91891,8.01665 -4.5625,10.96875 l -3.46875,-3.46875 -1.40625,1.40625 3.46875,3.46875 c -3.18496,2.85211 -7.35692,4.625 -11.96875,4.625 -4.61183,0 -8.78379,-1.77289 -11.96875,-4.625 l 3.46875,-3.46875 -1.40625,-1.40625 -3.46875,3.46875 c -2.64359,-2.9521 -4.33048,-6.75207 -4.5625,-10.96875 l 4.9375,0 0,-2 -4.9375,0 c 0.23202,-4.21668 1.91891,-8.01665 4.5625,-10.96875 l 3.46875,3.46875 1.40625,-1.40625 -3.46875,-3.46875 c 2.9521,-2.64359 6.75207,-4.33048 10.96875,-4.5625 z m 8.0625,10.875 -8.46875,5.65625 c -0.78105,0.78105 -0.78105,2.03145 0,2.8125 0.78105,0.78105 2.03145,0.78105 2.8125,0 l 5.65625,-8.46875 z"
+       d="m -221,125.99996 c -12.70255,0 -23,10.29745 -23,23 0,12.70255 10.29745,23 23,23 12.70255,0 23,-10.29745 23,-23 0,-12.70255 -10.29745,-23 -23,-23 z m -1,5.0625 0,4.9375 2,0 0,-4.9375 c 4.21668,0.23202 8.01665,1.91891 10.96875,4.5625 l -3.46875,3.46875 1.40625,1.40625 3.46875,-3.46875 c 2.64359,2.9521 4.33048,6.75207 4.5625,10.96875 l -4.9375,0 0,2 4.9375,0 c -0.23202,4.21668 -1.91891,8.01665 -4.5625,10.96875 l -3.46875,-3.46875 -1.40625,1.40625 3.46875,3.46875 c -3.18496,2.85211 -7.35692,4.625 -11.96875,4.625 -4.61183,0 -8.78379,-1.77289 -11.96875,-4.625 l 3.46875,-3.46875 -1.40625,-1.40625 -3.46875,3.46875 c -2.64359,-2.9521 -4.33048,-6.75207 -4.5625,-10.96875 l 4.9375,0 0,-2 -4.9375,0 c 0.23202,-4.21668 1.91891,-8.01665 4.5625,-10.96875 l 3.46875,3.46875 1.40625,-1.40625 -3.46875,-3.46875 c 2.9521,-2.64359 6.75207,-4.33048 10.96875,-4.5625 z m 8.0625,10.875 -8.46875,5.65625 c -0.78105,0.78105 -0.78105,2.03145 0,2.8125 0.78105,0.78105 2.03145,0.78105 2.8125,0 l 5.65625,-8.46875 z"
        id="path5018" />
     <g
        id="g4555"
@@ -3448,7 +3510,7 @@
            style="opacity:0.5;fill:none;stroke:none" />
       </g>
       <path
-         style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
          d="m -190,99.99996 0,29 1.69592,-15 c 0.11367,-1.00541 1.30408,-2 2.30408,-2 l 38,0 0,-9 c 0,-1 -1,-2 -2,-2 l -26,0 -2,-3 -10,0 c -1,0 -2,1 -2,2 z m 3.68765,16 -2.68765,22 41,0 3.67285,-21.99622 C -144.15964,115.00056 -145,113.99996 -146,113.99996 l -38,0 c -1,0 -2.14845,1 -2.31235,2 z"
          id="path4866"
          inkscape:connector-curvature="0"
@@ -3517,7 +3579,7 @@
        sodipodi:nodetypes="cccccccsccscccsccsccccccccsccsc"
        inkscape:connector-curvature="0"
        id="rect5182"
-       d="m -219,186.00095 -15,8.99901 0,14 15,9.00099 z m 13.375,2.0625 -2.09375,2.15625 c 3.48165,2.74408 5.71875,7.00164 5.71875,11.78125 0,4.77628 -2.24128,9.00573 -5.71875,11.75 l 2.09375,2.1875 c 4.04297,-3.29816 6.625,-8.31228 6.625,-13.9375 0,-5.62521 -2.58203,-10.63933 -6.625,-13.9375 z m -4.1875,4.34375 -2.09375,2.1875 c 2.35604,1.61975 3.90625,4.32907 3.90625,7.40625 0,3.07719 -1.55021,5.78651 -3.90625,7.40625 l 2.09375,2.1875 c 2.91944,-2.19342 4.8125,-5.66595 4.8125,-9.59375 0,-3.92779 -1.89306,-7.40033 -4.8125,-9.59375 z m -31.1875,2.59276 0,14 5,0 0,-14 z m 26.96875,1.81349 -2.1875,2.3125 c 1.27428,0.34305 2.21875,1.49229 2.21875,2.875 0,1.38272 -0.94447,2.53195 -2.21875,2.875 l 2.1875,2.3125 c 1.81135,-1.02615 3.03125,-2.95454 3.03125,-5.1875 0,-2.23296 -1.2199,-4.16135 -3.03125,-5.1875 z"
+       d="m -219,186 -15,8.99901 0,14 15,9.00099 z m 13.375,2.0625 -2.09375,2.15625 C -204.2371,192.96283 -202,197.22039 -202,202 c 0,4.77628 -2.24128,9.00573 -5.71875,11.75 l 2.09375,2.1875 c 4.04297,-3.29816 6.625,-8.31228 6.625,-13.9375 0,-5.62521 -2.58203,-10.63933 -6.625,-13.9375 z m -4.1875,4.34375 -2.09375,2.1875 C -209.55021,196.2135 -208,198.92282 -208,202 c 0,3.07719 -1.55021,5.78651 -3.90625,7.40625 l 2.09375,2.1875 C -206.89306,209.40033 -205,205.9278 -205,202 c 0,-3.92779 -1.89306,-7.40033 -4.8125,-9.59375 z m -31.1875,2.59276 0,14 5,0 0,-14 z m 26.96875,1.81349 -2.1875,2.3125 c 1.27428,0.34305 2.21875,1.49229 2.21875,2.875 0,1.38272 -0.94447,2.53195 -2.21875,2.875 l 2.1875,2.3125 C -212.2199,206.16135 -211,204.23296 -211,202 c 0,-2.23296 -1.2199,-4.16135 -3.03125,-5.1875 z"
        style="fill:#ffffff;fill-opacity:1;stroke:none" />
     <g
        style="fill:#ff0000"
@@ -3562,7 +3624,7 @@
     </g>
     <g
        id="g3635"
-       transform="translate(168,-23.999998)">
+       transform="translate(168,-24.000949)">
       <g
          style="fill:none"
          id="g3602">
@@ -3587,7 +3649,7 @@
     </g>
     <g
        id="g5614"
-       transform="translate(72,-110)"
+       transform="translate(72,-110.00095)"
        style="fill:#cccccc"
        inkscape:export-filename="/home/rebecca/Personal Projects/LMMS Theme Source Files/default/flip_y.png"
        inkscape:export-xdpi="90"
@@ -3608,7 +3670,7 @@
     </g>
     <g
        id="g5618"
-       transform="matrix(0,-1,1,0,-315.99996,-102.00004)"
+       transform="matrix(0,-1,1,0,-315.99996,-102.00003)"
        style="fill:#b3b3b3"
        inkscape:export-filename="/home/rebecca/Personal Projects/LMMS Theme Source Files/default/flip_y.png"
        inkscape:export-xdpi="90"
@@ -3659,7 +3721,8 @@
       </g>
     </g>
     <g
-       id="g5419">
+       id="g5419"
+       transform="translate(0,-9.494e-4)">
       <path
          sodipodi:nodetypes="ccccc"
          inkscape:connector-curvature="0"
@@ -3675,7 +3738,7 @@
     </g>
     <g
        id="g5426"
-       transform="translate(28,0)">
+       transform="translate(28,-9.494e-4)">
       <path
          style="opacity:0.5;fill:none;stroke:none"
          d="m -240,1.9999652 22,-1.8e-6 0,21.9999996 -22,0 z"
@@ -3696,8 +3759,8 @@
        sodipodi:nodetypes="ccccccccccc"
        inkscape:connector-curvature="0"
        id="path5551"
-       d="m -33,1.9999634 4,7 7,1 -5,5.9999996 1,8 L -32.983885,20.17474 -40,23.999963 l 1,-8 -5,-5.9999996 7,-1 z"
-       style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+       d="m -33,1.999014 4,7 7,1 -5,6 1,8 -6.983885,-3.825223 L -40,23.999014 l 1,-8 -5,-6 7,-1 z"
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
        inkscape:export-filename="/home/rebecca/Personal Projects/LMMS Theme Source Files/default/hq_mode.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -3706,7 +3769,7 @@
        inkscape:export-filename="/home/rebecca/Personal Projects/LMMS Theme Source Files/default/ports.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       transform="translate(28.000001,0)">
+       transform="translate(28.000001,-9.4940275e-4)">
       <rect
          y="1.9999634"
          x="-44"
@@ -3731,7 +3794,7 @@
        inkscape:export-xdpi="90"
        inkscape:export-filename="/home/rebecca/Personal Projects/LMMS Theme Source Files/default/add_folder.png"
        id="g5845"
-       transform="matrix(1.25,0,0,1.25,167,176.50002)">
+       transform="matrix(1.25,0,0,1.25,167,176.50003)">
       <rect
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
@@ -3743,7 +3806,7 @@
          id="rect5847"
          style="opacity:0.5;fill:none;stroke:none" />
       <path
-         style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
          d="m 177,145.99902 0,6.00098 18,0 0,-4 -13,0 0,-2.00098 z m 0,7.00098 0,10 18,0 0,-10 z m 8,1 2,0 0,3 3,0 0,2 -3,0 0,3 -2,0 0,-3 -3,0 0,-2 3,0 z"
          transform="matrix(0.8,0,0,0.8,-376.8,-309.19926)"
          id="path5849"
@@ -3823,10 +3886,10 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <rect
-         y="-225.00005"
-         x="-295"
-         height="12"
-         width="12"
+         y="-226.00005"
+         x="-296"
+         height="14.000007"
+         width="14"
          id="rect5698"
          style="opacity:0.65;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.32599998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          rx="1.0000063"
@@ -4087,7 +4150,10 @@
     <g
        style="display:inline"
        id="g8038"
-       transform="translate(16,5.1757814e-7)">
+       transform="translate(16,5.1757814e-7)"
+       inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/exported_icons/white_noise_wave_active.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          transform="translate(32,0)"
          id="g8040"
@@ -4184,7 +4250,7 @@
         </g>
       </g>
       <path
-         style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
          d="m -70,-223.00004 4,0 1,0 0,1 0,6 3,0 0,-3 1,0 0,3 0,1 -4,0 -1,0 0,-1 0,-6 -3,0 0,3 -1,0 0,-3 z"
          id="path8089"
          inkscape:connector-curvature="0"
@@ -4468,7 +4534,7 @@
     <g
        style="display:inline"
        id="g5276"
-       transform="translate(-366,12.001001)"
+       transform="translate(-366,12.000039)"
        inkscape:export-filename="/home/rebecca/Personal Projects/LMMS Theme Source Files/default/filter_notch.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
@@ -4489,7 +4555,7 @@
     <g
        style="display:inline"
        id="g5267"
-       transform="translate(-372,12.001001)"
+       transform="translate(-372,12.000039)"
        inkscape:export-filename="/home/rebecca/Personal Projects/LMMS Theme Source Files/default/filter_2lp.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
@@ -4510,7 +4576,7 @@
     <g
        style="display:inline"
        id="g5314"
-       transform="translate(-254,-38.998999)"
+       transform="translate(-254,-38.999961)"
        inkscape:export-filename="/home/rebecca/Personal Projects/LMMS Theme Source Files/default/filter_ap.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
@@ -4531,7 +4597,7 @@
     <g
        style="display:inline"
        id="g5305"
-       transform="translate(-260,-38.998999)"
+       transform="translate(-260,-38.999961)"
        inkscape:export-filename="/home/rebecca/Personal Projects/LMMS Theme Source Files/default/filter_bp.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
@@ -4552,7 +4618,7 @@
     <g
        style="display:inline"
        id="g5285"
-       transform="translate(-316,-15.998999)"
+       transform="translate(-316,-15.999961)"
        inkscape:export-filename="/home/rebecca/Personal Projects/LMMS Theme Source Files/default/filter_lp.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
@@ -4573,7 +4639,7 @@
     <g
        style="display:inline"
        id="g5296"
-       transform="translate(-310,-15.998999)"
+       transform="translate(-310,-15.999961)"
        inkscape:export-filename="/home/rebecca/Personal Projects/LMMS Theme Source Files/default/filter_hp.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
@@ -4603,7 +4669,7 @@
        inkscape:export-filename="/home/rebecca/Personal Projects/LMMS Theme Source Files/exported_icons/tempo_sync.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       transform="translate(28.000001,0)">
+       transform="translate(28.000001,-9.4344228e-4)">
       <rect
          style="fill:none;stroke:none"
          id="rect4553"
@@ -4668,7 +4734,7 @@
       </g>
     </g>
     <g
-       transform="translate(34,-2.88517e-6)"
+       transform="translate(34,-9.4940275e-4)"
        id="g4528"
        style="opacity:0.35"
        inkscape:export-filename="/media/freedrive/RebeccaCurrent2016/Personal Projects/LMMS Theme Source Files/exported_icons/apply-selected.png"
@@ -4697,7 +4763,7 @@
       </g>
     </g>
     <g
-       transform="translate(-81,-20)"
+       transform="translate(-81,-20.000949)"
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
        inkscape:export-filename="/media/freedrive/RebeccaCurrent2016/Personal Projects/LMMS Theme Source Files/exported_icons/colorize.png"
@@ -4718,7 +4784,7 @@
         <path
            sodipodi:nodetypes="ccccc"
            inkscape:connector-curvature="0"
-           style="fill:#7f0a1d;fill-opacity:1;stroke:none;display:inline"
+           style="display:inline;fill:#7f0a1d;fill-opacity:1;stroke:none"
            d="M -264.77907,5.2182615 C -266.92636,7.3658409 -268,10.182137 -268,12.998422 l 3.00224,0 c 0,-2.20883 0.89578,-4.2079506 2.34309,-5.6554579 z"
            id="path4811" />
         <path
@@ -4726,15 +4792,15 @@
            inkscape:connector-curvature="0"
            id="path4813"
            d="m -268,12.998422 c 0,2.816286 1.07364,5.632572 3.22093,7.780161 l 2.1244,-2.124702 c -1.44731,-1.447518 -2.34309,-3.446628 -2.34309,-5.655459 z"
-           style="fill:#b90934;fill-opacity:1;stroke:none;display:inline" />
+           style="display:inline;fill:#b90934;fill-opacity:1;stroke:none" />
         <path
            id="path4815"
            d="M -249.22093,5.2182615 C -247.07364,7.3658409 -246,10.182137 -246,12.998422 l -3.00224,0 c 0,-2.20883 -0.89577,-4.2079506 -2.34309,-5.6554579 z"
-           style="fill:#3ae1d9;fill-opacity:1;stroke:none;display:inline"
+           style="display:inline;fill:#3ae1d9;fill-opacity:1;stroke:none"
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="ccccc" />
         <path
-           style="fill:#1b6a8b;fill-opacity:1;stroke:none;display:inline"
+           style="display:inline;fill:#1b6a8b;fill-opacity:1;stroke:none"
            d="m -246,12.998422 c 0,2.816286 -1.07364,5.632572 -3.22093,7.780161 l -2.1244,-2.124702 c 1.44732,-1.447518 2.34309,-3.446628 2.34309,-5.655459 z"
            id="path4817"
            inkscape:connector-curvature="0"
@@ -4763,7 +4829,8 @@
        id="g4825"
        inkscape:export-filename="/media/freedrive/RebeccaCurrent2016/Personal Projects/LMMS Theme Source Files/StepIcons.png"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
+       inkscape:export-ydpi="90"
+       transform="translate(0,1.5776367e-5)">
       <rect
          y="-66.000046"
          x="-80"
@@ -4781,7 +4848,8 @@
        id="g4818"
        inkscape:export-filename="/media/freedrive/RebeccaCurrent2016/Personal Projects/LMMS Theme Source Files/StepIcons.png"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
+       inkscape:export-ydpi="90"
+       transform="translate(0,1.5776367e-5)">
       <rect
          style="fill:none;stroke:none"
          id="rect3903"
@@ -4799,7 +4867,8 @@
        id="g4829"
        inkscape:export-filename="/media/freedrive/RebeccaCurrent2016/Personal Projects/LMMS Theme Source Files/StepIcons.png"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
+       inkscape:export-ydpi="90"
+       transform="translate(0,1.5776367e-5)">
       <rect
          y="-66.000046"
          x="-56"
@@ -4841,7 +4910,7 @@
     </g>
     <g
        id="g6089"
-       transform="matrix(-1,0,0,1,52.000004,0)"
+       transform="matrix(-1,0,0,1,52.000004,1.7361447e-5)"
        inkscape:export-filename="/media/freedrive/RebeccaCurrent2016/Personal Projects/LMMS Theme Source Files/exported_icons/edit_erase.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
@@ -4850,7 +4919,7 @@
          inkscape:connector-curvature="0"
          id="rect4649-0"
          d="m 16.807612,-106.82846 12.020819,12.020809 6.363959,-6.363959 -12.020824,-12.02082 z m 7.071067,4.94974 4.242641,-4.24264 5.000004,5 -4.242642,4.242643 z"
-         style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
+         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none" />
       <rect
          y="-114.00004"
          x="16.000002"
@@ -4873,12 +4942,12 @@
     </g>
     <g
        id="g4691"
-       transform="translate(-225,-40.000004)"
+       transform="translate(-225,-40.000963)"
        inkscape:export-filename="/media/freedrive/RebeccaCurrent2016/Personal Projects/LMMS Theme Source Files/exported_icons/controller.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <rect
-         style="opacity:0.5;fill:none;stroke:none;display:inline"
+         style="display:inline;opacity:0.5;fill:none;stroke:none"
          id="rect5831"
          width="16"
          height="16"
@@ -4898,8 +4967,8 @@
              inkscape:connector-curvature="0"
              id="rect5848"
              transform="translate(-544,-290.5)"
-             d="m 435,145 c -0.34366,0 -0.66636,0.025 -1,0.0625 l 0,8.75 2,0 0,-8.75 C 435.66636,145.025 435.34366,145 435,145 z"
-             style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
+             d="m 435,145 c -0.34366,0 -0.66636,0.025 -1,0.0625 l 0,8.75 2,0 0,-8.75 C 435.66636,145.025 435.34366,145 435,145 Z"
+             style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none" />
           <path
              inkscape:connector-curvature="0"
              id="path4657"
