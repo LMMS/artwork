@@ -19,6 +19,8 @@
    version="1.0"
    sodipodi:docname="Icons.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <title
+     id="title7623">LMMS Open Source Icons</title>
   <sodipodi:namedview
      id="base"
      pagecolor="#121316"
@@ -29,15 +31,15 @@
      objecttolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="178.54078"
-     inkscape:cy="372.47884"
+     inkscape:zoom="1"
+     inkscape:cx="-213.50855"
+     inkscape:cy="457.28442"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      showborder="false"
      inkscape:window-width="1600"
-     inkscape:window-height="811"
+     inkscape:window-height="806"
      inkscape:window-x="0"
      inkscape:window-y="32"
      showguides="true"
@@ -83,7 +85,8 @@
      id="defs4">
     <linearGradient
        id="linearGradient9960"
-       osb:paint="solid">
+       osb:paint="solid"
+       gradientTransform="translate(1e-5,-23.999887)">
       <stop
          style="stop-color:#282a32;stop-opacity:1;"
          offset="0"
@@ -97,7 +100,28 @@
        y1="-219.9998"
        x2="40"
        y2="-219.9998"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,-31.999963)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient9960"
+       id="linearGradient8676"
+       gradientUnits="userSpaceOnUse"
+       x1="-300"
+       y1="-219.9998"
+       x2="40"
+       y2="-219.9998"
+       gradientTransform="translate(0,-63.999942)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient9960"
+       id="linearGradient8813"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(1e-5,5.8e-5)"
+       x1="-300"
+       y1="-219.9998"
+       x2="40"
+       y2="-219.9998" />
   </defs>
   <metadata
      id="metadata7">
@@ -107,8 +131,29 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title>LMMS Open Source Icons</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Rebecca DeField</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>Rebecca DeField, Umcaruje, DigitizerMusic, LocoMatt</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
       </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
     </rdf:RDF>
   </metadata>
   <g
@@ -117,13 +162,6 @@
      id="layer1"
      style="display:inline"
      transform="translate(304,242.00003)">
-    <rect
-       style="display:inline;fill:url(#linearGradient9964);fill-opacity:1;stroke:none"
-       id="rect7795"
-       width="340"
-       height="19.999521"
-       x="-300"
-       y="-229.99956" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:100%;font-family:Verdana;-inkscape-font-specification:Verdana;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
@@ -274,23 +312,6 @@
     <path
        sodipodi:nodetypes="ccccc"
        inkscape:connector-curvature="0"
-       id="path7797"
-       d="m -271.99999,-237.99854 0,7.999 -28.00001,-0.001 0,-7.999 z"
-       style="display:inline;fill:url(#linearGradient9960);fill-opacity:1;stroke:none" />
-    <text
-       sodipodi:linespacing="125%"
-       id="text7799"
-       y="-232.03876"
-       x="-292.38135"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.60224104px;line-height:125%;font-family:Cabin;-inkscape-font-specification:Cabin;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         y="-232.03876"
-         x="-292.38135"
-         id="tspan7801"
-         sodipodi:role="line">14x14</tspan></text>
-    <path
-       sodipodi:nodetypes="ccccc"
-       inkscape:connector-curvature="0"
        id="path5338"
        d="m -271.99999,34.001461 0,7.999 -28.00001,-0.001 0,-7.999 z"
        style="display:inline;fill:url(#linearGradient9960);fill-opacity:1;stroke:none" />
@@ -322,6 +343,328 @@
        inkscape:export-filename="/media/freedrive/RebeccaCurrent2016/Personal Projects/LMMS Theme Source Files/exported_icons/controller.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
+    <rect
+       y="-293.99951"
+       x="-300"
+       height="19.999521"
+       width="340"
+       id="rect8386"
+       style="display:inline;fill:url(#linearGradient8676);fill-opacity:1;stroke:none" />
+    <path
+       style="display:inline;fill:url(#linearGradient9960);fill-opacity:1;stroke:none"
+       d="m -271.99999,-301.99848 0,7.999 -28.00001,-10e-4 0,-7.999 z"
+       id="path8388"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.60224104px;line-height:125%;font-family:Cabin;-inkscape-font-specification:Cabin;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
+       x="-296.18808"
+       y="-296.23758"
+       id="text8390"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan8392"
+         x="-296.18808"
+         y="-296.23758">12x12/13</tspan></text>
+    <g
+       style="display:inline"
+       id="g4698-6"
+       inkscape:export-filename="/media/freedrive/RebeccaCurrent2016/Personal Projects/LMMS Theme Source Files/TabIcons1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="translate(-427,-680.36219)">
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/media/freedrive/RebeccaCurrent2016/Personal Projects/LMMS Theme Source Files/TabIcons.png"
+         ry="0"
+         rx="0"
+         y="390.36218"
+         x="179"
+         height="12"
+         width="12"
+         id="rect4586-1"
+         style="display:inline;fill:none;stroke:none" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/media/freedrive/RebeccaCurrent2016/Personal Projects/LMMS Theme Source Files/TabIcons.png"
+         inkscape:connector-curvature="0"
+         id="path4588-7"
+         d="m 184,390.36219 0,5.0409 -5,-0.0409 0,2 5,0 0,4.99997 2,0 0,-4.99997 4.99998,0 0,-2 -4.99998,0 0,-5.00001 z"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;marker:none;enable-background:accumulate"
+         sodipodi:nodetypes="ccccccccccccc" />
+    </g>
+    <g
+       style="display:inline"
+       id="g4693-9"
+       inkscape:export-filename="/media/freedrive/RebeccaCurrent2016/Personal Projects/LMMS Theme Source Files/TabIcons1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="translate(-428,-680.36219)">
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/media/freedrive/RebeccaCurrent2016/Personal Projects/LMMS Theme Source Files/TabIcons.png"
+         style="display:inline;fill:none;stroke:none"
+         id="rect4646-7"
+         width="12"
+         height="12"
+         x="164"
+         y="390.36218"
+         rx="0"
+         ry="0" />
+      <g
+         style="display:inline;fill:#800000"
+         transform="translate(214.63601,585.49529)"
+         id="g4634-7"
+         inkscape:export-filename="/media/freedrive/RebeccaCurrent2016/Personal Projects/LMMS Theme Source Files/TabIcons.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90">
+        <path
+           inkscape:connector-curvature="0"
+           id="path4656-8"
+           d="m -45.63601,-195.1331 0,2.15625 c -0.364311,0.094 -0.714919,0.21999 -1.03125,0.40625 l -1.5,-1.5 -1.40625,1.40625 1.5,1.5 c -0.186263,0.31633 -0.3123,0.66694 -0.40625,1.03125 l -2.15625,0 0,2 2.15625,0 c 0.09395,0.36431 0.219987,0.71492 0.40625,1.03125 l -1.5,1.5 1.40625,1.40625 1.5,-1.5 c 0.316331,0.18626 0.666939,0.3123 1.03125,0.40625 l 0,2.15625 2,0 0,-2.15625 c 0.364311,-0.0939 0.714919,-0.21999 1.03125,-0.40625 l 1.5,1.5 1.4375,-1.40625 -1.53125,-1.53125 c 0.179654,-0.30989 0.314609,-0.64464 0.40625,-1 l 2.15625,0 0,-2 -2.15625,0 c -0.09164,-0.35536 -0.226596,-0.69011 -0.40625,-1 l 1.53125,-1.53125 -1.4375,-1.40625 -1.5,1.5 c -0.316331,-0.18626 -0.666939,-0.3123 -1.03125,-0.40625 l 0,-2.15625 -2,0 z m 1,4 c 1.104569,0 2,0.89543 2,2 0,1.10457 -0.895431,2 -2,2 -1.104569,0 -2,-0.89543 -2,-2 0,-1.10457 0.895431,-2 2,-2 z"
+           style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none" />
+      </g>
+    </g>
+    <g
+       style="display:inline"
+       id="g4684-0"
+       inkscape:export-filename="/media/freedrive/RebeccaCurrent2016/Personal Projects/LMMS Theme Source Files/TabIcons1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="translate(-428,-680.36219)">
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/media/freedrive/RebeccaCurrent2016/Personal Projects/LMMS Theme Source Files/TabIcons.png"
+         ry="0"
+         rx="0"
+         y="390.36218"
+         x="148"
+         height="12"
+         width="13"
+         id="rect4683-3"
+         style="display:inline;fill:none;stroke:none" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/media/freedrive/RebeccaCurrent2016/Personal Projects/LMMS Theme Source Files/TabIcons.png"
+         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
+         id="rect4696-6"
+         width="1"
+         height="12"
+         x="149"
+         y="390.36218" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/media/freedrive/RebeccaCurrent2016/Personal Projects/LMMS Theme Source Files/TabIcons.png"
+         y="390.36221"
+         x="159"
+         height="12.000001"
+         width="1"
+         id="rect4698-1"
+         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/media/freedrive/RebeccaCurrent2016/Personal Projects/LMMS Theme Source Files/TabIcons.png"
+         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
+         id="rect4710-7"
+         width="3"
+         height="5.0000062"
+         x="148"
+         y="392.36218" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/media/freedrive/RebeccaCurrent2016/Personal Projects/LMMS Theme Source Files/TabIcons.png"
+         y="392.36218"
+         x="158"
+         height="5.0000062"
+         width="3"
+         id="rect4714-3"
+         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/media/freedrive/RebeccaCurrent2016/Personal Projects/LMMS Theme Source Files/TabIcons.png"
+         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
+         id="rect4808-1"
+         width="1"
+         height="12.000001"
+         x="154"
+         y="390.36221" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/media/freedrive/RebeccaCurrent2016/Personal Projects/LMMS Theme Source Files/TabIcons.png"
+         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
+         id="rect4811-2"
+         width="3"
+         height="5.0000062"
+         x="153"
+         y="395.36218" />
+    </g>
+    <g
+       style="display:inline"
+       id="g4680-7"
+       inkscape:export-filename="/media/freedrive/RebeccaCurrent2016/Personal Projects/LMMS Theme Source Files/TabIcons1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="translate(-429.00001,-680.36218)">
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/media/freedrive/RebeccaCurrent2016/Personal Projects/LMMS Theme Source Files/TabIcons.png"
+         style="display:inline;fill:none;stroke:none"
+         id="rect4742-2"
+         width="12"
+         height="12"
+         x="133"
+         y="390.36218"
+         rx="0"
+         ry="0" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/media/freedrive/RebeccaCurrent2016/Personal Projects/LMMS Theme Source Files/TabIcons.png"
+         id="rect4758-0-8"
+         d="m 135.00001,392.3622 0,3 -2,0 0,2 2,0 0,3 3,0 0,-2 2,0 0,2 3,0 0,-3 2,0 0,-2 -2,0 0,-3 -3,0 0,2 -2,0 0,-2 -3,0 z"
+         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       style="display:inline"
+       id="g4706-4"
+       inkscape:export-filename="/media/freedrive/RebeccaCurrent2016/Personal Projects/LMMS Theme Source Files/TabIcons1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="translate(-424.99998,-680.36218)">
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/media/freedrive/RebeccaCurrent2016/Personal Projects/LMMS Theme Source Files/TabIcons.png"
+         ry="0"
+         rx="0"
+         y="390.36218"
+         x="208.99998"
+         height="12"
+         width="12"
+         id="rect4978-3"
+         style="display:inline;fill:none;stroke:none" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/media/freedrive/RebeccaCurrent2016/Personal Projects/LMMS Theme Source Files/TabIcons.png"
+         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
+         d="m 209,390.36217 0,12 3,0 0,-5 -1,0 0,-7 z m 5,0 0,7 -1,0 0,5 4,0 0,-5 -1,0 0,-7 z m 5,0 0,7 -1,0 0,5 3,0 0,-12 z"
+         id="path4992-2"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccccccccccccccccc" />
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       style="display:inline;fill:#ffffff;stroke:none"
+       d="m -232,-290.00001 0,12 2,0 0,-6.5 2,2.5 4.66602,0 1.33398,4 2,0 -2,-6 -1,0 -1,0 -3,0 -5,-6 z"
+       id="path5484-6" />
+    <rect
+       style="display:inline;fill:url(#linearGradient8813);fill-opacity:1;stroke:none"
+       id="rect8759"
+       width="340"
+       height="19.999521"
+       x="-300"
+       y="-229.99953" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path8761"
+       d="m -271.99998,-237.99848 0,7.999 -28.00001,-0.001 0,-7.999 z"
+       style="display:inline;fill:url(#linearGradient9960);fill-opacity:1;stroke:none" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text8763"
+       y="-232.07793"
+       x="-292.3013"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.60224104px;line-height:125%;font-family:Cabin;-inkscape-font-specification:Cabin;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="-232.07793"
+         x="-292.3013"
+         id="tspan8765"
+         sodipodi:role="line">15x15</tspan></text>
+    <g
+       style="display:inline"
+       id="g3379"
+       transform="translate(-34,-0.99995371)">
+      <g
+         id="g9378">
+        <rect
+           y="-226.00005"
+           x="-246"
+           height="15"
+           width="15"
+           id="rect3970"
+           style="display:inline;fill:none;stroke:none" />
+        <g
+           transform="matrix(0,-1.0370895,1.037091,0,-453.03493,65.143929)"
+           id="g4056"
+           style="display:inline;fill:#ffffff">
+          <g
+             transform="translate(0.35354579,-0.35354877)"
+             id="g4060"
+             style="fill:#ffffff">
+            <g
+               transform="translate(1.6516976e-6,-3.1870491e-7)"
+               id="g4066"
+               style="fill:#ffffff">
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path3978"
+                 d="m 278.44974,203.32666 -1.4142,-1.41422 -9.1924,9.1924 1.41422,1.4142 z"
+                 style="fill:#ffffff;stroke:none"
+                 sodipodi:nodetypes="ccccc" />
+              <path
+                 sodipodi:nodetypes="ccccc"
+                 style="fill:#ffffff;stroke:none"
+                 d="m 277.03553,212.51902 1.41421,-1.4142 -9.19239,-9.19239 -1.41421,1.4142 z"
+                 id="path4064"
+                 inkscape:connector-curvature="0" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g9372"
+       transform="translate(6,-0.99999948)">
+      <g
+         transform="matrix(-1,0,0,-1,-287,-211)"
+         id="g5118"
+         style="display:inline">
+        <path
+           style="fill:#ffffff;fill-opacity:1;stroke:none"
+           d="m 3,6 6,6 -6,0 z"
+           id="rect2994"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccc" />
+        <path
+           style="fill:#ffffff;fill-opacity:1;stroke:none"
+           d="m 12,9 -6,-6 5.999999,10e-8 z"
+           id="rect2994-3"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccc" />
+      </g>
+      <rect
+         y="-226"
+         x="-302"
+         height="15"
+         width="15"
+         id="rect9354"
+         style="display:inline;fill:none;stroke:none" />
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -329,225 +672,6 @@
      inkscape:label="elements"
      style="display:inline"
      transform="translate(304,242.00003)">
-    <rect
-       y="-226.00005"
-       x="-280"
-       height="14.000007"
-       width="14"
-       id="rect7064"
-       style="opacity:0.65;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.32599998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       rx="1.0000063"
-       ry="1.0000063"
-       inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/exported_icons/moog_saw_wave_active.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <rect
-       style="opacity:0.65;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.32599998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect7066"
-       width="14"
-       height="14.000007"
-       x="-264"
-       y="-226.00005"
-       rx="1.0000063"
-       ry="1.0000063"
-       inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/exported_icons/random_wave_inactive.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <rect
-       y="-226.00005"
-       x="-248"
-       height="14.000007"
-       width="14"
-       id="rect7068"
-       style="opacity:0.65;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.32599998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       rx="1.0000063"
-       ry="1.0000063"
-       inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/exported_icons/random_wave_active.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <rect
-       style="opacity:0.65;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.32599998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect7070"
-       width="14"
-       height="14.000007"
-       x="-232"
-       y="-226.00005"
-       rx="1.0000063"
-       ry="1.0000063"
-       inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/exported_icons/triangle_wave_inactive.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <rect
-       y="-226.00005"
-       x="-216"
-       height="14.000007"
-       width="14"
-       id="rect7072"
-       style="opacity:0.65;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.32599998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       rx="1.0000063"
-       ry="1.0000063"
-       inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/exported_icons/triangle_wave_active.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <rect
-       style="opacity:0.65;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.32599998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect7074"
-       width="14"
-       height="14.000007"
-       x="-200"
-       y="-226.00005"
-       rx="1.0000063"
-       ry="1.0000063"
-       inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/exported_icons/saw_wave_inactive.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <rect
-       y="-226.00005"
-       x="-184"
-       height="14.000007"
-       width="14"
-       id="rect7076"
-       style="opacity:0.65;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.32599998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       rx="1.0000063"
-       ry="1.0000063"
-       inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/exported_icons/saw_wave_active.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <rect
-       style="opacity:0.65;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.32599998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect7078"
-       width="14"
-       height="14.000007"
-       x="-168"
-       y="-226.00005"
-       rx="1.0000063"
-       ry="1.0000063"
-       inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/exported_icons/sin_wave_inactive.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <rect
-       y="-226.00005"
-       x="-152"
-       height="14.000007"
-       width="14"
-       id="rect7080"
-       style="opacity:0.65;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.32599998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       rx="1.0000063"
-       ry="1.0000063"
-       inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/exported_icons/sin_wave_active.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <rect
-       style="opacity:0.65;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.32599998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect7082"
-       width="14"
-       height="14.000007"
-       x="-136"
-       y="-226.00005"
-       rx="1.0000063"
-       ry="1.0000063"
-       inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/exported_icons/exp_wave_inactive.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <rect
-       y="-226.00005"
-       x="-120"
-       height="14.000007"
-       width="14"
-       id="rect7084"
-       style="opacity:0.65;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.32599998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       rx="1.0000063"
-       ry="1.0000063"
-       inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/exported_icons/exp_wave_active.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <rect
-       style="opacity:0.65;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.32599998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect7086"
-       width="14"
-       height="14.000007"
-       x="-104"
-       y="-226.00005"
-       rx="1.0000063"
-       ry="1.0000063"
-       inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/exported_icons/white_noise_wave_inactive.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <rect
-       y="-226.00005"
-       x="-88"
-       height="14.000007"
-       width="14"
-       id="rect7088"
-       style="opacity:0.65;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.32599998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       rx="1.0000063"
-       ry="1.0000063"
-       inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/exported_icons/white_noise_wave_active.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <rect
-       style="opacity:0.65;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.32599998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect7090"
-       width="14"
-       height="14.000007"
-       x="-72"
-       y="-226.00005"
-       rx="1.0000063"
-       ry="1.0000063"
-       inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/exported_icons/square_wave_inactive.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <rect
-       y="-226.00005"
-       x="-56"
-       height="14.000007"
-       width="14"
-       id="rect7092"
-       style="opacity:0.65;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.32599998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       rx="1.0000063"
-       ry="1.0000063"
-       inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/exported_icons/square_wave_active.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <rect
-       style="opacity:0.65;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.32599998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect7094"
-       width="14"
-       height="14.000007"
-       x="-40"
-       y="-226.00005"
-       rx="1.0000063"
-       ry="1.0000063"
-       inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/exported_icons/round_square_wave_inactive.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <rect
-       y="-226.00005"
-       x="-24"
-       height="14.000007"
-       width="14"
-       id="rect7096"
-       style="opacity:0.65;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.32599998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       rx="1.0000063"
-       ry="1.0000063" />
-    <rect
-       style="opacity:0.65;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.32599998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect7098"
-       width="14"
-       height="14.000007"
-       x="-8"
-       y="-226.00005"
-       rx="1.0000063"
-       ry="1.0000063" />
-    <rect
-       y="-226.00005"
-       x="8"
-       height="14.000007"
-       width="14"
-       id="rect7100"
-       style="opacity:0.65;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.32599998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       rx="1.0000063"
-       ry="1.0000063" />
     <g
        id="g4713"
        transform="translate(-834.202,297.17841)"
@@ -3842,697 +3966,6 @@
     </g>
     <g
        style="display:inline"
-       id="g7812"
-       transform="translate(32,5.1757814e-7)"
-       inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/exported_icons/random_wave_inactive.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
-      <path
-         inkscape:connector-curvature="0"
-         style="fill:none;stroke:none"
-         d="m -296,-226.00004 0,14 14,0 0,-14 z"
-         id="path7810"
-         sodipodi:nodetypes="ccccc" />
-      <path
-         sodipodi:nodetypes="ccccccccccccccccc"
-         id="rect4330"
-         d="m -288,-224.00004 4,0 0,6 -1,0 0,-5 -2,0 0,9 -4,0 0,-6 -2,0 0,2 -1,0 0,-3 4,0 0,6 2,0 z"
-         style="opacity:0.45;fill:#ffffff;fill-opacity:1;stroke:none"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       style="display:inline"
-       id="g7816"
-       transform="translate(48,1.0517578e-5)"
-       inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/exported_icons/random_wave_active.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
-      <path
-         sodipodi:nodetypes="ccccc"
-         id="path7818"
-         d="m -296,-226.00004 0,14 14,0 0,-14 z"
-         style="fill:none;stroke:none"
-         inkscape:connector-curvature="0" />
-      <path
-         inkscape:connector-curvature="0"
-         style="fill:#ffffff;fill-opacity:1;stroke:none"
-         d="m -288,-224.00004 4,0 0,6 -1,0 0,-5 -2,0 0,9 -4,0 0,-6 -2,0 0,2 -1,0 0,-3 4,0 0,6 2,0 z"
-         id="path7820"
-         sodipodi:nodetypes="ccccccccccccccccc" />
-    </g>
-    <g
-       id="g7150"
-       inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/exported_icons/moog_saw_wave_inactive.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
-      <rect
-         y="-226.00005"
-         x="-296"
-         height="14.000007"
-         width="14"
-         id="rect5698"
-         style="opacity:0.65;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.32599998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         rx="1.0000063"
-         ry="1.0000063" />
-      <g
-         style="fill:none"
-         id="g7837">
-        <g
-           id="g7824"
-           style="fill:none">
-          <path
-             sodipodi:nodetypes="ccccc"
-             id="path7826"
-             d="m -296,-226.00004 0,14 14,0 0,-14 z"
-             style="fill:none;stroke:none"
-             inkscape:connector-curvature="0" />
-        </g>
-      </g>
-      <path
-         sodipodi:nodetypes="ccccccccc"
-         inkscape:connector-curvature="0"
-         id="path3861"
-         d="m -294,-216.00004 1,1 4,-6 0,3 4,3 1,-1 -4,-3 0,-5 z"
-         style="display:inline;opacity:0.45;fill:#ffffff;fill-opacity:1;stroke:none" />
-    </g>
-    <g
-       style="display:inline"
-       id="g7874"
-       transform="translate(16,5.1757814e-7)"
-       inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/exported_icons/moog_saw_wave_active.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
-      <g
-         id="g7876"
-         style="fill:none">
-        <g
-           style="fill:none"
-           id="g7878">
-          <path
-             inkscape:connector-curvature="0"
-             style="fill:none;stroke:none"
-             d="m -296,-226.00004 0,14 14,0 0,-14 z"
-             id="path7880"
-             sodipodi:nodetypes="ccccc" />
-        </g>
-      </g>
-      <path
-         style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
-         d="m -294,-216.00004 1,1 4,-6 0,3 4,3 1,-1 -4,-3 0,-5 z"
-         id="path7882"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccccccccc" />
-    </g>
-    <g
-       style="display:inline"
-       id="g7897"
-       inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/exported_icons/triangle_wave_inactive.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
-      <g
-         style="fill:#ababab;fill-opacity:1"
-         id="g7891"
-         transform="translate(64,3.4375e-6)">
-        <path
-           sodipodi:nodetypes="ccccc"
-           id="path7893"
-           d="m -296,-226.00004 0,14 14,0 0,-14 z"
-           style="fill:none;stroke:none"
-           inkscape:connector-curvature="0" />
-      </g>
-      <path
-         sodipodi:nodetypes="ccccccc"
-         inkscape:connector-curvature="0"
-         id="rect4212"
-         d="m -225,-223.00004 5,7 -1,1 -3.99902,-6 -4.00098,6 -1,-1 z"
-         style="opacity:0.45;fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
-    </g>
-    <g
-       style="display:inline"
-       id="g7902"
-       transform="translate(16,5.1757814e-7)"
-       inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/exported_icons/triangle_wave_active.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
-      <g
-         transform="translate(64,3.4375e-6)"
-         id="g7904"
-         style="fill:#ababab;fill-opacity:1">
-        <path
-           inkscape:connector-curvature="0"
-           style="fill:none;stroke:none"
-           d="m -296,-226.00004 0,14 14,0 0,-14 z"
-           id="path7906"
-           sodipodi:nodetypes="ccccc" />
-      </g>
-      <path
-         style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
-         d="m -225,-223.00004 5,7 -1,1 -3.99902,-6 -4.00098,6 -1,-1 z"
-         id="path7908"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccccccc" />
-    </g>
-    <g
-       style="display:inline"
-       id="g7926"
-       inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/exported_icons/saw_wave_inactive.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
-      <path
-         inkscape:connector-curvature="0"
-         style="fill:none;stroke:none;display:inline"
-         d="m -296,-226.00004 0,14 14,0 0,-14 z"
-         id="path7921"
-         sodipodi:nodetypes="ccccc"
-         transform="translate(96,0)" />
-      <path
-         sodipodi:nodetypes="ccccccc"
-         inkscape:connector-curvature="0"
-         id="rect4212-5"
-         d="m -188,-223.00004 0,8 -1,0 0,-6 -8,6 -1,-1 z"
-         style="opacity:0.45;fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
-    </g>
-    <g
-       style="display:inline"
-       id="g7930"
-       transform="translate(16,5.1757814e-7)"
-       inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/exported_icons/saw_wave_active.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
-      <path
-         transform="translate(96,0)"
-         sodipodi:nodetypes="ccccc"
-         id="path7932"
-         d="m -296,-226.00004 0,14 14,0 0,-14 z"
-         style="fill:none;stroke:none;display:inline"
-         inkscape:connector-curvature="0" />
-      <path
-         style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
-         d="m -188,-223.00004 0,8 -1,0 0,-6 -8,6 -1,-1 z"
-         id="path7934"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccccccc" />
-    </g>
-    <g
-       style="display:inline"
-       id="g7963"
-       inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/exported_icons/sin_wave_inactive.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
-      <g
-         style="fill:none"
-         id="g7943"
-         transform="translate(32,0)">
-        <path
-           transform="translate(96,0)"
-           sodipodi:nodetypes="ccccc"
-           id="path7945"
-           d="m -296,-226.00004 0,14 14,0 0,-14 z"
-           style="fill:none;stroke:none;display:inline"
-           inkscape:connector-curvature="0" />
-      </g>
-      <path
-         sodipodi:nodetypes="zcczssccssz"
-         inkscape:connector-curvature="0"
-         id="rect4212-4"
-         transform="translate(-304,-209.99905)"
-         d="m 141,-13 c -2,0 -3,2 -3,4 l 1,0 c 0,-2 1,-3 2,-3 1,0 1.48773,1 1.48773,3 0,2 0.51227,4 2.51227,4 2,0 3,-2.0009866 3,-4.0009866 l -1,0 c 0,2 -1,3.0009866 -2,3.0009866 -1,0 -1.51227,-1 -1.51227,-3 0,-2 -0.48773,-4 -2.48773,-4 z"
-         style="opacity:0.45;fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
-    </g>
-    <g
-       style="display:inline"
-       id="g7968"
-       transform="translate(16,5.1757814e-7)"
-       inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/exported_icons/sin_wave_active.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
-      <g
-         transform="translate(32,0)"
-         id="g7970"
-         style="fill:none">
-        <path
-           inkscape:connector-curvature="0"
-           style="fill:none;stroke:none;display:inline"
-           d="m -296,-226.00004 0,14 14,0 0,-14 z"
-           id="path7972"
-           sodipodi:nodetypes="ccccc"
-           transform="translate(96,0)" />
-      </g>
-      <path
-         style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
-         d="m 141,-13 c -2,0 -3,2 -3,4 l 1,0 c 0,-2 1,-3 2,-3 1,0 1.48773,1 1.48773,3 0,2 0.51227,4 2.51227,4 2,0 3,-2.0009866 3,-4.0009866 l -1,0 c 0,2 -1,3.0009866 -2,3.0009866 -1,0 -1.51227,-1 -1.51227,-3 0,-2 -0.48773,-4 -2.48773,-4 z"
-         transform="translate(-304,-209.99905)"
-         id="path7974"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="zcczssccssz" />
-    </g>
-    <g
-       style="display:inline"
-       id="g7998"
-       inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/exported_icons/exp_wave_inactive.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
-      <g
-         style="fill:none"
-         id="g7983"
-         transform="translate(32,0)">
-        <g
-           transform="translate(32,0)"
-           id="g7985"
-           style="fill:none">
-          <path
-             inkscape:connector-curvature="0"
-             style="fill:none;stroke:none;display:inline"
-             d="m -296,-226.00004 0,14 14,0 0,-14 z"
-             id="path7987"
-             sodipodi:nodetypes="ccccc"
-             transform="translate(96,0)" />
-        </g>
-      </g>
-      <path
-         sodipodi:nodetypes="cccccccc"
-         inkscape:connector-curvature="0"
-         id="rect4212-8"
-         d="m -129.5,-223.00004 c 0,4 -1.54001,6.05014 -4.5,8 l 1,0 c 2.15598,-1.42023 3.32195,-2.55704 4,-4.75 0.67805,2.19296 1.84402,3.32977 4,4.75 l 1,0 c -2.95999,-1.94986 -4.5,-4 -4.5,-8 z"
-         style="opacity:0.45;fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
-    </g>
-    <g
-       style="display:inline"
-       id="g8004"
-       transform="translate(16,5.1757814e-7)"
-       inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/exported_icons/exp_wave_active.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
-      <g
-         transform="translate(32,0)"
-         id="g8006"
-         style="fill:none">
-        <g
-           style="fill:none"
-           id="g8008"
-           transform="translate(32,0)">
-          <path
-             transform="translate(96,0)"
-             sodipodi:nodetypes="ccccc"
-             id="path8010"
-             d="m -296,-226.00004 0,14 14,0 0,-14 z"
-             style="fill:none;stroke:none;display:inline"
-             inkscape:connector-curvature="0" />
-        </g>
-      </g>
-      <path
-         style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
-         d="m -129.5,-223.00004 c 0,4 -1.54001,6.05014 -4.5,8 l 1,0 c 2.15598,-1.42023 3.32195,-2.55704 4,-4.75 0.67805,2.19296 1.84402,3.32977 4,4.75 l 1,0 c -2.95999,-1.94986 -4.5,-4 -4.5,-8 z"
-         id="path8012"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cccccccc" />
-    </g>
-    <g
-       style="display:inline"
-       id="g8038"
-       transform="translate(16,5.1757814e-7)"
-       inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/exported_icons/white_noise_wave_active.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
-      <g
-         transform="translate(32,0)"
-         id="g8040"
-         style="fill:none">
-        <g
-           style="fill:none"
-           id="g8042"
-           transform="translate(32,0)">
-          <g
-             transform="translate(32,0)"
-             id="g8044"
-             style="fill:none">
-            <path
-               inkscape:connector-curvature="0"
-               style="fill:none;stroke:none;display:inline"
-               d="m -296,-226.00004 0,14 14,0 0,-14 z"
-               id="path8046"
-               sodipodi:nodetypes="ccccc"
-               transform="translate(96,0)" />
-          </g>
-        </g>
-      </g>
-    </g>
-    <g
-       style="display:inline"
-       id="g8069"
-       inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/exported_icons/square_wave_inactive.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
-      <g
-         id="g8050"
-         transform="translate(32,0)">
-        <g
-           transform="translate(32,0)"
-           id="g8052"
-           style="fill:#ffffff;fill-opacity:1">
-          <g
-             style="fill:#ffffff;fill-opacity:1"
-             id="g8054"
-             transform="translate(32,0)">
-            <g
-               transform="translate(32,0)"
-               id="g8056"
-               style="fill:#ffffff;fill-opacity:1">
-              <path
-                 inkscape:connector-curvature="0"
-                 style="fill:none;stroke:none;display:inline"
-                 d="m -296,-226.00004 0,14 14,0 0,-14 z"
-                 id="path8058"
-                 sodipodi:nodetypes="ccccc"
-                 transform="translate(96,0)" />
-            </g>
-          </g>
-        </g>
-      </g>
-      <path
-         sodipodi:nodetypes="ccccccccccccccccccc"
-         inkscape:connector-curvature="0"
-         id="rect4275-1"
-         d="m -70,-223.00004 4,0 1,0 0,1 0,6 3,0 0,-3 1,0 0,3 0,1 -4,0 -1,0 0,-1 0,-6 -3,0 0,3 -1,0 0,-3 z"
-         style="opacity:0.45;fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
-    </g>
-    <g
-       style="display:inline"
-       id="g8077"
-       transform="translate(16,5.1757814e-7)"
-       inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/exported_icons/square_wave_active.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
-      <g
-         transform="translate(32,0)"
-         id="g8079">
-        <g
-           style="fill:#ffffff;fill-opacity:1"
-           id="g8081"
-           transform="translate(32,0)">
-          <g
-             transform="translate(32,0)"
-             id="g8083"
-             style="fill:#ffffff;fill-opacity:1">
-            <g
-               style="fill:#ffffff;fill-opacity:1"
-               id="g8085"
-               transform="translate(32,0)">
-              <path
-                 transform="translate(96,0)"
-                 sodipodi:nodetypes="ccccc"
-                 id="path8087"
-                 d="m -296,-226.00004 0,14 14,0 0,-14 z"
-                 style="fill:none;stroke:none;display:inline"
-                 inkscape:connector-curvature="0" />
-            </g>
-          </g>
-        </g>
-      </g>
-      <path
-         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
-         d="m -70,-223.00004 4,0 1,0 0,1 0,6 3,0 0,-3 1,0 0,3 0,1 -4,0 -1,0 0,-1 0,-6 -3,0 0,3 -1,0 0,-3 z"
-         id="path8089"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccccccccccccccccccc" />
-    </g>
-    <g
-       style="display:inline"
-       id="g8112"
-       inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/exported_icons/round_square_wave_inactive.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
-      <g
-         style="fill:none"
-         id="g8098"
-         transform="translate(32,0)">
-        <g
-           style="fill:none"
-           transform="translate(32,0)"
-           id="g8100">
-          <g
-             style="fill:none"
-             id="g8102"
-             transform="translate(32,0)">
-            <g
-               transform="translate(32,0)"
-               id="g8104"
-               style="fill:none">
-              <g
-                 style="fill:none"
-                 id="g8106"
-                 transform="translate(32,0)">
-                <path
-                   transform="translate(96,0)"
-                   sodipodi:nodetypes="ccccc"
-                   id="path8108"
-                   d="m -296,-226.00004 0,14 14,0 0,-14 z"
-                   style="fill:none;stroke:none;display:inline"
-                   inkscape:connector-curvature="0" />
-              </g>
-            </g>
-          </g>
-        </g>
-      </g>
-      <path
-         sodipodi:nodetypes="ccccccsccscc"
-         inkscape:connector-curvature="0"
-         id="path4303"
-         d="m -32,-223.01176 -9.8e-4,7.99037 4.00098,0.0194 -0.004,1.00195 -4.99804,-0.0234 7e-5,-7.70458 c -1.11811,0.38914 -2.08335,1.22471 -2.78319,2.5 -0.80785,1.47213 -1.12511,3.36963 -1.21484,5.2163 l -1,0 c 0.0953,-1.96222 0.59501,-4.00509 1.48047,-5.61864 0.88546,-1.61355 2.18131,-2.98618 3.86035,-3.29165 z"
-         style="opacity:0.45;fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
-    </g>
-    <g
-       style="display:inline"
-       id="g8121"
-       transform="translate(16,5.1757814e-7)"
-       inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/exported_icons/round_square_wave_active.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
-      <g
-         transform="translate(32,0)"
-         id="g8123"
-         style="fill:none">
-        <g
-           id="g8125"
-           transform="translate(32,0)"
-           style="fill:none">
-          <g
-             transform="translate(32,0)"
-             id="g8127"
-             style="fill:none">
-            <g
-               style="fill:none"
-               id="g8129"
-               transform="translate(32,0)">
-              <g
-                 transform="translate(32,0)"
-                 id="g8131"
-                 style="fill:none">
-                <path
-                   inkscape:connector-curvature="0"
-                   style="fill:none;stroke:none;display:inline"
-                   d="m -296,-226.00004 0,14 14,0 0,-14 z"
-                   id="path8133"
-                   sodipodi:nodetypes="ccccc"
-                   transform="translate(96,0)" />
-              </g>
-            </g>
-          </g>
-        </g>
-      </g>
-      <path
-         style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
-         d="m -32,-223.01176 -9.8e-4,7.99037 4.00098,0.0194 -0.004,1.00195 -4.99804,-0.0234 7e-5,-7.70458 c -1.11811,0.38914 -2.08335,1.22471 -2.78319,2.5 -0.80785,1.47213 -1.12511,3.36963 -1.21484,5.2163 l -1,0 c 0.0953,-1.96222 0.59501,-4.00509 1.48047,-5.61864 0.88546,-1.61355 2.18131,-2.98618 3.86035,-3.29165 z"
-         id="path8135"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccccccsccscc" />
-    </g>
-    <g
-       style="display:inline"
-       id="g8241"
-       transform="translate(-32,20.000011)"
-       inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/exported_icons/usr_wave_inactive.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
-      <path
-         sodipodi:nodetypes="ccccccccccccc"
-         inkscape:connector-curvature="0"
-         id="rect4293"
-         d="m 30,-243.00004 2,0 0,3 3,0 0,2 -3,0 0,3 -2,0 0,-3 -3,0 0,-2 3,0 z"
-         style="opacity:0.45;fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
-      <g
-         style="fill:none"
-         id="g8217"
-         transform="translate(64,-20)">
-        <g
-           transform="translate(32,0)"
-           id="g8219"
-           style="fill:none">
-          <g
-             id="g8221"
-             transform="translate(32,0)"
-             style="fill:none">
-            <g
-               transform="translate(32,0)"
-               id="g8223"
-               style="fill:none">
-              <g
-                 style="fill:none"
-                 id="g8225"
-                 transform="translate(32,0)">
-                <g
-                   transform="translate(32,0)"
-                   id="g8227"
-                   style="fill:none">
-                  <path
-                     inkscape:connector-curvature="0"
-                     style="fill:none;stroke:none;display:inline"
-                     d="m -296,-226.00004 0,14 14,0 0,-14 z"
-                     id="path8229"
-                     sodipodi:nodetypes="ccccc"
-                     transform="translate(96,0)" />
-                </g>
-              </g>
-            </g>
-          </g>
-        </g>
-      </g>
-    </g>
-    <g
-       style="display:inline"
-       id="g8271"
-       transform="translate(-16,20.000011)"
-       inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/exported_icons/usr_wave_active.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
-      <path
-         style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
-         d="m 30,-243.00004 2,0 0,3 3,0 0,2 -3,0 0,3 -2,0 0,-3 -3,0 0,-2 3,0 z"
-         id="path8273"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccccccccccccc" />
-      <g
-         transform="translate(64,-20)"
-         id="g8275"
-         style="fill:none">
-        <g
-           style="fill:none"
-           id="g8277"
-           transform="translate(32,0)">
-          <g
-             style="fill:none"
-             transform="translate(32,0)"
-             id="g8279">
-            <g
-               style="fill:none"
-               id="g8281"
-               transform="translate(32,0)">
-              <g
-                 transform="translate(32,0)"
-                 id="g8283"
-                 style="fill:none">
-                <g
-                   style="fill:none"
-                   id="g8285"
-                   transform="translate(32,0)">
-                  <path
-                     transform="translate(96,0)"
-                     sodipodi:nodetypes="ccccc"
-                     id="path8287"
-                     d="m -296,-226.00004 0,14 14,0 0,-14 z"
-                     style="fill:none;stroke:none;display:inline"
-                     inkscape:connector-curvature="0" />
-                </g>
-              </g>
-            </g>
-          </g>
-        </g>
-      </g>
-    </g>
-    <g
-       style="display:inline"
-       id="g8375"
-       inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/exported_icons/white_noise_wave_inactive.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       transform="translate(0,20.000001)">
-      <path
-         sodipodi:nodetypes="ccccccccccccccc"
-         transform="translate(-304,-209.99905)"
-         inkscape:connector-curvature="0"
-         id="path8355"
-         d="m 203,-26.000987 -1,0 2,-9 2,7 1,-5 2,6 2,-7 1,9 -1,0 -0.35333,-4.058887 -1.64667,6.058887 -2,-7 -1,6 -2,-6 z"
-         style="opacity:0.45;fill:#ffffff;fill-opacity:1;stroke:none" />
-      <g
-         id="g8363"
-         transform="translate(0,-20)">
-        <g
-           style="fill:none"
-           id="g8365"
-           transform="translate(32,0)">
-          <g
-             transform="translate(32,0)"
-             id="g8367"
-             style="fill:none">
-            <g
-               style="fill:none"
-               id="g8369"
-               transform="translate(32,0)">
-              <path
-                 transform="translate(96,0)"
-                 sodipodi:nodetypes="ccccc"
-                 id="path8371"
-                 d="m -296,-226.00004 0,14 14,0 0,-14 z"
-                 style="fill:none;stroke:none;display:inline"
-                 inkscape:connector-curvature="0" />
-            </g>
-          </g>
-        </g>
-      </g>
-    </g>
-    <g
-       style="display:inline"
-       id="g8383"
-       transform="translate(16,20.000001)"
-       inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/exported_icons/white_noise_wave_active.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
-      <path
-         style="fill:#ffffff;fill-opacity:1;stroke:none"
-         d="m 203,-26.000987 -1,0 2,-9 2,7 1,-5 2,6 2,-7 1,9 -1,0 -0.35333,-4.058887 -1.64667,6.058887 -2,-7 -1,6 -2,-6 z"
-         id="path8385"
-         inkscape:connector-curvature="0"
-         transform="translate(-304,-209.99905)"
-         sodipodi:nodetypes="ccccccccccccccc" />
-      <g
-         transform="translate(0,-20)"
-         id="g8387">
-        <g
-           transform="translate(32,0)"
-           id="g8389"
-           style="fill:none">
-          <g
-             style="fill:none"
-             id="g8391"
-             transform="translate(32,0)">
-            <g
-               transform="translate(32,0)"
-               id="g8393"
-               style="fill:none">
-              <path
-                 inkscape:connector-curvature="0"
-                 style="fill:none;stroke:none;display:inline"
-                 d="m -296,-226.00004 0,14 14,0 0,-14 z"
-                 id="path8395"
-                 sodipodi:nodetypes="ccccc"
-                 transform="translate(96,0)" />
-            </g>
-          </g>
-        </g>
-      </g>
-    </g>
-    <g
-       style="display:inline"
        id="g5276"
        transform="translate(-366,12.000039)"
        inkscape:export-filename="/home/rebecca/Personal Projects/LMMS Theme Source Files/default/filter_notch.png"
@@ -4983,18 +4416,959 @@
         </g>
       </g>
     </g>
+    <rect
+       style="display:inline;fill:url(#linearGradient9964);fill-opacity:1;stroke:none"
+       id="rect7795"
+       width="340"
+       height="19.999521"
+       x="-300"
+       y="-261.99951" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path7797"
+       d="m -271.99999,-269.9985 0,7.999 -28.00001,-10e-4 0,-7.999 z"
+       style="display:inline;fill:url(#linearGradient9960);fill-opacity:1;stroke:none" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text7799"
+       y="-264.03873"
+       x="-292.38135"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.60224104px;line-height:125%;font-family:Cabin;-inkscape-font-specification:Cabin;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="-264.03873"
+         x="-292.38135"
+         id="tspan7801"
+         sodipodi:role="line">14x14</tspan></text>
+    <rect
+       y="-258"
+       x="-280"
+       height="14.000007"
+       width="14"
+       id="rect7064"
+       style="opacity:0.65;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.32599998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       rx="1.0000063"
+       ry="1.0000063"
+       inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/exported_icons/moog_saw_wave_active.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.65;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.32599998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect7066"
+       width="14"
+       height="14.000007"
+       x="-264"
+       y="-258"
+       rx="1.0000063"
+       ry="1.0000063"
+       inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/exported_icons/random_wave_inactive.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="-258"
+       x="-248"
+       height="14.000007"
+       width="14"
+       id="rect7068"
+       style="opacity:0.65;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.32599998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       rx="1.0000063"
+       ry="1.0000063"
+       inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/exported_icons/random_wave_active.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.65;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.32599998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect7070"
+       width="14"
+       height="14.000007"
+       x="-232"
+       y="-258"
+       rx="1.0000063"
+       ry="1.0000063"
+       inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/exported_icons/triangle_wave_inactive.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="-258"
+       x="-216"
+       height="14.000007"
+       width="14"
+       id="rect7072"
+       style="opacity:0.65;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.32599998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       rx="1.0000063"
+       ry="1.0000063"
+       inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/exported_icons/triangle_wave_active.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.65;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.32599998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect7074"
+       width="14"
+       height="14.000007"
+       x="-200"
+       y="-258"
+       rx="1.0000063"
+       ry="1.0000063"
+       inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/exported_icons/saw_wave_inactive.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="-258"
+       x="-184"
+       height="14.000007"
+       width="14"
+       id="rect7076"
+       style="opacity:0.65;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.32599998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       rx="1.0000063"
+       ry="1.0000063"
+       inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/exported_icons/saw_wave_active.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.65;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.32599998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect7078"
+       width="14"
+       height="14.000007"
+       x="-168"
+       y="-258"
+       rx="1.0000063"
+       ry="1.0000063"
+       inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/exported_icons/sin_wave_inactive.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="-258"
+       x="-152"
+       height="14.000007"
+       width="14"
+       id="rect7080"
+       style="opacity:0.65;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.32599998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       rx="1.0000063"
+       ry="1.0000063"
+       inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/exported_icons/sin_wave_active.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.65;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.32599998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect7082"
+       width="14"
+       height="14.000007"
+       x="-136"
+       y="-258"
+       rx="1.0000063"
+       ry="1.0000063"
+       inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/exported_icons/exp_wave_inactive.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="-258"
+       x="-120"
+       height="14.000007"
+       width="14"
+       id="rect7084"
+       style="opacity:0.65;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.32599998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       rx="1.0000063"
+       ry="1.0000063"
+       inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/exported_icons/exp_wave_active.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.65;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.32599998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect7086"
+       width="14"
+       height="14.000007"
+       x="-104"
+       y="-258"
+       rx="1.0000063"
+       ry="1.0000063"
+       inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/exported_icons/white_noise_wave_inactive.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="-258"
+       x="-88"
+       height="14.000007"
+       width="14"
+       id="rect7088"
+       style="opacity:0.65;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.32599998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       rx="1.0000063"
+       ry="1.0000063"
+       inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/exported_icons/white_noise_wave_active.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.65;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.32599998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect7090"
+       width="14"
+       height="14.000007"
+       x="-72"
+       y="-258"
+       rx="1.0000063"
+       ry="1.0000063"
+       inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/exported_icons/square_wave_inactive.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="-258"
+       x="-56"
+       height="14.000007"
+       width="14"
+       id="rect7092"
+       style="opacity:0.65;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.32599998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       rx="1.0000063"
+       ry="1.0000063"
+       inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/exported_icons/square_wave_active.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.65;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.32599998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect7094"
+       width="14"
+       height="14.000007"
+       x="-40"
+       y="-258"
+       rx="1.0000063"
+       ry="1.0000063"
+       inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/exported_icons/round_square_wave_inactive.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="-258"
+       x="-24"
+       height="14.000007"
+       width="14"
+       id="rect7096"
+       style="opacity:0.65;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.32599998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       rx="1.0000063"
+       ry="1.0000063" />
+    <rect
+       style="opacity:0.65;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.32599998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect7098"
+       width="14"
+       height="14.000007"
+       x="-8"
+       y="-258"
+       rx="1.0000063"
+       ry="1.0000063" />
+    <rect
+       y="-258"
+       x="8"
+       height="14.000007"
+       width="14"
+       id="rect7100"
+       style="opacity:0.65;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.32599998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       rx="1.0000063"
+       ry="1.0000063" />
+    <g
+       style="display:inline"
+       id="g7812"
+       transform="translate(32,-31.999963)"
+       inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/exported_icons/random_wave_inactive.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:none"
+         d="m -296,-226.00004 0,14 14,0 0,-14 z"
+         id="path7810"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         sodipodi:nodetypes="ccccccccccccccccc"
+         id="rect4330"
+         d="m -288,-224.00004 4,0 0,6 -1,0 0,-5 -2,0 0,9 -4,0 0,-6 -2,0 0,2 -1,0 0,-3 4,0 0,6 2,0 z"
+         style="opacity:0.45;fill:#ffffff;fill-opacity:1;stroke:none"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       style="display:inline"
+       id="g7816"
+       transform="translate(48,-31.999953)"
+       inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/exported_icons/random_wave_active.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path7818"
+         d="m -296,-226.00004 0,14 14,0 0,-14 z"
+         style="fill:none;stroke:none"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
+         d="m -288,-224.00004 4,0 0,6 -1,0 0,-5 -2,0 0,9 -4,0 0,-6 -2,0 0,2 -1,0 0,-3 4,0 0,6 2,0 z"
+         id="path7820"
+         sodipodi:nodetypes="ccccccccccccccccc" />
+    </g>
+    <g
+       id="g7150"
+       inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/exported_icons/moog_saw_wave_inactive.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="translate(0,-31.999963)">
+      <rect
+         y="-226.00005"
+         x="-296"
+         height="14.000007"
+         width="14"
+         id="rect5698"
+         style="opacity:0.65;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.32599998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         rx="1.0000063"
+         ry="1.0000063" />
+      <g
+         style="fill:none"
+         id="g7837">
+        <g
+           id="g7824"
+           style="fill:none">
+          <path
+             sodipodi:nodetypes="ccccc"
+             id="path7826"
+             d="m -296,-226.00004 0,14 14,0 0,-14 z"
+             style="fill:none;stroke:none"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+      <path
+         sodipodi:nodetypes="ccccccccc"
+         inkscape:connector-curvature="0"
+         id="path3861"
+         d="m -294,-216.00004 1,1 4,-6 0,3 4,3 1,-1 -4,-3 0,-5 z"
+         style="display:inline;opacity:0.45;fill:#ffffff;fill-opacity:1;stroke:none" />
+    </g>
+    <g
+       style="display:inline"
+       id="g7874"
+       transform="translate(16,-31.999963)"
+       inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/exported_icons/moog_saw_wave_active.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         id="g7876"
+         style="fill:none">
+        <g
+           style="fill:none"
+           id="g7878">
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:none"
+             d="m -296,-226.00004 0,14 14,0 0,-14 z"
+             id="path7880"
+             sodipodi:nodetypes="ccccc" />
+        </g>
+      </g>
+      <path
+         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
+         d="m -294,-216.00004 1,1 4,-6 0,3 4,3 1,-1 -4,-3 0,-5 z"
+         id="path7882"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccc" />
+    </g>
+    <g
+       style="display:inline"
+       id="g7897"
+       inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/exported_icons/triangle_wave_inactive.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="translate(0,-31.999963)">
+      <g
+         style="fill:#ababab;fill-opacity:1"
+         id="g7891"
+         transform="translate(64,3.4375e-6)">
+        <path
+           sodipodi:nodetypes="ccccc"
+           id="path7893"
+           d="m -296,-226.00004 0,14 14,0 0,-14 z"
+           style="fill:none;stroke:none"
+           inkscape:connector-curvature="0" />
+      </g>
+      <path
+         sodipodi:nodetypes="ccccccc"
+         inkscape:connector-curvature="0"
+         id="rect4212"
+         d="m -225,-223.00004 5,7 -1,1 -3.99902,-6 -4.00098,6 -1,-1 z"
+         style="display:inline;opacity:0.45;fill:#ffffff;fill-opacity:1;stroke:none" />
+    </g>
+    <g
+       style="display:inline"
+       id="g7902"
+       transform="translate(16,-31.999963)"
+       inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/exported_icons/triangle_wave_active.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         transform="translate(64,3.4375e-6)"
+         id="g7904"
+         style="fill:#ababab;fill-opacity:1">
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:none"
+           d="m -296,-226.00004 0,14 14,0 0,-14 z"
+           id="path7906"
+           sodipodi:nodetypes="ccccc" />
+      </g>
+      <path
+         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
+         d="m -225,-223.00004 5,7 -1,1 -3.99902,-6 -4.00098,6 -1,-1 z"
+         id="path7908"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccc" />
+    </g>
+    <g
+       style="display:inline"
+       id="g7926"
+       inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/exported_icons/saw_wave_inactive.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="translate(0,-31.999963)">
+      <path
+         inkscape:connector-curvature="0"
+         style="display:inline;fill:none;stroke:none"
+         d="m -296,-226.00004 0,14 14,0 0,-14 z"
+         id="path7921"
+         sodipodi:nodetypes="ccccc"
+         transform="translate(96,0)" />
+      <path
+         sodipodi:nodetypes="ccccccc"
+         inkscape:connector-curvature="0"
+         id="rect4212-5"
+         d="m -188,-223.00004 0,8 -1,0 0,-6 -8,6 -1,-1 z"
+         style="display:inline;opacity:0.45;fill:#ffffff;fill-opacity:1;stroke:none" />
+    </g>
+    <g
+       style="display:inline"
+       id="g7930"
+       transform="translate(16,-31.999963)"
+       inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/exported_icons/saw_wave_active.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         transform="translate(96,0)"
+         sodipodi:nodetypes="ccccc"
+         id="path7932"
+         d="m -296,-226.00004 0,14 14,0 0,-14 z"
+         style="display:inline;fill:none;stroke:none"
+         inkscape:connector-curvature="0" />
+      <path
+         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
+         d="m -188,-223.00004 0,8 -1,0 0,-6 -8,6 -1,-1 z"
+         id="path7934"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccc" />
+    </g>
+    <g
+       style="display:inline"
+       id="g7963"
+       inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/exported_icons/sin_wave_inactive.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="translate(0,-31.999963)">
+      <g
+         style="fill:none"
+         id="g7943"
+         transform="translate(32,0)">
+        <path
+           transform="translate(96,0)"
+           sodipodi:nodetypes="ccccc"
+           id="path7945"
+           d="m -296,-226.00004 0,14 14,0 0,-14 z"
+           style="display:inline;fill:none;stroke:none"
+           inkscape:connector-curvature="0" />
+      </g>
+      <path
+         sodipodi:nodetypes="zcczssccssz"
+         inkscape:connector-curvature="0"
+         id="rect4212-4"
+         transform="translate(-304,-209.99905)"
+         d="m 141,-13 c -2,0 -3,2 -3,4 l 1,0 c 0,-2 1,-3 2,-3 1,0 1.48773,1 1.48773,3 0,2 0.51227,4 2.51227,4 2,0 3,-2.0009866 3,-4.0009866 l -1,0 c 0,2 -1,3.0009866 -2,3.0009866 -1,0 -1.51227,-1 -1.51227,-3 0,-2 -0.48773,-4 -2.48773,-4 z"
+         style="display:inline;opacity:0.45;fill:#ffffff;fill-opacity:1;stroke:none" />
+    </g>
+    <g
+       style="display:inline"
+       id="g7968"
+       transform="translate(16,-31.999963)"
+       inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/exported_icons/sin_wave_active.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         transform="translate(32,0)"
+         id="g7970"
+         style="fill:none">
+        <path
+           inkscape:connector-curvature="0"
+           style="display:inline;fill:none;stroke:none"
+           d="m -296,-226.00004 0,14 14,0 0,-14 z"
+           id="path7972"
+           sodipodi:nodetypes="ccccc"
+           transform="translate(96,0)" />
+      </g>
+      <path
+         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
+         d="m 141,-13 c -2,0 -3,2 -3,4 l 1,0 c 0,-2 1,-3 2,-3 1,0 1.48773,1 1.48773,3 0,2 0.51227,4 2.51227,4 2,0 3,-2.0009866 3,-4.0009866 l -1,0 c 0,2 -1,3.0009866 -2,3.0009866 -1,0 -1.51227,-1 -1.51227,-3 0,-2 -0.48773,-4 -2.48773,-4 z"
+         transform="translate(-304,-209.99905)"
+         id="path7974"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="zcczssccssz" />
+    </g>
+    <g
+       style="display:inline"
+       id="g7998"
+       inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/exported_icons/exp_wave_inactive.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="translate(0,-31.999963)">
+      <g
+         style="fill:none"
+         id="g7983"
+         transform="translate(32,0)">
+        <g
+           transform="translate(32,0)"
+           id="g7985"
+           style="fill:none">
+          <path
+             inkscape:connector-curvature="0"
+             style="display:inline;fill:none;stroke:none"
+             d="m -296,-226.00004 0,14 14,0 0,-14 z"
+             id="path7987"
+             sodipodi:nodetypes="ccccc"
+             transform="translate(96,0)" />
+        </g>
+      </g>
+      <path
+         sodipodi:nodetypes="cccccccc"
+         inkscape:connector-curvature="0"
+         id="rect4212-8"
+         d="m -129.5,-223.00004 c 0,4 -1.54001,6.05014 -4.5,8 l 1,0 c 2.15598,-1.42023 3.32195,-2.55704 4,-4.75 0.67805,2.19296 1.84402,3.32977 4,4.75 l 1,0 c -2.95999,-1.94986 -4.5,-4 -4.5,-8 z"
+         style="display:inline;opacity:0.45;fill:#ffffff;fill-opacity:1;stroke:none" />
+    </g>
+    <g
+       style="display:inline"
+       id="g8004"
+       transform="translate(16,-31.999963)"
+       inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/exported_icons/exp_wave_active.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         transform="translate(32,0)"
+         id="g8006"
+         style="fill:none">
+        <g
+           style="fill:none"
+           id="g8008"
+           transform="translate(32,0)">
+          <path
+             transform="translate(96,0)"
+             sodipodi:nodetypes="ccccc"
+             id="path8010"
+             d="m -296,-226.00004 0,14 14,0 0,-14 z"
+             style="display:inline;fill:none;stroke:none"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+      <path
+         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
+         d="m -129.5,-223.00004 c 0,4 -1.54001,6.05014 -4.5,8 l 1,0 c 2.15598,-1.42023 3.32195,-2.55704 4,-4.75 0.67805,2.19296 1.84402,3.32977 4,4.75 l 1,0 c -2.95999,-1.94986 -4.5,-4 -4.5,-8 z"
+         id="path8012"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccccc" />
+    </g>
+    <g
+       style="display:inline"
+       id="g8038"
+       transform="translate(16,-31.999963)"
+       inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/exported_icons/white_noise_wave_active.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         transform="translate(32,0)"
+         id="g8040"
+         style="fill:none">
+        <g
+           style="fill:none"
+           id="g8042"
+           transform="translate(32,0)">
+          <g
+             transform="translate(32,0)"
+             id="g8044"
+             style="fill:none">
+            <path
+               inkscape:connector-curvature="0"
+               style="display:inline;fill:none;stroke:none"
+               d="m -296,-226.00004 0,14 14,0 0,-14 z"
+               id="path8046"
+               sodipodi:nodetypes="ccccc"
+               transform="translate(96,0)" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       style="display:inline"
+       id="g8069"
+       inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/exported_icons/square_wave_inactive.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="translate(0,-31.999963)">
+      <g
+         id="g8050"
+         transform="translate(32,0)">
+        <g
+           transform="translate(32,0)"
+           id="g8052"
+           style="fill:#ffffff;fill-opacity:1">
+          <g
+             style="fill:#ffffff;fill-opacity:1"
+             id="g8054"
+             transform="translate(32,0)">
+            <g
+               transform="translate(32,0)"
+               id="g8056"
+               style="fill:#ffffff;fill-opacity:1">
+              <path
+                 inkscape:connector-curvature="0"
+                 style="display:inline;fill:none;stroke:none"
+                 d="m -296,-226.00004 0,14 14,0 0,-14 z"
+                 id="path8058"
+                 sodipodi:nodetypes="ccccc"
+                 transform="translate(96,0)" />
+            </g>
+          </g>
+        </g>
+      </g>
+      <path
+         sodipodi:nodetypes="ccccccccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="rect4275-1"
+         d="m -70,-223.00004 4,0 1,0 0,1 0,6 3,0 0,-3 1,0 0,3 0,1 -4,0 -1,0 0,-1 0,-6 -3,0 0,3 -1,0 0,-3 z"
+         style="display:inline;opacity:0.45;fill:#ffffff;fill-opacity:1;stroke:none" />
+    </g>
+    <g
+       style="display:inline"
+       id="g8077"
+       transform="translate(16,-31.999963)"
+       inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/exported_icons/square_wave_active.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         transform="translate(32,0)"
+         id="g8079">
+        <g
+           style="fill:#ffffff;fill-opacity:1"
+           id="g8081"
+           transform="translate(32,0)">
+          <g
+             transform="translate(32,0)"
+             id="g8083"
+             style="fill:#ffffff;fill-opacity:1">
+            <g
+               style="fill:#ffffff;fill-opacity:1"
+               id="g8085"
+               transform="translate(32,0)">
+              <path
+                 transform="translate(96,0)"
+                 sodipodi:nodetypes="ccccc"
+                 id="path8087"
+                 d="m -296,-226.00004 0,14 14,0 0,-14 z"
+                 style="display:inline;fill:none;stroke:none"
+                 inkscape:connector-curvature="0" />
+            </g>
+          </g>
+        </g>
+      </g>
+      <path
+         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
+         d="m -70,-223.00004 4,0 1,0 0,1 0,6 3,0 0,-3 1,0 0,3 0,1 -4,0 -1,0 0,-1 0,-6 -3,0 0,3 -1,0 0,-3 z"
+         id="path8089"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccccccccccccc" />
+    </g>
+    <g
+       style="display:inline"
+       id="g8112"
+       inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/exported_icons/round_square_wave_inactive.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="translate(0,-31.999963)">
+      <g
+         style="fill:none"
+         id="g8098"
+         transform="translate(32,0)">
+        <g
+           style="fill:none"
+           transform="translate(32,0)"
+           id="g8100">
+          <g
+             style="fill:none"
+             id="g8102"
+             transform="translate(32,0)">
+            <g
+               transform="translate(32,0)"
+               id="g8104"
+               style="fill:none">
+              <g
+                 style="fill:none"
+                 id="g8106"
+                 transform="translate(32,0)">
+                <path
+                   transform="translate(96,0)"
+                   sodipodi:nodetypes="ccccc"
+                   id="path8108"
+                   d="m -296,-226.00004 0,14 14,0 0,-14 z"
+                   style="display:inline;fill:none;stroke:none"
+                   inkscape:connector-curvature="0" />
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <path
+         sodipodi:nodetypes="ccccccsccscc"
+         inkscape:connector-curvature="0"
+         id="path4303"
+         d="m -32,-223.01176 -9.8e-4,7.99037 4.00098,0.0194 -0.004,1.00195 -4.99804,-0.0234 7e-5,-7.70458 c -1.11811,0.38914 -2.08335,1.22471 -2.78319,2.5 -0.80785,1.47213 -1.12511,3.36963 -1.21484,5.2163 l -1,0 c 0.0953,-1.96222 0.59501,-4.00509 1.48047,-5.61864 0.88546,-1.61355 2.18131,-2.98618 3.86035,-3.29165 z"
+         style="display:inline;opacity:0.45;fill:#ffffff;fill-opacity:1;stroke:none" />
+    </g>
+    <g
+       style="display:inline"
+       id="g8121"
+       transform="translate(16,-31.999963)"
+       inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/exported_icons/round_square_wave_active.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         transform="translate(32,0)"
+         id="g8123"
+         style="fill:none">
+        <g
+           id="g8125"
+           transform="translate(32,0)"
+           style="fill:none">
+          <g
+             transform="translate(32,0)"
+             id="g8127"
+             style="fill:none">
+            <g
+               style="fill:none"
+               id="g8129"
+               transform="translate(32,0)">
+              <g
+                 transform="translate(32,0)"
+                 id="g8131"
+                 style="fill:none">
+                <path
+                   inkscape:connector-curvature="0"
+                   style="display:inline;fill:none;stroke:none"
+                   d="m -296,-226.00004 0,14 14,0 0,-14 z"
+                   id="path8133"
+                   sodipodi:nodetypes="ccccc"
+                   transform="translate(96,0)" />
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <path
+         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
+         d="m -32,-223.01176 -9.8e-4,7.99037 4.00098,0.0194 -0.004,1.00195 -4.99804,-0.0234 7e-5,-7.70458 c -1.11811,0.38914 -2.08335,1.22471 -2.78319,2.5 -0.80785,1.47213 -1.12511,3.36963 -1.21484,5.2163 l -1,0 c 0.0953,-1.96222 0.59501,-4.00509 1.48047,-5.61864 0.88546,-1.61355 2.18131,-2.98618 3.86035,-3.29165 z"
+         id="path8135"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccsccscc" />
+    </g>
+    <g
+       style="display:inline"
+       id="g8241"
+       transform="translate(-32,-11.999952)"
+       inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/exported_icons/usr_wave_inactive.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         sodipodi:nodetypes="ccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="rect4293"
+         d="m 30,-243.00004 2,0 0,3 3,0 0,2 -3,0 0,3 -2,0 0,-3 -3,0 0,-2 3,0 z"
+         style="display:inline;opacity:0.45;fill:#ffffff;fill-opacity:1;stroke:none" />
+      <g
+         style="fill:none"
+         id="g8217"
+         transform="translate(64,-20)">
+        <g
+           transform="translate(32,0)"
+           id="g8219"
+           style="fill:none">
+          <g
+             id="g8221"
+             transform="translate(32,0)"
+             style="fill:none">
+            <g
+               transform="translate(32,0)"
+               id="g8223"
+               style="fill:none">
+              <g
+                 style="fill:none"
+                 id="g8225"
+                 transform="translate(32,0)">
+                <g
+                   transform="translate(32,0)"
+                   id="g8227"
+                   style="fill:none">
+                  <path
+                     inkscape:connector-curvature="0"
+                     style="display:inline;fill:none;stroke:none"
+                     d="m -296,-226.00004 0,14 14,0 0,-14 z"
+                     id="path8229"
+                     sodipodi:nodetypes="ccccc"
+                     transform="translate(96,0)" />
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       style="display:inline"
+       id="g8271"
+       transform="translate(-16,-11.999952)"
+       inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/exported_icons/usr_wave_active.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
+         d="m 30,-243.00004 2,0 0,3 3,0 0,2 -3,0 0,3 -2,0 0,-3 -3,0 0,-2 3,0 z"
+         id="path8273"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccccccc" />
+      <g
+         transform="translate(64,-20)"
+         id="g8275"
+         style="fill:none">
+        <g
+           style="fill:none"
+           id="g8277"
+           transform="translate(32,0)">
+          <g
+             style="fill:none"
+             transform="translate(32,0)"
+             id="g8279">
+            <g
+               style="fill:none"
+               id="g8281"
+               transform="translate(32,0)">
+              <g
+                 transform="translate(32,0)"
+                 id="g8283"
+                 style="fill:none">
+                <g
+                   style="fill:none"
+                   id="g8285"
+                   transform="translate(32,0)">
+                  <path
+                     transform="translate(96,0)"
+                     sodipodi:nodetypes="ccccc"
+                     id="path8287"
+                     d="m -296,-226.00004 0,14 14,0 0,-14 z"
+                     style="display:inline;fill:none;stroke:none"
+                     inkscape:connector-curvature="0" />
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       style="display:inline"
+       id="g8375"
+       inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/exported_icons/white_noise_wave_inactive.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="translate(0,-11.999962)">
+      <path
+         sodipodi:nodetypes="ccccccccccccccc"
+         transform="translate(-304,-209.99905)"
+         inkscape:connector-curvature="0"
+         id="path8355"
+         d="m 203,-26.000987 -1,0 2,-9 2,7 1,-5 2,6 2,-7 1,9 -1,0 -0.35333,-4.058887 -1.64667,6.058887 -2,-7 -1,6 -2,-6 z"
+         style="opacity:0.45;fill:#ffffff;fill-opacity:1;stroke:none" />
+      <g
+         id="g8363"
+         transform="translate(0,-20)">
+        <g
+           style="fill:none"
+           id="g8365"
+           transform="translate(32,0)">
+          <g
+             transform="translate(32,0)"
+             id="g8367"
+             style="fill:none">
+            <g
+               style="fill:none"
+               id="g8369"
+               transform="translate(32,0)">
+              <path
+                 transform="translate(96,0)"
+                 sodipodi:nodetypes="ccccc"
+                 id="path8371"
+                 d="m -296,-226.00004 0,14 14,0 0,-14 z"
+                 style="display:inline;fill:none;stroke:none"
+                 inkscape:connector-curvature="0" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       style="display:inline"
+       id="g8383"
+       transform="translate(16,-11.999962)"
+       inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/exported_icons/white_noise_wave_active.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
+         d="m 203,-26.000987 -1,0 2,-9 2,7 1,-5 2,6 2,-7 1,9 -1,0 -0.35333,-4.058887 -1.64667,6.058887 -2,-7 -1,6 -2,-6 z"
+         id="path8385"
+         inkscape:connector-curvature="0"
+         transform="translate(-304,-209.99905)"
+         sodipodi:nodetypes="ccccccccccccccc" />
+      <g
+         transform="translate(0,-20)"
+         id="g8387">
+        <g
+           transform="translate(32,0)"
+           id="g8389"
+           style="fill:none">
+          <g
+             style="fill:none"
+             id="g8391"
+             transform="translate(32,0)">
+            <g
+               transform="translate(32,0)"
+               id="g8393"
+               style="fill:none">
+              <path
+                 inkscape:connector-curvature="0"
+                 style="display:inline;fill:none;stroke:none"
+                 d="m -296,-226.00004 0,14 14,0 0,-14 z"
+                 id="path8395"
+                 sodipodi:nodetypes="ccccc"
+                 transform="translate(96,0)" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
     <g
        id="g6126"
-       transform="translate(371,-424.99998)">
+       transform="translate(371,-456.99994)">
       <rect
          y="198.99995"
          x="-347"
          height="13.999993"
          width="14"
          id="rect6124"
-         style="fill:none;stroke:none;display:inline" />
+         style="display:inline;fill:none;stroke:none" />
       <path
-         style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
          d="m -342,201.49994 -3,2.5 0,4 3,2.5 z m -5,2.5 0,4 1,1e-5 0,-4 z"
          id="path4717"
          inkscape:connector-curvature="0"
@@ -5002,7 +5376,7 @@
       <g
          id="g5965"
          transform="translate(107.99998,-25.999997)"
-         style="fill:#ffffff;display:inline">
+         style="display:inline;fill:#ffffff">
         <rect
            transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,0,0)"
            style="fill:#ffffff;fill-opacity:1;stroke:none"
