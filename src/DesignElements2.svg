@@ -11,14 +11,16 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="372"
-   height="443.99484"
+   width="363.26666"
+   height="852.56744"
    id="svg2"
    sodipodi:version="0.32"
    inkscape:version="0.91 r13725"
    version="1.0"
    sodipodi:docname="DesignElements2.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <title
+     id="title5805">LMMS Open Source Design Elements</title>
   <sodipodi:namedview
      id="base"
      pagecolor="#121316"
@@ -29,12 +31,12 @@
      objecttolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4"
-     inkscape:cx="131.79132"
-     inkscape:cy="-80.484772"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="114.14428"
+     inkscape:cy="737.3527"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="true"
+     showgrid="false"
      showborder="false"
      inkscape:window-width="1600"
      inkscape:window-height="811"
@@ -52,25 +54,78 @@
      inkscape:bbox-paths="true"
      inkscape:bbox-nodes="true"
      inkscape:snap-bbox-edge-midpoints="true"
-     inkscape:snap-bbox-midpoints="true">
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true">
     <inkscape:grid
        type="xygrid"
        id="grid2447"
        visible="true"
        enabled="true"
-       spacingx="1px"
-       spacingy="1px"
-       empspacing="4"
-       empcolor="#313131"
-       empopacity="0.39215686"
+       spacingx="1"
+       spacingy="1"
+       empspacing="1"
+       empcolor="#ffffff"
+       empopacity="0.05882353"
        snapvisiblegridlinesonly="true"
-       originx="-520px"
-       originy="-1044.0052px"
-       color="#313131"
-       opacity="0.39215686" />
+       originx="0"
+       originy="0"
+       color="#ffffff"
+       opacity="0.05882353"
+       dotted="false" />
   </sodipodi:namedview>
   <defs
      id="defs4">
+    <linearGradient
+       id="linearGradient5781">
+      <stop
+         style="stop-color:#1f2027;stop-opacity:1"
+         offset="0"
+         id="stop5783" />
+      <stop
+         style="stop-color:#282a32;stop-opacity:1"
+         offset="1"
+         id="stop5785" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5892">
+      <stop
+         style="stop-color:#e1012a;stop-opacity:1"
+         offset="0"
+         id="stop5894" />
+      <stop
+         style="stop-color:#f5eb42;stop-opacity:1"
+         offset="0.37037039"
+         id="stop5896" />
+      <stop
+         id="stop5898"
+         offset="1"
+         style="stop-color:#0bd456;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5657">
+      <stop
+         id="stop5882"
+         offset="0"
+         style="stop-color:#c20124;stop-opacity:1;" />
+      <stop
+         id="stop5884"
+         offset="0.1203704"
+         style="stop-color:#dcf542;stop-opacity:1" />
+      <stop
+         style="stop-color:#0bd556;stop-opacity:1"
+         offset="0.51851857"
+         id="stop5886" />
+      <stop
+         id="stop5888"
+         offset="1"
+         style="stop-color:#0aceae;stop-opacity:1;" />
+    </linearGradient>
     <linearGradient
        id="linearGradient7851">
       <stop
@@ -124,7 +179,7 @@
          id="stop4569" />
     </linearGradient>
     <linearGradient
-       id="linearGradient5657">
+       id="linearGradient5890">
       <stop
          style="stop-color:#c20124;stop-opacity:1;"
          offset="0"
@@ -145,7 +200,7 @@
     <linearGradient
        id="linearGradient5235"
        osb:paint="solid"
-       gradientTransform="translate(-159.40292,-602.24082)">
+       gradientTransform="translate(374.44268,-1120.4249)">
       <stop
          style="stop-color:#d1d8e4;stop-opacity:1;"
          offset="0"
@@ -154,16 +209,16 @@
     <linearGradient
        id="linearGradient6071"
        osb:paint="solid"
-       gradientTransform="matrix(2.0535696,0,0,5.625003,1285.8588,-3465.2467)">
+       gradientTransform="matrix(1.5094834,0,0,4.1346776,1694.4572,-2051.3315)">
       <stop
-         style="stop-color:#3d454f;stop-opacity:1;"
+         style="stop-color:#3e414e;stop-opacity:1;"
          offset="0"
          id="stop6073" />
     </linearGradient>
     <linearGradient
        id="linearGradient6063"
        osb:paint="solid"
-       gradientTransform="matrix(1.2571521,0,0,5.6250022,945.02326,-2502.7412)">
+       gradientTransform="matrix(0.90235159,0,0,3.8943301,3129.5753,-3152.932)">
       <stop
          style="stop-color:#282a32;stop-opacity:1;"
          offset="0"
@@ -172,7 +227,7 @@
     <linearGradient
        id="linearGradient6055"
        osb:paint="solid"
-       gradientTransform="matrix(12.326896,0,0,6.2184151,-5519.7666,-2715.5895)">
+       gradientTransform="matrix(9.0609271,0,0,4.5708672,-3253.4793,-1528.0053)">
       <stop
          style="stop-color:#121316;stop-opacity:1;"
          offset="0"
@@ -181,7 +236,7 @@
     <linearGradient
        id="linearGradient6047"
        osb:paint="solid"
-       gradientTransform="translate(0.75,-3.2448273)">
+       gradientTransform="matrix(0.73505341,0,0,0.73505341,129.479,1121.8316)">
       <stop
          style="stop-color:#7f0a1d;stop-opacity:1;"
          offset="0"
@@ -190,16 +245,16 @@
     <linearGradient
        id="linearGradient6039"
        osb:paint="solid"
-       gradientTransform="translate(0,1.3333282)">
+       gradientTransform="matrix(0.73505341,0,0,0.73505341,986.15582,-976.97705)">
       <stop
-         style="stop-color:#221b56;stop-opacity:1;"
+         style="stop-color:#2b226c;stop-opacity:1;"
          offset="0"
          id="stop6041" />
     </linearGradient>
     <linearGradient
        id="linearGradient6031"
        osb:paint="solid"
-       gradientTransform="translate(0,0.66663742)">
+       gradientTransform="matrix(0.73505341,0,0,0.73505341,955.65587,-946.60235)">
       <stop
          style="stop-color:#0ac8bb;stop-opacity:1;"
          offset="0"
@@ -207,7 +262,8 @@
     </linearGradient>
     <linearGradient
        id="linearGradient6021"
-       osb:paint="solid">
+       osb:paint="solid"
+       gradientTransform="matrix(0.73505341,0,0,0.73505341,-835.41659,-1030.0205)">
       <stop
          style="stop-color:#0bd556;stop-opacity:1;"
          offset="0"
@@ -457,7 +513,7 @@
        xlink:href="#linearGradient5355"
        id="linearGradient4861"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(0,-40)"
+       gradientTransform="translate(0,-39.98658)"
        x1="703"
        y1="-466.00003"
        x2="703"
@@ -667,7 +723,7 @@
        xlink:href="#linearGradient4223"
        id="linearGradient4637"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-229.13393,-240.64283)"
+       gradientTransform="translate(-229.12977,-240.64283)"
        x1="685.13391"
        y1="17.642843"
        x2="685.13391"
@@ -687,7 +743,7 @@
        xlink:href="#linearGradient5105"
        id="linearGradient3688"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-145.13393,-240.6428)"
+       gradientTransform="translate(-145.40053,-240.48714)"
        x1="685.13391"
        y1="22.642813"
        x2="685.13391"
@@ -697,7 +753,7 @@
        xlink:href="#linearGradient6752-8"
        id="linearGradient3692"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.37759433,0,0,0.37759433,483.05946,-257.35061)"
+       gradientTransform="matrix(0.37759433,0,0,0.37759433,482.79286,-257.19495)"
        x1="148.14984"
        y1="96.268974"
        x2="148.14984"
@@ -707,7 +763,7 @@
        xlink:href="#linearGradient8816"
        id="linearGradient3695"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.3728863,0,0,0.43137171,482.64549,-263.66803)"
+       gradientTransform="matrix(0.3728863,0,0,0.43137171,482.37889,-263.51237)"
        x1="153.81233"
        y1="98.912476"
        x2="153.81233"
@@ -727,90 +783,6 @@
          offset="1"
          id="stop4227-7" />
     </linearGradient>
-    <filter
-       color-interpolation-filters="sRGB"
-       inkscape:collect="always"
-       id="filter4657"
-       x="-0.29416341"
-       width="1.5883268"
-       y="-1.4708171"
-       height="3.9416342">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="1.2256809"
-         id="feGaussianBlur4659" />
-    </filter>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4223-4"
-       id="linearGradient7879"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-86.13393,-496.64277)"
-       x1="677.13391"
-       y1="24.642832"
-       x2="687.13391"
-       y2="24.642832" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4223-4"
-       id="linearGradient7885"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-106.13393,-496.64277)"
-       x1="677.13391"
-       y1="24.642832"
-       x2="687.13391"
-       y2="24.642832" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4223-4"
-       id="linearGradient7914"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-146.13393,-496.64277)"
-       x1="677.13391"
-       y1="24.642832"
-       x2="687.13391"
-       y2="24.642832" />
-    <filter
-       inkscape:collect="always"
-       id="filter7922"
-       x="-0.13307402"
-       width="1.266148"
-       y="-0.26614749"
-       height="1.532295">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.66537011"
-         id="feGaussianBlur7924" />
-    </filter>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient5235"
-       id="linearGradient5251"
-       gradientUnits="userSpaceOnUse"
-       x1="509.5"
-       y1="794"
-       x2="538.5"
-       y2="794" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4223"
-       id="linearGradient6312"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-136,-40.000015)"
-       x1="825"
-       y1="-319"
-       x2="825"
-       y2="-207.99997" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4223"
-       id="linearGradient6314"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-124,-40.000015)"
-       x1="825"
-       y1="-319"
-       x2="825"
-       y2="-207.99997" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient4482"
@@ -833,55 +805,14 @@
        y2="473.50006" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient5657"
-       id="linearGradient4634"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(429,-537.00001)"
-       x1="273"
-       y1="180"
-       x2="273"
-       y2="288" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient5657"
-       id="linearGradient4636"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(417,-537.00001)"
-       x1="273"
-       y1="180"
-       x2="273"
-       y2="288" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4565"
-       id="linearGradient5851"
-       x1="689.5"
-       y1="-249.52397"
-       x2="689.5"
-       y2="-359"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient5855"
        id="linearGradient5853"
        x1="701.5"
        y1="-249.52397"
        x2="701.5"
        y2="-358.47601"
-       gradientUnits="userSpaceOnUse" />
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter5826"
-       x="-0.29520005"
-       width="1.5904001"
-       y="-0.013924528"
-       height="1.0278491">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.61500011"
-         id="feGaussianBlur5828" />
-    </filter>
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-0.2666,0.15567385)" />
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
@@ -900,7 +831,7 @@
        xlink:href="#linearGradient7851-7"
        id="linearGradient5433"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.1428571,0,0,1,-538.28572,-17.000026)"
+       gradientTransform="matrix(1.1428571,0,0,1,-538.55232,-16.844309)"
        x1="1045"
        y1="-37.000019"
        x2="1045"
@@ -918,14 +849,182 @@
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient7851-7"
-       id="linearGradient5433-7"
+       xlink:href="#linearGradient5235"
+       id="linearGradient5251-9"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.1428571,0,0,1,-538.28568,-17.00002)"
-       x1="1045"
-       y1="-37.000019"
-       x2="1045"
-       y2="-117.00003" />
+       x1="509.5"
+       y1="794"
+       x2="538.5"
+       y2="794"
+       gradientTransform="matrix(0.85735256,0,0,0.85735256,178.63721,-18.984989)" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter5017"
+       x="-0.25200012"
+       width="1.5040002"
+       y="-0.62999922"
+       height="2.2599986">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.0500005"
+         id="feGaussianBlur5019" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter5003"
+       x="-0.13500009"
+       width="1.2700002"
+       y="-0.26999962"
+       height="1.5399992">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.67500046"
+         id="feGaussianBlur5005" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter5013"
+       x="-0.25200012"
+       width="1.5040002"
+       y="-0.62999922"
+       height="2.2599986">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.0500005"
+         id="feGaussianBlur5015" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4223"
+       id="linearGradient5175"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-106.13393,-496.64277)"
+       x1="677.13391"
+       y1="24.642832"
+       x2="687.13391"
+       y2="24.642832" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter5009"
+       x="-0.25200012"
+       width="1.5040002"
+       y="-0.62999922"
+       height="2.2599986">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.0500005"
+         id="feGaussianBlur5011" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4223"
+       id="linearGradient5179"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-146.13393,-496.64277)"
+       x1="677.13391"
+       y1="24.642832"
+       x2="687.13391"
+       y2="24.642832" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4223-4"
+       id="linearGradient5207"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-146.13393,-496.64277)"
+       x1="677.13391"
+       y1="24.642832"
+       x2="687.13391"
+       y2="24.642832" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4223-4"
+       id="linearGradient5209"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-106.13393,-496.64277)"
+       x1="677.13391"
+       y1="24.642832"
+       x2="687.13391"
+       y2="24.642832" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4223-4"
+       id="linearGradient5211"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-86.13393,-496.64277)"
+       x1="677.13391"
+       y1="24.642832"
+       x2="687.13391"
+       y2="24.642832" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5855"
+       id="linearGradient3981"
+       gradientUnits="userSpaceOnUse"
+       x1="701.5"
+       y1="-249.52397"
+       x2="701.5"
+       y2="-358.47601"
+       gradientTransform="translate(-0.2666574,3.1556908)" />
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:collect="always"
+       id="filter5830-0"
+       x="-0.29520005"
+       width="1.5904001"
+       y="-0.013924528"
+       height="1.0278491">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.61500011"
+         id="feGaussianBlur5832-2" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5855"
+       id="linearGradient3984"
+       gradientUnits="userSpaceOnUse"
+       x1="689.5"
+       y1="-249.52397"
+       x2="689.5"
+       y2="-359"
+       gradientTransform="translate(-0.2666574,3.1556908)" />
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:collect="always"
+       id="filter5826-1"
+       x="-0.29520005"
+       width="1.5904001"
+       y="-0.013924528"
+       height="1.0278491">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.61500011"
+         id="feGaussianBlur5828-7" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4223"
+       id="linearGradient3988"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-124.26666,-36.844309)"
+       x1="825"
+       y1="-319"
+       x2="825"
+       y2="-207.99997" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4223"
+       id="linearGradient3992"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-136.26666,-36.844309)"
+       x1="825"
+       y1="-319"
+       x2="825"
+       y2="-207.99997" />
   </defs>
   <metadata
      id="metadata7">
@@ -935,8 +1034,29 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title>LMMS Open Source Design Elements</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Rebecca DeField</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>Rebecca DeField, Umcaruje, DigitizerMusic</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
       </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
     </rdf:RDF>
   </metadata>
   <g
@@ -944,29 +1064,29 @@
      inkscape:groupmode="layer"
      id="layer1"
      style="display:inline"
-     transform="translate(-520,498.00003)">
+     transform="translate(-523.73334,598.41177)">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:100%;font-family:Verdana;-inkscape-font-specification:Verdana;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
        x="-1285.3896"
-       y="646.31042"
+       y="646.21039"
        id="text3462"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
          id="tspan3464"
          x="-1285.3896"
-         y="646.31042" /></text>
+         y="646.21039" /></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:Verdana;-inkscape-font-specification:Verdana;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
        x="980"
-       y="-355"
+       y="-355.10001"
        id="text4361"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
          id="tspan4363"
          x="980"
-         y="-355" /></text>
+         y="-355.10001" /></text>
     <path
        style="fill:#000000"
        d=""
@@ -974,29 +1094,16 @@
        inkscape:connector-curvature="0" />
     <g
        id="g6343"
-       transform="translate(-846.73831,-7.3886415)" />
-    <path
-       style="display:inline;fill:url(#linearGradient6063);fill-opacity:1;stroke:none"
-       d="m 560,-493.99863 0,11.9985 -36,-0.002 0,-11.9985 z"
-       id="path3682"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccc" />
-    <rect
-       style="display:inline;fill:url(#linearGradient6063);fill-opacity:1;stroke:none"
-       id="rect3688"
-       width="84"
-       height="20.000032"
-       x="524"
-       y="-482.00006" />
+       transform="translate(-846.73831,-7.4886477)" />
     <path
        sodipodi:nodetypes="ccccc"
        inkscape:connector-curvature="0"
        id="path3145"
-       d="m 640,-493.99896 0,9.99953 -28,-0.002 0,-9.99954 z"
+       d="m 639.7334,-493.84386 0,9.99953 -28,-0.002 0,-9.99954 z"
        style="display:inline;fill:url(#linearGradient6063);fill-opacity:1;stroke:none" />
     <rect
-       y="-484.00003"
-       x="612"
+       y="-483.84433"
+       x="611.7334"
        height="21.999998"
        width="28"
        id="rect3147"
@@ -1005,11 +1112,11 @@
        sodipodi:nodetypes="ccccc"
        inkscape:connector-curvature="0"
        id="path3487"
-       d="m 560,-457.99999 0,11.9985 -36,-0.002 0,-11.9985 z"
+       d="m 559.7334,-457.84283 0,11.9985 -36,-0.002 0,-11.9985 z"
        style="display:inline;fill:url(#linearGradient6063);fill-opacity:1;stroke:none" />
     <rect
-       y="-445.99945"
-       x="524"
+       y="-445.84378"
+       x="523.7334"
        height="63.999462"
        width="248"
        id="rect3489"
@@ -1018,17 +1125,17 @@
        sodipodi:nodetypes="ccccc"
        inkscape:connector-curvature="0"
        id="path5286"
-       d="m 679.78776,-491.93916 0,11.9985 -36,-0.002 0,-11.9985 z"
+       d="m 679.73334,-493.84283 0,11.9985 -36,-0.002 0,-11.9985 z"
        style="display:inline;fill:url(#linearGradient6063);fill-opacity:1;stroke:none" />
     <path
        style="display:inline;fill:url(#linearGradient6063);fill-opacity:1;stroke:none"
-       d="m 772,-481.99658 0,19.99655 -128,-0.003 0,-19.99655 z"
+       d="m 771.7334,-481.84088 0,19.99655 -128,-0.003 0,-19.99655 z"
        id="path5402"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
     <path
        style="display:inline;fill:url(#linearGradient6063);fill-opacity:1;stroke:none"
-       d="m 711.99999,-377.99798 0,11.99759 -32,-0.002 0,-11.9976 z"
+       d="m 711.73339,-377.84192 0,11.99759 -32,-0.002 0,-11.9976 z"
        id="path5806"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
@@ -1037,24 +1144,24 @@
        id="rect5808"
        width="32"
        height="123.99999"
-       x="680"
-       y="-366" />
+       x="679.7334"
+       y="-365.84433" />
     <path
        sodipodi:nodetypes="ccccc"
        inkscape:connector-curvature="0"
        id="path3776"
-       d="m 748.00003,-377.998 0,11.9985 -32,-0.002 0,-11.99849 z"
+       d="m 747.73343,-377.84283 0,11.9985 -32,-0.002 0,-11.99849 z"
        style="display:inline;fill:url(#linearGradient6063);fill-opacity:1;stroke:none" />
     <rect
-       y="-365.99942"
-       x="716"
+       y="-365.84378"
+       x="715.7334"
        height="31.999439"
        width="56"
        id="rect3778"
        style="display:inline;fill:url(#linearGradient6063);fill-opacity:1;stroke:none" />
     <path
        style="display:inline;fill:url(#linearGradient6063);fill-opacity:1;stroke:none"
-       d="m 588,-377.99799 0,11.9985 -64,-0.002 0,-11.9985 z"
+       d="m 587.7334,-377.84283 0,11.9985 -64,-0.002 0,-11.9985 z"
        id="path6516"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
@@ -1063,11 +1170,11 @@
        id="rect6518"
        width="152"
        height="124.12114"
-       x="524"
-       y="-365.99939" />
+       x="523.7334"
+       y="-365.96545" />
     <path
        style="display:inline;fill:url(#linearGradient6063);fill-opacity:1;stroke:none"
-       d="m 768,-329.99799 0,11.9985 -52,-0.002 0,-11.9985 z"
+       d="m 767.7334,-329.84283 0,11.9985 -52,-0.002 0,-11.9985 z"
        id="path3450"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
@@ -1076,11 +1183,11 @@
        id="rect3452"
        width="56"
        height="27.99943"
-       x="716"
-       y="-317.99942" />
+       x="715.7334"
+       y="-317.84375" />
     <path
        style="display:inline;fill:url(#linearGradient6063);fill-opacity:1;stroke:none"
-       d="m 752,-285.99799 0,11.9985 -36,-0.002 0,-11.9985 z"
+       d="m 751.7334,-285.84283 0,11.9985 -36,-0.002 0,-11.9985 z"
        id="path5213"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
@@ -1089,24 +1196,24 @@
        id="rect5215"
        width="56"
        height="31.99943"
-       x="716"
-       y="-273.99945" />
+       x="715.7334"
+       y="-273.84375" />
     <path
        style="display:inline;fill:url(#linearGradient6063);fill-opacity:1;stroke:none"
-       d="m 772,-237.998 0,11.9985 -16,-0.002 0,-11.99849 z"
+       d="m 771.7334,-237.84283 0,11.9985 -16,-0.002 0,-11.99849 z"
        id="path3768"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
     <rect
        style="display:inline;fill:url(#linearGradient6063);fill-opacity:1;stroke:none"
        id="rect3770"
-       width="16"
+       width="16.000059"
        height="32"
-       x="756"
-       y="-225.99998" />
+       x="755.73334"
+       y="-225.84433" />
     <path
        style="display:inline;fill:url(#linearGradient6063);fill-opacity:1;stroke:none"
-       d="m 648,-237.99799 0,11.9985 -32,-0.002 0,-11.9985 z"
+       d="m 647.7334,-237.84283 0,11.9985 -32,-0.002 0,-11.9985 z"
        id="path5282"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
@@ -1115,18 +1222,18 @@
        id="rect5284"
        width="136"
        height="32.000004"
-       x="616"
-       y="-225.99998" />
+       x="615.7334"
+       y="-225.84433" />
     <path
        sodipodi:nodetypes="ccccc"
        inkscape:connector-curvature="0"
        id="path4287"
-       d="m 612,-237.99799 0,11.9985 -88,-0.002 0,-11.9985 z"
+       d="m 611.7334,-237.84283 0,11.9985 -88,-0.002 0,-11.9985 z"
        style="display:inline;fill:url(#linearGradient6063);fill-opacity:1;stroke:none" />
     <rect
-       y="-225.99939"
-       x="524"
-       height="31.99942"
+       y="-225.84433"
+       x="523.7334"
+       height="32"
        width="88"
        id="rect4289"
        style="display:inline;fill:url(#linearGradient6063);fill-opacity:1;stroke:none" />
@@ -1134,24 +1241,24 @@
        sodipodi:nodetypes="ccccc"
        inkscape:connector-curvature="0"
        id="path4857"
-       d="m 583.86519,-189.99799 0,11.9985 -59.86519,-0.002 0,-11.9985 z"
+       d="m 583.7334,-189.84283 0,11.9985 -60,-0.002 0,-11.9985 z"
        style="display:inline;fill:url(#linearGradient6063);fill-opacity:1;stroke:none" />
     <rect
-       y="-177.99942"
-       x="524"
-       height="23.999435"
-       width="203.86517"
+       y="-177.84433"
+       x="523.7334"
+       height="24"
+       width="204"
        id="rect4859"
        style="display:inline;fill:url(#linearGradient6063);fill-opacity:1;stroke:none" />
     <path
        sodipodi:nodetypes="ccccc"
        inkscape:connector-curvature="0"
        id="path5048"
-       d="m 756,-189.99798 0,11.99999 -24,-0.002 0,-12 z"
+       d="m 755.73334,-189.84232 0,11.99799 -24,-0.002 0,-11.998 z"
        style="display:inline;fill:url(#linearGradient6063);fill-opacity:1;stroke:none" />
     <rect
-       y="-177.99998"
-       x="732"
+       y="-177.84433"
+       x="731.7334"
        height="24.000002"
        width="40"
        id="rect5050"
@@ -1159,16 +1266,17 @@
     <text
        sodipodi:linespacing="125%"
        id="text5052"
-       y="-180.87621"
-       x="733.58893"
+       y="-180.72154"
+       x="733.32227"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.48583794px;line-height:125%;font-family:Cabin;-inkscape-font-specification:Cabin;letter-spacing:0px;word-spacing:0px;display:inline;fill:url(#linearGradient5235);fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
-         y="-180.87621"
-         x="733.58893"
+         y="-180.72154"
+         x="733.32227"
          id="tspan5054"
          sodipodi:role="line">Slider</tspan></text>
     <g
-       id="g5002">
+       id="g5002"
+       transform="translate(-0.26659589,0.15607315)">
       <text
          sodipodi:linespacing="125%"
          id="text5826"
@@ -1183,7 +1291,7 @@
     </g>
     <g
        id="g4996"
-       transform="translate(0.06286621,-1.2243775)">
+       transform="translate(-0.20373071,-1.0691948)">
       <text
          sodipodi:linespacing="125%"
          id="text3780"
@@ -1198,7 +1306,7 @@
     </g>
     <g
        id="g5035"
-       transform="translate(-0.12804,1.7573425)">
+       transform="translate(-0.39464653,1.9124996)">
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.48583794px;line-height:125%;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:url(#linearGradient5235);fill-opacity:1;stroke:none"
@@ -1212,51 +1320,41 @@
            sodipodi:role="line">Analog Number</tspan></text>
     </g>
     <text
-       sodipodi:linespacing="125%"
-       id="text3684"
-       y="-485.07275"
-       x="532.47742"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.48583794px;line-height:125%;font-family:Cabin;-inkscape-font-specification:Cabin;letter-spacing:0px;word-spacing:0px;display:inline;fill:url(#linearGradient5235);fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         y="-485.07275"
-         x="532.47742"
-         id="tspan3686"
-         sodipodi:role="line">LEDs</tspan></text>
-    <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.48583794px;line-height:125%;font-family:Cabin;-inkscape-font-specification:Cabin;letter-spacing:0px;word-spacing:0px;display:inline;fill:url(#linearGradient5235);fill-opacity:1;stroke:none"
-       x="614.25897"
-       y="-486.03015"
+       x="613.99237"
+       y="-485.87506"
        id="text3149"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3151"
-         x="614.25897"
-         y="-486.03015">Cursor</tspan></text>
+         x="613.99237"
+         y="-485.87506">Cursor</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.48583794px;line-height:125%;font-family:Cabin;-inkscape-font-specification:Cabin;letter-spacing:0px;word-spacing:0px;display:inline;fill:url(#linearGradient5235);fill-opacity:1;stroke:none"
-       x="653.81744"
-       y="-482.97086"
+       x="653.763"
+       y="-484.87454"
        id="text5290"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5292"
-         x="653.81744"
-         y="-482.97086">CPU</tspan></text>
+         x="653.763"
+         y="-484.87454">CPU</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text3491"
-       y="-449.07217"
-       x="531.74756"
+       y="-448.91696"
+       x="531.48096"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.48583794px;line-height:125%;font-family:Cabin;-inkscape-font-specification:Cabin;letter-spacing:0px;word-spacing:0px;display:inline;fill:url(#linearGradient5235);fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
-         y="-449.07217"
-         x="531.74756"
+         y="-448.91696"
+         x="531.48096"
          id="tspan3493"
          sodipodi:role="line">Piano</tspan></text>
     <g
-       id="g5167">
+       id="g5167"
+       transform="translate(-0.26659594,0.15516492)">
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.48583794px;line-height:125%;font-family:Cabin;-inkscape-font-specification:Cabin;letter-spacing:0px;word-spacing:0px;display:inline;fill:url(#linearGradient5235);fill-opacity:1;stroke:none"
@@ -1271,7 +1369,7 @@
     </g>
     <g
        id="g5200"
-       transform="translate(-4,2.529297e-6)">
+       transform="translate(-4.2665943,0.15517764)">
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.48583794px;line-height:125%;font-family:Cabin;-inkscape-font-specification:Cabin;letter-spacing:0px;word-spacing:0px;display:inline;fill:url(#linearGradient5235);fill-opacity:1;stroke:none"
@@ -1286,7 +1384,7 @@
     </g>
     <g
        id="g5233"
-       transform="translate(-4,-7.9999975)">
+       transform="translate(-4.2666224,-7.8448317)">
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.48583794px;line-height:125%;font-family:Cabin;-inkscape-font-specification:Cabin;letter-spacing:0px;word-spacing:0px;display:inline;fill:url(#linearGradient5235);fill-opacity:1;stroke:none"
@@ -1302,16 +1400,16 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.48583794px;line-height:125%;font-family:Cabin;-inkscape-font-specification:Cabin;letter-spacing:0px;word-spacing:0px;display:inline;fill:url(#linearGradient5235);fill-opacity:1;stroke:none"
-       x="620.51343"
-       y="-228.85999"
+       x="620.24683"
+       y="-228.70482"
        id="text5286"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5288"
-         x="620.51343"
-         y="-228.85999">Knobs</tspan></text>
+         x="620.24683"
+         y="-228.70482">Knobs</tspan></text>
     <g
-       transform="translate(0,2.5292969e-6)"
+       transform="translate(-0.26660496,0.15512219)"
        style="display:inline"
        id="g5311"
        inkscape:export-filename="/media/freedrive/RebeccaCurrent2016/Personal Projects/LMMS Theme Source Files/BBeditor.png"
@@ -1330,7 +1428,7 @@
            sodipodi:role="line">Beat &amp; Bassline Editor</tspan></text>
     </g>
     <g
-       transform="translate(-0.13481,2.5292969e-6)"
+       transform="translate(-0.33399122,0.15516332)"
        style="display:inline"
        id="g5347">
       <text
@@ -1345,37 +1443,33 @@
            id="tspan4863"
            sodipodi:role="line">Stepper Arrows</tspan></text>
     </g>
-    <g
-       id="g5457"
-       transform="translate(13,-23.999997)">
-      <path
-         style="display:inline;fill:url(#linearGradient6063);fill-opacity:1;stroke:none"
-         d="m 543,-125.99799 0,11.9985 -32,-0.002 0,-11.9985 z"
-         id="path7636"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccccc" />
-      <rect
-         style="display:inline;fill:url(#linearGradient6063);fill-opacity:1;stroke:none"
-         id="rect7638"
-         width="248"
-         height="87.999435"
-         x="511"
-         y="-113.9994" />
-      <text
-         sodipodi:linespacing="125%"
-         id="text7640"
-         y="-117.02968"
-         x="513.25"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.48583794px;line-height:125%;font-family:Cabin;-inkscape-font-specification:Cabin;letter-spacing:0px;word-spacing:0px;display:inline;fill:url(#linearGradient5235);fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           y="-117.02968"
-           x="513.25"
-           id="tspan7642"
-           sodipodi:role="line">LFO BG</tspan></text>
-    </g>
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path7636"
+       d="m 563.73334,-149.84283 0,11.9985 -39.99994,-0.002 0,-11.9985 z"
+       style="display:inline;fill:url(#linearGradient6063);fill-opacity:1;stroke:none" />
+    <rect
+       y="-137.84433"
+       x="523.7334"
+       height="88"
+       width="248"
+       id="rect7638"
+       style="display:inline;fill:url(#linearGradient6063);fill-opacity:1;stroke:none" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.48583794px;line-height:125%;font-family:Cabin;-inkscape-font-specification:Cabin;letter-spacing:0px;word-spacing:0px;display:inline;fill:url(#linearGradient5235);fill-opacity:1;stroke:none"
+       x="526.2569"
+       y="-141.72311"
+       id="text7640"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan7642"
+         x="526.2569"
+         y="-141.72311">Plugin BG</tspan></text>
     <path
        style="display:inline;fill:url(#linearGradient6063);fill-opacity:1;stroke:none"
-       d="m 627.99997,-45.997987 0,11.998 -64,-0.002 0,-11.998 z"
+       d="m 627.73337,-45.842326 0,11.998 -64,-0.002 0,-11.998 z"
        id="path5979"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
@@ -1384,28 +1478,28 @@
        id="rect5981"
        width="208"
        height="52"
-       x="563.99994"
-       y="-33.999989" />
+       x="563.73334"
+       y="-33.844326" />
     <text
        sodipodi:linespacing="125%"
        id="text5983"
-       y="-37.844593"
-       x="567.40338"
+       y="-37.688923"
+       x="567.13684"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.48583794px;line-height:125%;font-family:Cabin;-inkscape-font-specification:Cabin;letter-spacing:0px;word-spacing:0px;display:inline;fill:url(#linearGradient5235);fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
-         y="-37.844593"
-         x="567.40338"
+         y="-37.688923"
+         x="567.13684"
          id="tspan5985"
          sodipodi:role="line">Envelope Graph</tspan></text>
     <path
        sodipodi:nodetypes="ccccc"
        inkscape:connector-curvature="0"
        id="path5988"
-       d="m 552,-45.997987 0,11.998 -28,-0.002 0,-11.998 z"
+       d="m 551.7334,-45.842326 0,11.998 -28,-0.002 0,-11.998 z"
        style="display:inline;fill:url(#linearGradient6063);fill-opacity:1;stroke:none" />
     <rect
-       y="-33.999989"
-       x="523.99994"
+       y="-33.844326"
+       x="523.73334"
        height="128"
        width="36"
        id="rect5990"
@@ -1413,23 +1507,23 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.48583794px;line-height:125%;font-family:Cabin;-inkscape-font-specification:Cabin;letter-spacing:0px;word-spacing:0px;display:inline;fill:url(#linearGradient5235);fill-opacity:1;stroke:none"
-       x="527.40338"
-       y="-37.300037"
+       x="526.96844"
+       y="-36.874283"
        id="text5992"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5994"
-         x="527.40338"
-         y="-37.300037">LFO#</tspan></text>
+         x="526.96844"
+         y="-36.874283">LFO#</tspan></text>
     <path
        sodipodi:nodetypes="ccccc"
        inkscape:connector-curvature="0"
        id="path6216"
-       d="m 607.99997,22.002013 0,11.998 -44,-0.002 0,-11.998 z"
+       d="m 607.73337,22.157674 0,11.998 -44,-0.002 0,-11.998 z"
        style="display:inline;fill:url(#linearGradient6063);fill-opacity:1;stroke:none" />
     <rect
-       y="34.000011"
-       x="563.99994"
+       y="34.155678"
+       x="563.73334"
        height="59.999996"
        width="104"
        id="rect6218"
@@ -1437,89 +1531,89 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.48583794px;line-height:125%;font-family:Cabin;-inkscape-font-specification:Cabin;letter-spacing:0px;word-spacing:0px;display:inline;fill:url(#linearGradient5235);fill-opacity:1;stroke:none"
-       x="566.51904"
-       y="30.155409"
+       x="566.25244"
+       y="30.311077"
        id="text6220"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan6222"
-         x="566.51904"
-         y="30.155409">LFO Graph</tspan></text>
+         x="566.25244"
+         y="30.311077">LFO Graph</tspan></text>
     <path
        sodipodi:nodetypes="ccccc"
        inkscape:connector-curvature="0"
        id="path5385"
-       d="m 699.73069,22.002009 0,11.9985 -27.73067,-0.002 0,-11.9985 z"
+       d="m 698.73342,22.157174 0,11.9985 -27,-0.002 0,-11.9985 z"
        style="display:inline;fill:url(#linearGradient6063);fill-opacity:1;stroke:none" />
     <rect
-       y="34.000595"
-       x="671.99994"
-       height="59.999428"
+       y="34.155674"
+       x="671.73334"
+       height="60"
        width="100"
        id="rect5387"
        style="display:inline;fill:url(#linearGradient6063);fill-opacity:1;stroke:none" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.48583794px;line-height:125%;font-family:Cabin;-inkscape-font-specification:Cabin;letter-spacing:0px;word-spacing:0px;display:inline;fill:url(#linearGradient5235);fill-opacity:1;stroke:none"
-       x="674.68097"
-       y="31.12306"
+       x="674.04913"
+       y="31.278212"
        id="text5389"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5391"
-         x="674.68097"
-         y="31.12306">Sends</tspan></text>
+         x="674.04913"
+         y="31.278212">Sends</tspan></text>
     <path
        sodipodi:nodetypes="ccccc"
        inkscape:connector-curvature="0"
        id="path3682-7"
-       d="m 771.99999,98.002013 0,11.998507 -27.99997,-0.002 0,-11.998507 z"
+       d="m 771.73339,98.157165 0,11.998495 -27.99997,-0.002 0,-11.998495 z"
        style="display:inline;fill:url(#linearGradient6063);fill-opacity:1;stroke:none" />
     <rect
-       y="110.00062"
-       x="743.99994"
-       height="67.999397"
+       y="110.15567"
+       x="743.73334"
+       height="68"
        width="28"
        id="rect3688-5"
        style="display:inline;fill:url(#linearGradient6063);fill-opacity:1;stroke:none" />
     <text
        sodipodi:linespacing="125%"
        id="text3684-8"
-       y="106.92786"
-       x="744.77814"
+       y="107.08302"
+       x="744.5116"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.48583794px;line-height:125%;font-family:Cabin;-inkscape-font-specification:Cabin;letter-spacing:0px;word-spacing:0px;display:inline;fill:url(#linearGradient5235);fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
-         y="106.92786"
-         x="744.77814"
+         y="107.08302"
+         x="744.5116"
          id="tspan3686-6"
          sodipodi:role="line">Pattern</tspan></text>
     <path
        sodipodi:nodetypes="ccccc"
        inkscape:connector-curvature="0"
        id="path5312"
-       d="m 564,98.002013 0,11.998507 -40,-0.002 0,-11.998507 z"
+       d="m 563.7334,98.157179 0,11.998491 -40,-0.002 0,-11.998491 z"
        style="display:inline;fill:url(#linearGradient6063);fill-opacity:1;stroke:none" />
     <rect
-       y="110.00062"
-       x="523.99994"
-       height="67.999397"
+       y="110.15567"
+       x="523.73334"
+       height="68"
        width="216"
        id="rect5314"
        style="display:inline;fill:url(#linearGradient6063);fill-opacity:1;stroke:none" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.48583794px;line-height:125%;font-family:Cabin;-inkscape-font-specification:Cabin;letter-spacing:0px;word-spacing:0px;display:inline;fill:url(#linearGradient5235);fill-opacity:1;stroke:none"
-       x="525.36462"
-       y="106.15568"
+       x="526.25696"
+       y="106.27689"
        id="text5316"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5318"
-         x="525.36462"
-         y="106.15568">Plugin BG</tspan></text>
+         x="526.25696"
+         y="106.27689">Plugin BG</tspan></text>
     <path
        style="display:inline;fill:url(#linearGradient6063);fill-opacity:1;stroke:none"
-       d="m 576,182.00201 0,11.9985 -52,-0.002 0,-11.9985 z"
+       d="m 575.7334,182.15717 0,11.9985 -52,-0.002 0,-11.9985 z"
        id="path7558"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
@@ -1527,29 +1621,29 @@
        style="display:inline;fill:url(#linearGradient6063);fill-opacity:1;stroke:none"
        id="rect7560"
        width="120.00006"
-       height="60.155079"
-       x="524"
-       y="194.0006" />
+       height="60"
+       x="523.7334"
+       y="194.15567" />
     <text
        sodipodi:linespacing="125%"
        id="text7562"
-       y="190.15569"
-       x="525.36469"
+       y="190.31082"
+       x="525.09796"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.48583794px;line-height:125%;font-family:Cabin;-inkscape-font-specification:Cabin;letter-spacing:0px;word-spacing:0px;display:inline;fill:url(#linearGradient5235);fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
-         y="190.15569"
-         x="525.36469"
+         y="190.31082"
+         x="525.09796"
          id="tspan7564"
          sodipodi:role="line">Output Graph</tspan></text>
     <path
        sodipodi:nodetypes="ccccc"
        inkscape:connector-curvature="0"
        id="path5751"
-       d="m 700,182.00201 0,11.9985 -52,-0.002 0,-11.9985 z"
+       d="m 699.7334,182.15717 0,11.9985 -52,-0.002 0,-11.9985 z"
        style="display:inline;fill:url(#linearGradient6063);fill-opacity:1;stroke:none" />
     <rect
        y="194.0006"
-       x="648"
+       x="647.7334"
        height="60.155079"
        width="124.00006"
        id="rect5753"
@@ -1557,47 +1651,143 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.48583794px;line-height:125%;font-family:Cabin;-inkscape-font-specification:Cabin;letter-spacing:0px;word-spacing:0px;display:inline;fill:url(#linearGradient5235);fill-opacity:1;stroke:none"
-       x="651.28619"
-       y="190.15565"
+       x="651.01959"
+       y="190.31082"
        id="text5755"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5757"
-         x="651.28619"
-         y="190.15565">Low Poly BG</tspan></text>
+         x="651.01959"
+         y="190.31082">Low Poly BG</tspan></text>
+    <g
+       transform="translate(91.733411,113.79275)"
+       id="g5060" />
+    <rect
+       y="-481.84436"
+       x="523.73334"
+       height="20.000032"
+       width="84"
+       id="rect3688-4"
+       style="display:inline;fill:url(#linearGradient6063);fill-opacity:1;stroke:none" />
     <path
        sodipodi:nodetypes="ccccc"
        inkscape:connector-curvature="0"
-       id="path4774"
-       d="m 576,-553.99798 0,11.9985 -52,-0.002 0,-11.9985 z"
+       id="path3682-78"
+       d="m 559.73334,-493.84283 0,11.9985 -36,-0.002 0,-11.9985 z"
        style="display:inline;fill:url(#linearGradient6063);fill-opacity:1;stroke:none" />
     <path
+       transform="translate(91.73341,113.79275)"
        style="display:inline;fill:url(#linearGradient6063);fill-opacity:1;stroke:none"
-       d="m 772,-541.99623 0,35.99895 -248,-0.003 0,-35.99895 z"
-       id="path4776"
+       d="m 483.99993,-657.63558 0,11.9985 -52,-0.002 0,-11.9985 z"
+       id="path4774-1"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path4776-2"
+       d="m 771.7334,-531.84142 0,33.99709 -248.00005,-0.003 0,-33.99709 z"
+       style="display:inline;fill:url(#linearGradient6063);fill-opacity:1;stroke:none" />
     <text
-       sodipodi:linespacing="125%"
-       id="text4778"
-       y="-545.8443"
-       x="527.6637"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.48583794px;line-height:125%;font-family:Cabin;-inkscape-font-specification:Cabin;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         y="-545.8443"
-         x="527.6637"
-         id="tspan4780"
-         sodipodi:role="line">Main palette</tspan></text>
+       transform="translate(91.73341,113.79275)"
+       xml:space="preserve"
+       style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.48583794px;line-height:125%;font-family:Cabin;-inkscape-font-specification:Cabin;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient5235);fill-opacity:1;stroke:none;"
+       x="435.6636"
+       y="-649.48193"
+       id="text4778-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4780-0"
+         x="435.6636"
+         y="-649.48193">Main palette</tspan></text>
+    <rect
+       ry="13"
+       rx="13"
+       y="-641.88708"
+       x="-462.25"
+       height="26"
+       width="26"
+       id="rect7515-9"
+       style="display:inline;fill:url(#linearGradient6021);fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.25287356"
+       transform="matrix(-1,0,0,1,91.73341,113.79275)" />
+    <rect
+       ry="13"
+       rx="13"
+       transform="matrix(0,-1,1,0,91.73341,113.79275)"
+       y="558.25"
+       x="615.88708"
+       height="26"
+       width="26"
+       id="rect7517-3"
+       style="display:inline;fill:url(#linearGradient6055);fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.25287356" />
+    <rect
+       ry="13"
+       rx="13"
+       style="display:inline;fill:url(#linearGradient6063);fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.25287356"
+       id="rect7519-6"
+       width="26"
+       height="26"
+       x="615.88708"
+       y="588.75"
+       transform="matrix(0,-1,1,0,91.73341,113.79275)" />
+    <rect
+       ry="13"
+       rx="13"
+       style="display:inline;fill:url(#linearGradient6031);fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.25287356"
+       id="rect7521"
+       width="26"
+       height="26"
+       x="558.4834"
+       y="-528.09436" />
+    <rect
+       ry="13"
+       rx="13"
+       style="display:inline;fill:url(#linearGradient6047);fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.25287356"
+       id="rect7523"
+       width="26"
+       height="26"
+       x="502.09433"
+       y="619.4834"
+       transform="matrix(0,-1,1,0,0,0)" />
+    <rect
+       ry="13"
+       rx="13"
+       y="-528.09436"
+       x="588.9834"
+       height="26"
+       width="26"
+       id="rect7604"
+       style="display:inline;fill:url(#linearGradient6039);fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.25287356" />
+    <rect
+       ry="13"
+       rx="13"
+       transform="matrix(0,-1,1,0,91.73341,113.79275)"
+       y="619.25"
+       x="615.88708"
+       height="26"
+       width="26"
+       id="rect8608-0"
+       style="display:inline;fill:url(#linearGradient6071);fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.25287356" />
+    <rect
+       style="display:inline;fill:url(#linearGradient5251-9);fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.25287356"
+       id="rect5233-6"
+       width="26"
+       height="26"
+       x="615.88708"
+       y="649.75"
+       transform="matrix(0,-1,1,0,91.73341,113.79275)"
+       rx="13"
+       ry="13" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="elements"
      style="display:inline"
-     transform="translate(-520,498.00003)">
+     transform="translate(-523.73334,598.41177)">
     <g
        id="g3179"
-       transform="translate(-7.5612946,0.835306)">
+       transform="translate(-7.8278936,0.991005)">
       <g
          id="g5460"
          inkscape:export-filename="/home/rebecca/Personal Projects/LMMS Theme Source Files/design_elements/hand.png"
@@ -1627,7 +1817,7 @@
     </g>
     <g
        id="g7656"
-       transform="translate(-116.00003,28.000035)"
+       transform="translate(-116.26663,28.155701)"
        inkscape:export-filename="/home/rebecca/Personal Projects/LMMS Theme Source Files/design_elements/pr_white_key_big_pressed.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
@@ -1656,7 +1846,7 @@
     </g>
     <g
        id="g7652"
-       transform="translate(-116.00006,28.000041)"
+       transform="translate(-116.26666,28.155704)"
        inkscape:export-filename="/home/rebecca/Personal Projects/LMMS Theme Source Files/design_elements/pr_white_key_small_pressed.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
@@ -1678,7 +1868,7 @@
     </g>
     <g
        id="g5178"
-       transform="translate(257.00006,29.000041)"
+       transform="translate(256.73346,29.155704)"
        inkscape:export-filename="/home/rebecca/Personal Projects/LMMS Theme Source Files/design_elements/pr_white_key_big.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
@@ -1703,7 +1893,8 @@
        id="g6863"
        inkscape:export-filename="/home/rebecca/Personal Projects/LMMS Theme Source Files/design_elements/cpuload_bg.png"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
+       inkscape:export-ydpi="90"
+       transform="translate(-0.26659896,0.14783952)">
       <rect
          id="rect5307"
          y="-478.00003"
@@ -1715,14 +1906,14 @@
          sodipodi:nodetypes="sssccsssccsccccsssccsssccsssccccsccc"
          inkscape:connector-curvature="0"
          id="path5324"
-         d="m 651.5,-476.00003 c -1.933,0 -3.5,1.567 -3.5,3.5 0,1.933 1.567,3.5 3.5,3.5 0.9665,0 1.83537,-0.39787 2.46875,-1.03125 l -0.84375,-0.5625 c -0.43596,0.37017 -1.00828,0.59375 -1.625,0.59375 -1.38071,0 -2.5,-1.11929 -2.5,-2.5 0,-1.38071 1.11929,-2.5 2.5,-2.5 0.61672,0 1.18904,0.22358 1.625,0.59375 l 0.84375,-0.5625 c -0.63338,-0.63337 -1.50225,-1.03125 -2.46875,-1.03125 z m 3.5,0 0,7 1,0 0,-3 1,0 c 1,0 2.001,-0.99764 2,-2 -10e-4,-0.99762 -1,-2 -2,-2 z m 5,0 0,4 c 0,2 1,3 2.5,3 1.5,0 2.5,-1 2.5,-3 l 0,-4 -1,0 0,4 c 0,0.49692 0,2 -1.5,2 -1.5,0 -1.53718,-1.49829 -1.5,-2 l 0,-4 z m -4,1 1,0 c 0,0 1,0 1,1 0,1 -1,1 -1,1 l -1,0 z"
+         d="m 651.5,-475.99217 c -1.933,0 -3.5,1.567 -3.5,3.5 0,1.933 1.567,3.5 3.5,3.5 0.9665,0 1.83537,-0.39787 2.46875,-1.03125 l -0.84375,-0.5625 c -0.43596,0.37017 -1.00828,0.59375 -1.625,0.59375 -1.38071,0 -2.5,-1.11929 -2.5,-2.5 0,-1.38071 1.11929,-2.5 2.5,-2.5 0.61672,0 1.18904,0.22358 1.625,0.59375 l 0.84375,-0.5625 c -0.63338,-0.63337 -1.50225,-1.03125 -2.46875,-1.03125 z m 3.5,0 0,7 1,0 0,-3 1,0 c 1,0 2.001,-0.99764 2,-2 -10e-4,-0.99762 -1,-2 -2,-2 z m 5,0 0,4 c 0,2 1,3 2.5,3 1.5,0 2.5,-1 2.5,-3 l 0,-4 -1,0 0,4 c 0,0.49692 0,2 -1.5,2 -1.5,0 -1.53718,-1.49829 -1.5,-2 l 0,-4 z m -4,1 1,0 c 0,0 1,0 1,1 0,1 -1,1 -1,1 l -1,0 z"
          style="fill:#ffffff;fill-opacity:1;stroke:none" />
       <g
-         transform="translate(0.00893,31.000002)"
+         transform="translate(0.00893,30.986579)"
          id="g5386">
         <path
            style="fill:url(#linearGradient4861);fill-opacity:1;stroke:none"
-           d="m 668.99107,-507.00003 84,0 c 1.939,0 3.49999,1.561 3.49999,3.5 0,1.939 -1.56099,3.5 -3.49999,3.5 l -84,0 z"
+           d="m 668.99107,-506.98661 84,0 c 1.939,0 3.49999,1.561 3.49999,3.5 0,1.939 -1.56099,3.5 -3.49999,3.5 l -84,0 z"
            id="rect5342"
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="cssscc" />
@@ -1743,7 +1934,7 @@
     </g>
     <g
        id="g4540"
-       transform="translate(0,-28.000003)"
+       transform="translate(-0.26659896,-27.844337)"
        inkscape:export-filename="/home/rebecca/Personal Projects/LMMS Theme Source Files/design_elements/pr_white_key_small.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
@@ -1780,7 +1971,7 @@
        inkscape:export-filename="/home/rebecca/Personal Projects/LMMS Theme Source Files/design_elements/black_key_pressed.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       transform="translate(19.00003,28.000043)">
+       transform="translate(18.733431,28.155704)">
       <rect
          id="rect5142"
          y="-442.00003"
@@ -1812,7 +2003,7 @@
     </g>
     <g
        id="g5003"
-       transform="translate(4,-16)"
+       transform="translate(3.733401,-15.844338)"
        inkscape:export-filename="/home/rebecca/Personal Projects/LMMS Theme Source Files/design_elements/white_key.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
@@ -1835,7 +2026,7 @@
     </g>
     <g
        id="g5032"
-       transform="translate(4,-16)"
+       transform="translate(3.733401,-15.844338)"
        inkscape:export-filename="/home/rebecca/Personal Projects/LMMS Theme Source Files/design_elements/black_key_pressed.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
@@ -1858,7 +2049,7 @@
     </g>
     <g
        id="g4683"
-       transform="translate(-123,305.99954)"
+       transform="translate(-123.2666,306.15473)"
        inkscape:export-filename="/home/rebecca/Personal Projects/LMMS Theme Source Files/design_elements/main_slider.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
@@ -1918,8 +2109,8 @@
        style="display:inline;fill:url(#linearGradient5433);fill-opacity:1;stroke:none"
        width="239.99998"
        height="79.999947"
-       x="528"
-       y="-133.99998"
+       x="527.7334"
+       y="-133.84427"
        id="rect4775-0"
        rx="0"
        ry="0"
@@ -1927,55 +2118,8 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <g
-       id="g4209"
-       transform="translate(-384.0086,228.10895)"
-       inkscape:export-filename="/home/rebecca/Personal Projects/LMMS Theme Source Files/design_elements/lfo_controller_artwork.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
-      <text
-         transform="translate(-3.5156251e-6,2.9589845e-6)"
-         sodipodi:linespacing="125%"
-         id="text4906"
-         y="-344.19519"
-         x="919.22485"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:Orbitron;-inkscape-font-specification:'Orbitron Bold';text-align:start;letter-spacing:1.5px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           y="-344.19519"
-           x="919.22485"
-           id="tspan4908"
-           sodipodi:role="line">LFO CONTROLLER</tspan></text>
-    </g>
-    <g
-       id="g7903-3"
-       style="display:inline"
-       transform="matrix(1,0,0,1.2500006,252,29.500074)">
-      <rect
-         style="fill:url(#linearGradient5433-7);fill-opacity:1;stroke:none"
-         width="239.99998"
-         height="79.999947"
-         x="528"
-         y="-133.99998"
-         id="rect4775"
-         rx="0"
-         ry="0"
-         inkscape:export-filename="/media/freedrive/RebeccaCurrent2016/Personal Projects/LMMS Theme Source Files/design_elements/effect_plugin.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" />
-    </g>
-    <text
-       sodipodi:linespacing="125%"
-       id="text4904-9"
-       y="-120.08624"
-       x="787.22998"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:Orbitron;-inkscape-font-specification:'Orbitron Bold';text-align:start;letter-spacing:1.5px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         y="-120.08624"
-         x="787.22998"
-         id="tspan4906-0"
-         sodipodi:role="line">PEAK CONTROLLER</tspan></text>
-    <g
        id="g5161"
-       transform="translate(-55,2.0000125)"
+       transform="translate(-55.266599,2.1556738)"
        inkscape:export-filename="/media/freedrive/RebeccaCurrent2016/Personal Projects/LMMS Theme Source Files/design_elements/loop_point_e.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
@@ -1995,7 +2139,7 @@
     </g>
     <g
        id="g5171"
-       transform="translate(-52,2.0000125)"
+       transform="translate(-52.266599,2.1556738)"
        inkscape:export-filename="/home/rebecca/Personal Projects/LMMS Theme Source Files/design_elements/loop_point.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
@@ -2015,7 +2159,7 @@
     </g>
     <g
        id="g5181"
-       transform="translate(-54,2.0000125)"
+       transform="translate(-54.266599,2.1556738)"
        inkscape:export-filename="/media/freedrive/RebeccaCurrent2016/Personal Projects/LMMS Theme Source Files/design_elements/loop_point_b.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
@@ -2038,13 +2182,13 @@
        id="g7106" />
     <g
        id="g5269-3"
-       style="fill:#ff0000;display:inline"
+       style="display:inline;fill:#ff0000"
        transform="translate(1,-20.4952)" />
     <g
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
        inkscape:export-filename="/media/freedrive/RebeccaCurrent2016/Personal Projects/LMMS Theme Source Files/design_elements/send_bg_arrow.png"
-       transform="translate(0,2.0005836)"
+       transform="translate(-0.26659896,2.1556624)"
        id="g4609">
       <rect
          id="rect5635"
@@ -2062,7 +2206,8 @@
          sodipodi:nodetypes="cccccccc" />
     </g>
     <g
-       id="g4682">
+       id="g4682"
+       transform="translate(-0.26659896,0.15507875)">
       <rect
          transform="scale(-1,-1)"
          style="fill:none;stroke:none"
@@ -2083,7 +2228,7 @@
        inkscape:export-filename="/home/rebecca/Personal Projects/LMMS Theme Source Files/design_elements/mixer_send_on.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       transform="translate(-52.000002,64)">
+       transform="translate(-52.266601,64.155651)">
       <path
          style="fill:#000000;fill-opacity:1;stroke:none"
          d="m 756,-0.99998747 0,8.99999997 c 0,1.108 -0.89199,1.9999905 -1.99999,1.9999905 l -23.00002,0 C 729.89199,10.000003 729,9.1080109 729,8.0000125 l 0,-8.99999997 c 0,-1.10800403 0.89199,-1.99999403 1.99999,-1.99999403 l 23.00002,0 c 1.108,0 1.99999,0.89199 1.99999,1.99999403 z"
@@ -2127,7 +2272,7 @@
          sodipodi:nodetypes="ccccccccccccc" />
       <path
          style="fill:#0bd556;fill-opacity:1;stroke:none"
-         d="m 743,6e-5 0,7 1,0 0,-4.34379 2,4.34379 1,0 0,-7 -1,0 0,4.34371 L 744,6e-5 z"
+         d="m 743,6e-5 0,7 1,0 0,-4.34379 2,4.34379 1,0 0,-7 -1,0 0,4.34371 L 744,6e-5 Z"
          id="path5166"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="ccccccccccc" />
@@ -2139,7 +2284,7 @@
          inkscape:connector-curvature="0" />
       <path
          inkscape:connector-curvature="0"
-         style="fill:#0bd556;fill-opacity:1;stroke:none;display:inline"
+         style="display:inline;fill:#0bd556;fill-opacity:1;stroke:none"
          d="m 735,6e-5 2,0 0,1 -2,0 c -1,0 -1,1 -1,1 l 0,0 c 0,1 1,1 1,1 l 0,0 c 1,0 2,1 2,2 0,1 -1.04259,1.96463 -2,2 l -2,0 0,-1 2,0 c 0,0 1,0 1,-1 l 0,0 c 0,-1 -1,-1 -1,-1 -1,10e-6 -2,-1 -2,-2 0,-1 1,-2 2,-2 z"
          id="path5170"
          sodipodi:nodetypes="cccccccczccccccczc" />
@@ -2149,7 +2294,7 @@
        inkscape:export-filename="/media/freedrive/RebeccaCurrent2016/Personal Projects/LMMS Theme Source Files/design_elements/mixer_send_off.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       transform="translate(-52.000002,44.000003)">
+       transform="translate(-52.266601,44.155651)">
       <path
          sodipodi:nodetypes="ssssccsss"
          inkscape:connector-curvature="0"
@@ -2195,7 +2340,7 @@
          sodipodi:nodetypes="ccccccccccc"
          inkscape:connector-curvature="0"
          id="path4582"
-         d="m 743,6e-5 0,7 1,0 0,-4.34379 2,4.34379 1,0 0,-7 -1,0 0,4.34371 L 744,6e-5 z"
+         d="m 743,6e-5 0,7 1,0 0,-4.34379 2,4.34379 1,0 0,-7 -1,0 0,4.34371 L 744,6e-5 Z"
          style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none" />
       <path
          inkscape:connector-curvature="0"
@@ -2207,7 +2352,7 @@
          sodipodi:nodetypes="cccccccczccccccczc"
          id="path4586"
          d="m 735,6e-5 2,0 0,1 -2,0 c -1,0 -1,1 -1,1 l 0,0 c 0,1 1,1 1,1 l 0,0 c 1,0 2,1 2,2 0,1 -1.04259,1.96463 -2,2 l -2,0 0,-1 2,0 c 0,0 1,0 1,-1 l 0,0 c 0,-1 -1,-1 -1,-1 -1,10e-6 -2,-1 -2,-2 0,-1 1,-2 2,-2 z"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+         style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none"
          inkscape:connector-curvature="0" />
     </g>
     <g
@@ -2219,7 +2364,7 @@
        id="g9013" />
     <g
        id="g5113"
-       transform="translate(120,-3.999957)"
+       transform="translate(119.7334,-3.8442956)"
        inkscape:export-filename="/media/freedrive/RebeccaCurrent2016/Personal Projects/LMMS Theme Source Files/design_elements/pr_black_key.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
@@ -2258,20 +2403,21 @@
     </g>
     <g
        id="g5686"
-       transform="translate(-21,-236.00002)"
+       transform="translate(-21.26666,-235.84432)"
        inkscape:export-filename="/home/rebecca/Personal Projects/LMMS Theme Source Files/design_elements/Need to make/track_op_grip.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <path
          style="fill:#040405;fill-opacity:1;stroke:none"
-         d="m 239,276 0,2 2,0 0,-2 -2,0 z m 4,3 0,2 2,0 0,-2 -2,0 z m -4,2 0,2 2,0 0,-2 -2,0 z m 4,3 0,2 2,0 0,-2 -2,0 z m -4,2 0,2 2,0 0,-2 -2,0 z m 4,3 0,2 2,0 0,-2 -2,0 z m -4,2 0,2 2,0 0,-2 -2,0 z m 4,3 0,2 2,0 0,-2 -2,0 z m -4,2 0,2 2,0 0,-2 -2,0 z m 4,3 0,2 2,0 0,-2 -2,0 z"
+         d="m 239,276 0,2 2,0 0,-2 z m 4,3 0,2 2,0 0,-2 z m -4,2 0,2 2,0 0,-2 z m 4,3 0,2 2,0 0,-2 z m -4,2 0,2 2,0 0,-2 z m 4,3 0,2 2,0 0,-2 z m -4,2 0,2 2,0 0,-2 z m 4,3 0,2 2,0 0,-2 z m -4,2 0,2 2,0 0,-2 z m 4,3 0,2 2,0 0,-2 z"
          transform="translate(543,-262.00001)"
          id="rect5666"
-         inkscape:connector-curvature="0" />
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccc" />
     </g>
     <g
        id="g5505"
-       transform="translate(118.73067,206.50029)"
+       transform="translate(118.74526,206.15567)"
        inkscape:export-filename="/home/rebecca/Personal Projects/LMMS Theme Source Files/design_elements/pat_rec.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
@@ -2291,7 +2437,7 @@
     </g>
     <g
        id="g5207"
-       transform="translate(48.00001,-261.99999)">
+       transform="translate(47.733411,-261.84434)">
       <rect
          id="rect4489"
          y="-7.9999876"
@@ -2307,7 +2453,7 @@
          style="opacity:0.2;fill:#ffffff;fill-opacity:1;stroke:none" />
     </g>
     <g
-       transform="translate(56.00001,-261.99999)"
+       transform="translate(55.733411,-261.84434)"
        id="g5418">
       <rect
          style="fill:none;stroke:none"
@@ -2324,7 +2470,7 @@
          sodipodi:nodetypes="cccc" />
     </g>
     <g
-       transform="matrix(1,0,0,-1,64.00001,-272.99997)"
+       transform="matrix(1,0,0,-1,63.733411,-272.84431)"
        id="g5425">
       <rect
          style="fill:none;stroke:none"
@@ -2342,7 +2488,7 @@
     </g>
     <g
        id="g5431"
-       transform="matrix(1,0,0,-1,72.00001,-272.99997)">
+       transform="matrix(1,0,0,-1,71.733411,-272.84431)">
       <rect
          id="rect5433"
          y="-7.9999876"
@@ -2359,7 +2505,7 @@
     </g>
     <g
        id="g5437"
-       transform="matrix(0,1,1,0,759.99999,-941.99999)">
+       transform="matrix(0,1,1,0,759.73339,-941.84433)">
       <rect
          id="rect5439"
          y="-7.9999876"
@@ -2375,7 +2521,7 @@
          style="opacity:0.2;fill:#ffffff;fill-opacity:1;stroke:none" />
     </g>
     <g
-       transform="matrix(0,1,1,0,767.99999,-941.99999)"
+       transform="matrix(0,1,1,0,767.73339,-941.84433)"
        id="g5443">
       <rect
          style="fill:none;stroke:none"
@@ -2392,7 +2538,7 @@
          sodipodi:nodetypes="cccc" />
     </g>
     <g
-       transform="matrix(0,1,-1,0,717.00001,-933.99999)"
+       transform="matrix(0,1,-1,0,716.73341,-933.84433)"
        id="g5449">
       <rect
          style="fill:none;stroke:none"
@@ -2410,7 +2556,7 @@
     </g>
     <g
        id="g5455"
-       transform="matrix(0,1,-1,0,725,-933.99999)">
+       transform="matrix(0,1,-1,0,724.7334,-933.84433)">
       <rect
          id="rect5457"
          y="-7.9999876"
@@ -2427,7 +2573,7 @@
     </g>
     <g
        id="g6155"
-       transform="matrix(-1,0,0,1,1301,-284.96967)"
+       transform="matrix(-1,0,0,1,1300.7334,-284.84434)"
        inkscape:export-filename="/home/rebecca/Personal Projects/LMMS Theme Source Files/design_elements/Need to make/combobox_arrow_selected.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
@@ -2448,7 +2594,7 @@
     <g
        style="fill:#800000"
        id="g6159"
-       transform="translate(182,-284.96967)"
+       transform="translate(181.7334,-284.81401)"
        inkscape:export-filename="/home/rebecca/Personal Projects/LMMS Theme Source Files/design_elements/Need to make/combobox_arrow.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
@@ -2470,7 +2616,8 @@
        id="g4615"
        inkscape:export-filename="/home/rebecca/Personal Projects/LMMS Theme Source Files/design_elements/stepper-up-press.png"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
+       inkscape:export-ydpi="90"
+       transform="translate(-0.26659896,0.15569385)">
       <g
          transform="translate(23.999995,-2e-5)"
          id="g3713">
@@ -2517,7 +2664,8 @@
        id="g4631"
        inkscape:export-filename="/home/rebecca/Personal Projects/LMMS Theme Source Files/design_elements/stepper-down-press.png"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
+       inkscape:export-ydpi="90"
+       transform="translate(-0.26659136,0.15569385)">
       <g
          id="g4545"
          transform="translate(75.999995,-2e-5)">
@@ -2562,7 +2710,7 @@
     </g>
     <g
        id="g4216"
-       transform="translate(-47.5,176)"
+       transform="translate(-47.766599,176.15566)"
        inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/Hinting/EnvelopeBG.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
@@ -2604,7 +2752,7 @@
          id="text4281"
          y="-195.69124"
          x="794.89923"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.75px;line-height:125%;font-family:Orbitron;-inkscape-font-specification:'Orbitron Bold';text-align:end;letter-spacing:1.5px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.75px;line-height:125%;font-family:Orbitron;-inkscape-font-specification:'Orbitron Medium';text-align:end;letter-spacing:1.5px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            y="-195.69124"
            x="796.39923"
@@ -2613,7 +2761,7 @@
     </g>
     <g
        id="g4834"
-       transform="translate(0,60)"
+       transform="translate(-0.26659896,60.155628)"
        inkscape:export-filename="/home/rebecca/Personal Projects/LMMS Theme Source Files/design_elements/lfo_d100_inactive.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
@@ -2646,7 +2794,7 @@
          d="m 530,-8.99999 c -0.554,0 -1,0.446 -1,1 l 0,1 c 0,-0.554 0.446,-1 1,-1 8.33333,0 16.66667,0 25,0 0.554,0 1,0.446 1,1 l 0,-1 c 0,-0.554 -0.446,-1 -1,-1 -8.33333,0 -16.66667,0 -25,0 z"
          style="opacity:0.1;fill:#ffffff;fill-opacity:1;stroke:none" />
       <path
-         style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
          d="m 12,551 0,2 2,0 0,-2 -2,0 z m 8,0 0,8 1,0 0,-8 -1,0 z m 3,0 0,8 5,0 0,-8 -5,0 z m 7.09375,0 0,8 4.90625,0 0,-8 -4.90625,0 z M 24,552 l 3,0 0,6 -3,0 0,-6 z m 7,0 3,0 0,6 -3,0 0,-6 z m -21,2 0,2 6,0 0,-2 -6,0 z m 2,3 0,2 2,0 0,-2 -2,0 z"
          transform="translate(520,-558.00003)"
          id="path4844"
@@ -2660,7 +2808,7 @@
     </g>
     <g
        id="g4285"
-       transform="translate(-444,312)"
+       transform="translate(-444.2666,312.15566)"
        inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/Hinting/LFOBG.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
@@ -2695,7 +2843,7 @@
       </g>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.75px;line-height:125%;font-family:Orbitron;-inkscape-font-specification:'Orbitron Bold';text-align:start;letter-spacing:1.5px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.75px;line-height:125%;font-family:Orbitron;-inkscape-font-specification:'Orbitron Medium';text-align:start;letter-spacing:1.5px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none"
          x="1075.1248"
          y="-265.15692"
          id="text3439"
@@ -2705,7 +2853,7 @@
            id="tspan3441"
            x="1075.1248"
            y="-265.15692"
-           style="font-size:8.75px;letter-spacing:1.5px;-inkscape-font-specification:'Orbitron Bold';font-family:Orbitron;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;">LFO</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.75px;font-family:Orbitron;-inkscape-font-specification:'Orbitron Medium';letter-spacing:1.5px">LFO</tspan></text>
       <rect
          y="-250.99998"
          x="1012"
@@ -2716,7 +2864,7 @@
     </g>
     <g
        style="display:inline"
-       transform="matrix(1,0,0,0.79999982,23.001842,5.929167)"
+       transform="matrix(1,0,0,0.79999982,22.735243,6.0848298)"
        id="g5676">
       <path
          inkscape:transform-center-x="-10"
@@ -2768,14 +2916,14 @@
          inkscape:connector-curvature="0" />
       <path
          inkscape:connector-curvature="0"
-         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#08543b;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#08543b;fill-opacity:1;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
          d="m 724.99819,135.08859 0,0.46876 9.51564,9.53122 -9.51564,9.53123 0,0.46875 0.4844,0 9.26559,-9.27081 0,9.27081 0.25,0 0.25,0 0,-9.27081 9.26564,9.27081 0.48435,0 0,-0.46875 -9.51559,-9.53123 9.51559,-9.53122 0,-0.46876 -0.48435,0 -9.26564,9.27082 0,-9.27082 -0.25,0 -0.25,0 0,9.27082 -9.26559,-9.27082 -0.4844,0 z"
          id="path6535" />
     </g>
     <g
        style="display:inline"
        id="g3643-3"
-       transform="matrix(0.49999998,0,0,0.66666518,196.00002,161.99998)"
+       transform="matrix(0.49999998,0,0,0.66666518,195.73342,162.15564)"
        inkscape:export-filename="/home/rebecca/Personal Projects/LMMS Theme Source Files/design_elements/background_artwork.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
@@ -2836,7 +2984,7 @@
       </g>
       <path
          inkscape:connector-curvature="0"
-         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
          d="m 1104,-42.00003 0,0.5625 19.0313,11.4375 -19.0313,11.4375 0,0.5625 0.9688,0 18.5312,-11.125 0,11.125 0.5,0 0.5,0 0,-11.125 18.5313,11.125 0.9687,0 0,-0.5625 -19.0312,-11.4375 19.0312,-11.4375 0,-0.5625 -0.9687,0 -18.5313,11.125 0,-11.125 -0.5,0 -0.5,0 0,11.125 -18.5312,-11.125 -0.9688,0 z"
          id="path6535-7"
          inkscape:export-filename="/home/rebecca/Personal Projects/LMMS Theme Source Files/design_elements/background_artwork.png"
@@ -2846,7 +2994,7 @@
     <g
        style="display:inline"
        id="g5703"
-       transform="matrix(1,0,0,0.79999982,23.001842,45.929166)">
+       transform="matrix(1,0,0,0.79999982,22.735243,46.08483)">
       <path
          inkscape:transform-center-y="-11.660627"
          inkscape:connector-curvature="0"
@@ -2898,33 +3046,34 @@
       <path
          id="path5718"
          d="m 724.99819,135.08859 0,0.46876 9.51564,9.53122 -9.51564,9.53123 0,0.46875 0.4844,0 9.26559,-9.27081 0,9.27081 0.25,0 0.25,0 0,-9.27081 9.26564,9.27081 0.48435,0 0,-0.46875 -9.51559,-9.53123 9.51559,-9.53122 0,-0.46876 -0.48435,0 -9.26564,9.27082 0,-9.27082 -0.25,0 -0.25,0 0,9.27082 -9.26559,-9.27082 -0.4844,0 z"
-         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#343434;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#343434;fill-opacity:1;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
          inkscape:connector-curvature="0" />
     </g>
     <g
        id="g7551"
-       transform="translate(-116.99996,502.84438)"
-       inkscape:export-filename="/media/freedrive/RebeccaCurrent2016/Personal Projects/LMMS Theme Source Files/design_elements/output_graph.png"
+       transform="translate(-117.26662,503.15567)"
+       inkscape:export-filename="/home/rebecca/NewFilesToCommit/output_graph.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <path
          style="fill:url(#linearGradient6754);fill-opacity:1;stroke:none"
-         d="m 754.99996,-304.84437 4e-5,42.84436 c 0,1.662 -1.33801,3.00001 -3.00001,3.00001 l -103.99998,0 c -1.662,0 -3.00001,-1.33801 -3.00001,-3.00001 l -4e-5,-42.84436 z"
+         d="m 754.99996,-305 4e-5,42.99999 c 0,1.662 -1.33801,3.00001 -3.00001,3.00001 l -103.99998,0 C 646.33801,-259 645,-260.33801 645,-262.00001 L 644.99996,-305 Z"
          id="rect7504"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="csssscc" />
       <path
          inkscape:connector-curvature="0"
          style="opacity:0.05;fill:#ffffff;fill-opacity:1;stroke:none"
-         d="m 648,-259 c -1.66201,0 -3,-1.33799 -3,-3 l 0,-1 c 0,1.66201 1.33799,3 3,3 l 104,0 c 1.66201,0 3,-1.33799 3,-3 l 0,1 c 0,1.66201 -1.33799,3 -3,3 l -104,0 z"
-         id="path7547" />
+         d="m 648,-259 c -1.66201,0 -3,-1.33799 -3,-3 l 0,-1 c 0,1.66201 1.33789,3.14773 2.9999,3.14773 l 104,0 c 1.66201,0 3.0001,-1.48572 3.0001,-3.14773 l 0,1 c 0,1.66201 -1.33799,3 -3,3 z"
+         id="path7547"
+         sodipodi:nodetypes="sscsscsss" />
       <rect
          style="opacity:0.8;fill:#000000;fill-opacity:1;stroke:none"
          id="rect5221"
          width="110"
          height="0.99999291"
          x="644.99994"
-         y="-304.84436"
+         y="-305"
          rx="0"
          ry="0" />
     </g>
@@ -2934,7 +3083,7 @@
        inkscape:export-filename="/home/rebecca/Personal Projects/LMMS Theme Source Files/Background.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       transform="matrix(0.3625,0,0,0.31597202,263.4,250.63195)">
+       transform="matrix(0.3625,0,0,0.31597202,263.1334,250.78761)">
       <path
          style="fill:#43bf50;fill-opacity:1;stroke:none"
          d="m 1072,-166.57151 0,54.85714 0,54.85715 0,54.85714 45.7143,0 45.7143,0 45.7143,0 45.7142,0 45.7143,0 45.7143,0 45.7143,0 0,-27.42857 0,-27.42857 0,-27.42858 0,-27.42857 0,-27.42857 0,-27.42857 -45.7143,0 -45.7143,0 -45.7143,0 -45.7142,0 -45.7143,0 -45.7143,0 -45.7143,0 z"
@@ -3631,7 +3780,7 @@
          inkscape:export-filename="/home/rebecca/Personal Projects/LMMS Theme Source Files/Background.png"
          inkscape:connector-curvature="0"
          id="path8381"
-         d="m 1392,-2.00008 -45.7143,0 L 1392,-29.42865 z"
+         d="m 1392,-2.00008 -45.7143,0 L 1392,-29.42865 Z"
          style="fill:#33b659;fill-opacity:1;stroke:none"
          sodipodi:nodetypes="cccc"
          inkscape:transform-center-x="23.75375"
@@ -3639,7 +3788,7 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-size:5.00696564px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Cabin;-inkscape-font-specification:Cabin"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.00696564px;line-height:125%;font-family:Cabin;-inkscape-font-specification:Cabin;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        x="787.59943"
        y="-414.49512"
        id="text4740"
@@ -3653,7 +3802,7 @@
        id="text4754"
        y="-382.05005"
        x="787.59943"
-       style="font-size:5.00696564px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Cabin;-inkscape-font-specification:Cabin"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.00696564px;line-height:125%;font-family:Cabin;-inkscape-font-specification:Cabin;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          y="-382.05005"
          x="787.59943"
@@ -3661,7 +3810,7 @@
          sodipodi:role="line" /></text>
     <g
        id="g4857"
-       transform="translate(-3,4.3e-5)"
+       transform="translate(-3.266599,0.15570437)"
        inkscape:export-filename="/home/rebecca/Personal Projects/LMMS Theme Source Files/design_elements/cpuload_leds.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
@@ -3683,14 +3832,15 @@
        id="g4525"
        inkscape:export-filename="/media/freedrive/RebeccaCurrent2016/Personal Projects/LMMS Theme Source Files/design_elements/black_key.png"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
+       inkscape:export-ydpi="90"
+       transform="translate(-0.26659896,0.15565281)">
       <g
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
          inkscape:export-filename="/home/rebecca/Personal Projects/LMMS Theme Source Files/design_elements/black_key.png"
          id="g4712">
         <rect
-           style="fill:none;stroke:none;display:inline"
+           style="display:inline;fill:none;stroke:none"
            width="10"
            height="37"
            x="528"
@@ -3721,7 +3871,7 @@
            transform="matrix(0,1,-1,0,0,0)" />
       </g>
       <rect
-         style="fill:url(#linearGradient10572);fill-opacity:1;stroke:none;display:inline"
+         style="display:inline;fill:url(#linearGradient10572);fill-opacity:1;stroke:none"
          id="rect3324-6"
          width="32.000004"
          height="3.0000029"
@@ -3733,7 +3883,8 @@
        id="g4533"
        inkscape:export-filename="/home/rebecca/Personal Projects/LMMS Theme Source Files/design_elements/black_key_pressed.png"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
+       inkscape:export-ydpi="90"
+       transform="translate(-0.26659896,0.15565281)">
       <rect
          transform="matrix(0,-1,1,0,0,0)"
          style="fill:#040506;fill-opacity:1;stroke:none"
@@ -3743,7 +3894,7 @@
          x="406"
          y="545" />
       <rect
-         style="fill:none;stroke:none;display:inline"
+         style="display:inline;fill:none;stroke:none"
          width="10"
          height="37"
          x="544"
@@ -3766,7 +3917,7 @@
          id="rect4865"
          style="fill:#a9a9a9;fill-opacity:1;stroke:none" />
       <path
-         style="opacity:0.7;fill:#0c0e10;fill-opacity:1;stroke:none;display:inline"
+         style="display:inline;opacity:0.7;fill:#0c0e10;fill-opacity:1;stroke:none"
          d="m 546,-440.99999 1,1 3,0 0,32 -3,0 -1,1 5,0 0,-34 z"
          id="path10599"
          inkscape:connector-curvature="0"
@@ -3776,22 +3927,23 @@
        id="g4771"
        inkscape:export-filename="/media/freedrive/RebeccaCurrent2016/Personal Projects/LMMS Theme Source Files/design_elements/step_btn_off_light.png"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
+       inkscape:export-ydpi="90"
+       transform="translate(-0.26659896,0.15566385)">
       <path
          inkscape:connector-curvature="0"
          id="path5089"
          d="m 556,-221.99999 0,24 24,0 0,-24 z"
-         style="fill:#000000;fill-opacity:1;stroke:none;display:inline;filter:url(#filter5497)"
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter5497)"
          sodipodi:nodetypes="ccccc" />
       <path
          sodipodi:nodetypes="ccccccc"
          inkscape:connector-curvature="0"
          id="path5091"
          d="m 568.00422,-220.99999 -11.00422,0 0,22 11.00422,0 10.99578,0 0,-22 z"
-         style="fill:url(#linearGradient5300);fill-opacity:1;stroke:none;display:inline;filter:url(#filter5497);opacity:0.7" />
+         style="display:inline;opacity:0.7;fill:url(#linearGradient5300);fill-opacity:1;stroke:none;filter:url(#filter5497)" />
       <path
-         style="opacity:0.4;fill:url(#linearGradient5297);fill-opacity:1;stroke:none;display:inline;filter:url(#filter5497)"
-         d="m 556.98157,-220.99999 0,11 1.01843,0 0,-9.88342 20,-0.11658 0,10 1,0 0,-11 z"
+         style="display:inline;opacity:0.4;fill:url(#linearGradient5297);fill-opacity:1;stroke:none;filter:url(#filter5497)"
+         d="m 557,-220.99999 0,11 1,0 0,-9.88342 20,-0.11658 0,10 1,0 0,-11 z"
          id="path5093"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="ccccccccc" />
@@ -3812,19 +3964,20 @@
          height="15.999997"
          width="16"
          id="rect10878"
-         style="fill:url(#linearGradient5293);fill-opacity:1;stroke:none;opacity:0.1" />
+         style="opacity:0.1;fill:url(#linearGradient5293);fill-opacity:1;stroke:none" />
       <path
          sodipodi:nodetypes="cccccsssssssss"
          inkscape:connector-curvature="0"
          style="fill:#050506;fill-opacity:1;stroke:none"
-         d="m 558,-219.99999 0,20 20,0 0,-20 z m 2,1 16,0 c 0.554,0 1,0.446 1,1 l 0,16 c 0,0.554 -0.446,1 -1,1 l -16,0 c -0.554,0 -1,-0.446 -1,-1 l 0,-16 c 0,-0.554 0.446,-1 1,-1 z"
+         d="m 557.99994,-219.99999 0,20 20,0 0,-20 z m 2,1 16,0 c 0.554,0 1,0.446 1,1 l 0,16 c 0,0.554 -0.446,1 -1,1 l -16,0 c -0.554,0 -1,-0.446 -1,-1 l 0,-16 c 0,-0.554 0.446,-1 1,-1 z"
          id="path10870" />
     </g>
     <g
        id="g4607"
        inkscape:export-filename="/home/rebecca/Personal Projects/LMMS Theme Source Files/design_elements/stepper-up.png"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
+       inkscape:export-ydpi="90"
+       transform="translate(-0.26659896,0.15569385)">
       <g
          transform="translate(0,-2e-5)"
          id="g3707">
@@ -3871,7 +4024,8 @@
        id="g4623"
        inkscape:export-filename="/home/rebecca/Personal Projects/LMMS Theme Source Files/design_elements/stepper-down.png"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
+       inkscape:export-ydpi="90"
+       transform="translate(-0.26659896,0.15569385)">
       <g
          id="g4497"
          transform="translate(51.999995,-2e-5)">
@@ -3918,7 +4072,8 @@
        id="g4647"
        inkscape:export-filename="/home/rebecca/Personal Projects/LMMS Theme Source Files/design_elements/stepper-right-press.png"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
+       inkscape:export-ydpi="90"
+       transform="translate(-0.26659896,0.15569385)">
       <g
          transform="translate(127.99999,-2e-5)"
          id="g4558">
@@ -3965,7 +4120,8 @@
        id="g4639"
        inkscape:export-filename="/home/rebecca/Personal Projects/LMMS Theme Source Files/design_elements/stepper-right.png"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
+       inkscape:export-ydpi="90"
+       transform="translate(-0.26659896,0.15569385)">
       <g
          transform="translate(103.99999,-2e-5)"
          id="g4569">
@@ -4012,7 +4168,8 @@
        id="g4663"
        inkscape:export-filename="/home/rebecca/Personal Projects/LMMS Theme Source Files/design_elements/stepper-left-press.png"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
+       inkscape:export-ydpi="90"
+       transform="translate(-0.26659896,0.15569385)">
       <g
          id="g4583"
          transform="translate(179.99999,-2e-5)">
@@ -4059,7 +4216,8 @@
        id="g4655"
        inkscape:export-filename="/home/rebecca/Personal Projects/LMMS Theme Source Files/design_elements/stepper-left.png"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
+       inkscape:export-ydpi="90"
+       transform="translate(-0.26659896,0.15569385)">
       <g
          id="g4593"
          transform="translate(155.99999,-2e-5)">
@@ -4106,7 +4264,8 @@
        id="g4805"
        inkscape:export-filename="/home/rebecca/Personal Projects/LMMS Theme Source Files/design_elements/lfo_x100_inactive.png"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
+       inkscape:export-ydpi="90"
+       transform="translate(-0.26659896,0.15567085)">
       <path
          style="fill:#000000;fill-opacity:1;stroke:none"
          d="m 557,-27.999993 0,10.000006 c 0,1.108 -0.89199,1.99999 -1.99999,1.99999 l -25.00001,0 c -1.108,0 -1.99999,-0.891992 -1.99999,-1.99999 l 0,-7.499996 0,-2.50001 c 0,-1.108 0.89199,-1.99999 1.99999,-1.99999 l 25.00001,0 c 1.108,0 1.99999,0.89199 1.99999,1.99999 z"
@@ -4138,15 +4297,16 @@
       <path
          id="path7950"
          transform="translate(520,-498.00003)"
-         d="m 10,471 0,1 2,3 -2,3 0,1 1.09375,0 1.90625,-3 2.09375,3 0.90625,0 0,-1 -2,-3 2,-3 0,-1 -0.90625,0 L 13,474 11.09375,471 10,471 z m 10,0 0,8 1,0 0,-8 -1,0 z m 3,0 0,8 5,0 0,-8 -5,0 z m 7.09375,0 0,8 4.90625,0 0,-8 -4.90625,0 z M 24,472 l 3,0 0,6 -3,0 0,-6 z m 7,0 3,0 0,6 -3,0 0,-6 z"
-         style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+         d="m 10,471 0,1 2,3 -2,3 0,1 1.09375,0 1.90625,-3 2.09375,3 0.90625,0 0,-1 -2,-3 2,-3 0,-1 -0.90625,0 L 13,474 11.09375,471 10,471 Z m 10,0 0,8 1,0 0,-8 -1,0 z m 3,0 0,8 5,0 0,-8 -5,0 z m 7.09375,0 0,8 4.90625,0 0,-8 -4.90625,0 z M 24,472 l 3,0 0,6 -3,0 0,-6 z m 7,0 3,0 0,6 -3,0 0,-6 z"
+         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
          inkscape:connector-curvature="0" />
     </g>
     <g
        id="g4812"
        inkscape:export-filename="/home/rebecca/Personal Projects/LMMS Theme Source Files/design_elements/lfo_x100_active.png"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
+       inkscape:export-ydpi="90"
+       transform="translate(-0.26659896,0.15562785)">
       <path
          sodipodi:nodetypes="csssscssc"
          inkscape:connector-curvature="0"
@@ -4177,8 +4337,8 @@
          sodipodi:nodetypes="csccccscc" />
       <path
          inkscape:connector-curvature="0"
-         style="fill:#0bd556;fill-opacity:1;stroke:none;display:inline"
-         d="m 530,-6.9999875 0,1 2,3 -2,3.000000029297 0,0.999999970703 1.09375,0 1.90625,-3 2.09375,3 0.90625,0 L 536,1.2529297e-5 534,-2.9999875 l 2,-3 0,-1 -0.90625,0 -2.09375,3 -1.90625,-3 -1.09375,0 z m 10,0 0,8 1,0 0,-8 -1,0 z m 3,0 0,8 5,0 0,-8 -5,0 z m 7.09375,0 0,8 4.90625,0 0,-8 -4.90625,0 z m -6.09375,1 3,0 0,6.000000029297 -3,0 L 544,-5.9999875 z m 7,0 3,0 0,6.000000029297 -3,0 L 551,-5.9999875 z"
+         style="display:inline;fill:#0bd556;fill-opacity:1;stroke:none"
+         d="m 530,-6.9999875 0,1 2,3 -2,3.000000029297 0,0.999999970703 1.09375,0 1.90625,-3 2.09375,3 0.90625,0 L 536,1.2529297e-5 534,-2.9999875 l 2,-3 0,-1 -0.90625,0 -2.09375,3 -1.90625,-3 -1.09375,0 z m 10,0 0,8 1,0 0,-8 -1,0 z m 3,0 0,8 5,0 0,-8 -5,0 z m 7.09375,0 0,8 4.90625,0 0,-8 -4.90625,0 z m -6.09375,1 3,0 0,6.000000029297 -3,0 L 544,-5.9999875 Z m 7,0 3,0 0,6.000000029297 -3,0 L 551,-5.9999875 Z"
          id="path4746" />
       <path
          sodipodi:nodetypes="csssscssc"
@@ -4189,7 +4349,7 @@
     </g>
     <g
        id="g4789"
-       transform="translate(0,19.999997)"
+       transform="translate(-0.26659896,20.155672)"
        inkscape:export-filename="/home/rebecca/Personal Projects/LMMS Theme Source Files/design_elements/lfo_x1_inactive.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
@@ -4223,13 +4383,13 @@
          sodipodi:nodetypes="csccccscc" />
       <path
          inkscape:connector-curvature="0"
-         style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
-         d="m 530,-6.9999379 0,0.9999534 2,2.9999535 -2,3.000046529297 0,0.999999970703 1.09375,-4.65e-5 1.90625,-3 2.09375,3 0.90625,0 0,-1 -2,-3 2,-3 0,-0.9999535 -0.90625,0 L 533,-4.000031 531.09375,-6.9999845 z m 10,-4.66e-5 0,7.9999535 1,0 0,-7.9999535 z"
+         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
+         d="m 530,-6.9999379 0,0.9999534 2,2.9999535 -2,3.000046529297 0,0.999999970703 1.09375,-4.65e-5 1.90625,-3 2.09375,3 0.90625,0 0,-1 -2,-3 2,-3 0,-0.9999535 -0.90625,0 L 533,-4.000031 531.09375,-6.9999845 Z m 10,-4.66e-5 0,7.9999535 1,0 0,-7.9999535 z"
          id="path4785"
          sodipodi:nodetypes="cccccccccccccccccccccc" />
     </g>
     <g
-       transform="translate(0,39.999997)"
+       transform="translate(-0.26659896,40.155672)"
        id="g4820"
        inkscape:export-filename="/home/rebecca/Personal Projects/LMMS Theme Source Files/design_elements/lfo_x1_active.png"
        inkscape:export-xdpi="90"
@@ -4265,12 +4425,12 @@
       <path
          sodipodi:nodetypes="cccccccccccccccccccccc"
          id="path4830"
-         d="m 530,-6.9999379 0,0.9999534 2,2.9999535 -2,3.000046529297 0,0.999999970703 1.09375,-4.65e-5 1.90625,-3 2.09375,3 0.90625,0 0,-1 -2,-3 2,-3 0,-0.9999535 -0.90625,0 L 533,-4.000031 531.09375,-6.9999845 z m 10,-4.66e-5 0,7.9999535 1,0 0,-7.9999535 z"
-         style="fill:#0bd556;fill-opacity:1;stroke:none;display:inline"
+         d="m 530,-6.9999379 0,0.9999534 2,2.9999535 -2,3.000046529297 0,0.999999970703 1.09375,-4.65e-5 1.90625,-3 2.09375,3 0.90625,0 0,-1 -2,-3 2,-3 0,-0.9999535 -0.90625,0 L 533,-4.000031 531.09375,-6.9999845 Z m 10,-4.66e-5 0,7.9999535 1,0 0,-7.9999535 z"
+         style="display:inline;fill:#0bd556;fill-opacity:1;stroke:none"
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="translate(0,80)"
+       transform="translate(-0.26659896,80.155628)"
        id="g4851"
        inkscape:export-filename="/home/rebecca/Personal Projects/LMMS Theme Source Files/design_elements/lfo_d100_active.png"
        inkscape:export-xdpi="90"
@@ -4307,7 +4467,7 @@
          id="path4861"
          transform="translate(520,-558.00003)"
          d="m 12,551 0,2 2,0 0,-2 -2,0 z m 8,0 0,8 1,0 0,-8 -1,0 z m 3,0 0,8 5,0 0,-8 -5,0 z m 7.09375,0 0,8 4.90625,0 0,-8 -4.90625,0 z M 24,552 l 3,0 0,6 -3,0 0,-6 z m 7,0 3,0 0,6 -3,0 0,-6 z m -21,2 0,2 6,0 0,-2 -6,0 z m 2,3 0,2 2,0 0,-2 -2,0 z"
-         style="fill:#0bd556;fill-opacity:1;stroke:none;display:inline"
+         style="display:inline;fill:#0bd556;fill-opacity:1;stroke:none"
          inkscape:connector-curvature="0" />
       <path
          sodipodi:nodetypes="csssscssc"
@@ -4319,58 +4479,258 @@
     <g
        id="g5432"
        transform="matrix(0.23590286,0,0,0.23590286,1134.4309,-307.59492)" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4581"
+       d="m 527.7334,-221.84433 0,24 24,0 0,-24 z"
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter5497)"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       sodipodi:nodetypes="ccccccc"
+       inkscape:connector-curvature="0"
+       id="path4583"
+       d="m 539.73762,-220.84433 -11.00422,0 0,22 11.00422,0 10.99578,0 0,-22 z"
+       style="display:inline;opacity:0.4;fill:url(#linearGradient3695);fill-opacity:1;stroke:none;filter:url(#filter5497)" />
+    <path
+       style="display:inline;opacity:0.3;fill:url(#linearGradient3692);fill-opacity:1;stroke:none;filter:url(#filter5497)"
+       d="m 528.7334,-220.84433 0,11 0.99994,-0.008 6e-5,-9.9921 19.99994,-0.008 6e-5,10.0079 1,0 0,-11 z"
+       id="path4587"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccc" />
+    <rect
+       ry="0"
+       rx="0"
+       y="-219.83643"
+       x="529.7334"
+       height="19.999998"
+       width="20"
+       id="rect4589"
+       style="fill:#090a0b;fill-opacity:1;stroke:none" />
+    <rect
+       rx="0.99998224"
+       ry="0.98315024"
+       y="-217.84435"
+       x="531.7334"
+       height="16.000013"
+       width="16"
+       id="rect4591"
+       style="opacity:0.5;fill:url(#linearGradient3688);fill-opacity:1;stroke:none" />
+    <path
+       sodipodi:nodetypes="cccccsssssssss"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       d="m 529.73334,-219.84433 0,20 20,0 0,-20 z m 2,1 16,0 c 0.554,0 1,0.446 1,1 l 0,16 c 0,0.554 -0.446,1 -1,1 l -16,0 c -0.554,0 -1,-0.446 -1,-1 l 0,-16 c 0,-0.554 0.446,-1 1,-1 z"
+       id="path4593" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.48583794px;line-height:125%;font-family:Cabin;-inkscape-font-specification:Cabin;letter-spacing:0px;word-spacing:0px;display:inline;fill:url(#linearGradient5235);fill-opacity:1;stroke:none"
+       x="532.21075"
+       y="-484.91696"
+       id="text3684-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3686-0"
+         x="532.21075"
+         y="-484.91696">LEDs</tspan></text>
     <g
-       id="g4762"
-       inkscape:export-filename="/media/freedrive/RebeccaCurrent2016/Personal Projects/LMMS Theme Source Files/design_elements/step_btn_off.png"
+       transform="matrix(-1,0,0,1,1091.7333,0.15567385)"
+       inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
-      <path
-         sodipodi:nodetypes="ccccc"
-         style="fill:#000000;fill-opacity:1;stroke:none;display:inline;filter:url(#filter5497)"
-         d="m 528,-221.99999 0,24 24,0 0,-24 z"
-         id="path4581"
-         inkscape:connector-curvature="0" />
-      <path
-         style="opacity:0.4;fill:url(#linearGradient3695);fill-opacity:1;stroke:none;display:inline;filter:url(#filter5497)"
-         d="m 540.00422,-220.99999 -11.00422,0 0,22 11.00422,0 10.99578,0 0,-22 z"
-         id="path4583"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccccccc" />
-      <path
-         sodipodi:nodetypes="ccccccccc"
-         inkscape:connector-curvature="0"
-         id="path4587"
-         d="m 528.98157,-220.99999 0,11 1.01843,0 0,-10 20,-0.11658 0,10.11658 1,0 0,-11 z"
-         style="opacity:0.3;fill:url(#linearGradient3692);fill-opacity:1;stroke:none;display:inline;filter:url(#filter5497)" />
+       inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/design_elements/led_green.png"
+       id="g7890-3"
+       style="display:inline">
       <rect
-         style="fill:#090a0b;fill-opacity:1;stroke:none"
-         id="rect4589"
-         width="20"
-         height="19.999998"
-         x="530"
-         y="-219.99998"
+         style="fill:none;stroke:none"
+         id="rect6935-6"
+         width="16"
+         height="14"
+         x="528"
+         y="-479"
+         rx="9.2095098"
+         ry="9.2095098" />
+      <rect
+         transform="translate(0,-3.3378601e-6)"
+         style="display:inline;fill:#0aff65;fill-opacity:1;stroke:none;filter:url(#filter5009)"
+         id="rect4747-8-1"
+         width="10"
+         height="4.0000067"
+         x="531"
+         y="-474"
          rx="0"
          ry="0" />
       <rect
-         style="opacity:0.5;fill:url(#linearGradient3688);fill-opacity:1;stroke:none"
-         id="rect4591"
-         width="16"
-         height="16.000013"
+         ry="0"
+         rx="0"
+         y="-474"
+         x="531"
+         height="4.0000124"
+         width="10"
+         id="rect4235-6-0"
+         style="display:inline;fill:#55ff91;fill-opacity:1;stroke:none" />
+      <rect
+         rx="0"
+         ry="0"
+         y="-473"
          x="532"
-         y="-218"
-         ry="0.98315024"
-         rx="0.99998224" />
-      <path
-         id="path4593"
-         d="m 530,-219.99999 0,20 20,0 0,-20 z m 2,1 16,0 c 0.554,0 1,0.446 1,1 l 0,16 c 0,0.554 -0.446,1 -1,1 l -16,0 c -0.554,0 -1,-0.446 -1,-1 l 0,-16 c 0,-0.554 0.446,-1 1,-1 z"
-         style="fill:#000000;fill-opacity:1;stroke:none"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cccccsssssssss" />
+         height="2"
+         width="8"
+         id="rect4679-6"
+         style="display:inline;opacity:0.7;fill:url(#linearGradient5207);fill-opacity:1;stroke:none" />
     </g>
     <g
-       transform="translate(-4,0)"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/design_elements/led_blue.png"
+       id="g7896-3"
+       style="display:inline"
+       transform="translate(-0.26666,0.15567385)">
+      <rect
+         ry="0"
+         rx="0"
+         y="-479"
+         x="568"
+         height="14"
+         width="16"
+         id="rect4802-2"
+         style="fill:none;stroke:none" />
+      <rect
+         ry="0"
+         rx="0"
+         y="-474"
+         x="571"
+         height="4.0000067"
+         width="10"
+         id="rect4806-0"
+         style="display:inline;fill:#00c8bb;fill-opacity:1;stroke:none;filter:url(#filter5013)" />
+      <rect
+         style="display:inline;fill:#45fff3;fill-opacity:1;stroke:none"
+         id="rect4808-6"
+         width="10"
+         height="4.0000124"
+         x="571"
+         y="-474"
+         rx="0"
+         ry="0" />
+      <rect
+         style="display:inline;opacity:0.7;fill:url(#linearGradient5209);fill-opacity:1;stroke:none"
+         id="rect4810-1"
+         width="8"
+         height="2"
+         x="572"
+         y="-473"
+         ry="0"
+         rx="0" />
+    </g>
+    <g
+       transform="matrix(-1,0,0,1,1091.7333,0.15567385)"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/design_elements/led_off.png"
+       id="g6095-5"
+       style="display:inline">
+      <rect
+         ry="9.2095098"
+         rx="9.2095098"
+         y="-479"
+         x="548"
+         height="14"
+         width="16"
+         id="rect4788-5"
+         style="fill:none;stroke:none" />
+      <rect
+         ry="0"
+         rx="0"
+         y="-475"
+         x="550"
+         height="6.0000124"
+         width="12"
+         id="rect7916-4"
+         style="display:inline;fill:#222a33;fill-opacity:1;stroke:none;filter:url(#filter5003)" />
+      <rect
+         style="display:inline;fill:#1f272e;fill-opacity:1;stroke:none"
+         id="rect4548-7"
+         width="12"
+         height="6.0000124"
+         x="550"
+         y="-475"
+         rx="0"
+         ry="0" />
+      <rect
+         ry="0"
+         rx="0"
+         y="-474"
+         x="551"
+         height="4.0000124"
+         width="10"
+         id="rect3753-6"
+         style="display:inline;fill:#506170;fill-opacity:1;stroke:none" />
+      <rect
+         style="display:inline;fill:#687f94;fill-opacity:1;stroke:none"
+         id="rect3781-5"
+         width="10"
+         height="1.0000125"
+         x="551"
+         y="-474"
+         rx="0"
+         ry="0" />
+      <rect
+         ry="0"
+         rx="0"
+         y="-471"
+         x="551"
+         height="1.0000125"
+         width="10"
+         id="rect4551-6"
+         style="display:inline;fill:#3e4b57;fill-opacity:1;stroke:none" />
+    </g>
+    <g
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/design_elements/led_red.png"
+       id="g7902-9"
+       style="display:inline"
+       transform="translate(-0.26666,0.15567385)">
+      <rect
+         ry="9.2095098"
+         rx="9.2095098"
+         y="-479"
+         x="588"
+         height="14"
+         width="16"
+         id="rect4564-3"
+         style="fill:none;stroke:none" />
+      <rect
+         ry="0"
+         rx="0"
+         y="-474"
+         x="591"
+         height="4.0000067"
+         width="10"
+         id="rect4568-7"
+         style="display:inline;fill:#ff1111;fill-opacity:1;stroke:none;filter:url(#filter5017)" />
+      <rect
+         style="display:inline;fill:#ff617b;fill-opacity:1;stroke:none"
+         id="rect4566-4"
+         width="10"
+         height="3.9999874"
+         x="591"
+         y="-474"
+         rx="0"
+         ry="0" />
+      <rect
+         style="display:inline;opacity:0.5;fill:url(#linearGradient5211);fill-opacity:1;stroke:none"
+         id="rect4570-5"
+         width="8"
+         height="2"
+         x="592"
+         y="-473"
+         ry="0"
+         rx="0" />
+    </g>
+    <g
+       transform="translate(-4.266599,0.15566132)"
        id="g4601"
-       inkscape:export-filename="/media/freedrive/RebeccaCurrent2016/Personal Projects/LMMS Theme Source Files/design_elements/step_btn_on_yellow.png"
+       inkscape:export-filename="/home/rebecca/Step.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <g
@@ -4380,23 +4740,23 @@
            inkscape:connector-curvature="0"
            id="path4603"
            d="m 444,-221.99999 0,24 24,0 0,-24 z"
-           style="fill:#000000;fill-opacity:1;stroke:none;display:inline;filter:url(#filter5497)"
+           style="display:inline;fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter5497)"
            sodipodi:nodetypes="ccccc" />
         <path
            sodipodi:nodetypes="ccccccc"
            inkscape:connector-curvature="0"
            id="path4605"
            d="m 456.00422,-220.99999 -11.00422,0 0,22 11.00422,0 10.99578,0 0,-22 z"
-           style="fill:url(#linearGradient4633);fill-opacity:1;stroke:none;display:inline;filter:url(#filter5497)" />
+           style="display:inline;fill:url(#linearGradient4633);fill-opacity:1;stroke:none;filter:url(#filter5497)" />
         <path
-           style="opacity:0.7;fill:url(#linearGradient4635);fill-opacity:1;stroke:none;display:inline;filter:url(#filter5497)"
-           d="m 445,-221.00003 0,11 1,0 0,-9.99996 20,0 0,9.99996 1,0 0,-11 z"
+           style="display:inline;opacity:0.7;fill:url(#linearGradient4635);fill-opacity:1;stroke:none;filter:url(#filter5497)"
+           d="m 445.00416,-221.00003 0,11 0.99584,0 0,-9.99996 20,0 0,9.99996 1,0 0,-11 z"
            id="path4607"
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="ccccccccc" />
         <path
-           style="opacity:0.3;fill:#0ac8bb;fill-opacity:1;stroke:none;display:inline;filter:url(#filter5497)"
-           d="m 445,-220.99999 0,22 22,0 0,-22 z"
+           style="display:inline;opacity:0.3;fill:#0ac8bb;fill-opacity:1;stroke:none;filter:url(#filter5497)"
+           d="m 445.00416,-220.99999 0,22 22,0 0,-22 z"
            id="path4609"
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="ccccc" />
@@ -4413,7 +4773,7 @@
            rx="0.99998224"
            ry="0.98315024"
            y="-217.99998"
-           x="448"
+           x="448.00415"
            height="16"
            width="16"
            id="rect4613"
@@ -4421,7 +4781,7 @@
         <path
            inkscape:connector-curvature="0"
            style="fill:#135a56;fill-opacity:1;stroke:none"
-           d="m 446,-219.99999 0,20 20,0 0,-20 z m 2,1 16,0 c 0.554,0 1,0.446 1,1 l 0,16 c 0,0.554 -0.446,1 -1,1 l -16,0 c -0.554,0 -1,-0.446 -1,-1 l 0,-16 c 0,-0.554 0.446,-1 1,-1 z"
+           d="m 446.00416,-219.99999 0,20 20,0 0,-20 z m 2.00416,0.9921 16,0 c 0.554,0 1,0.446 1,1 l 0,16 c 0,0.554 -0.446,1 -1,1 l -16,0 c -0.554,0 -1,-0.446 -1,-1 l 0,-16 c 0,-0.554 0.446,-1 1,-1 z"
            id="path4615"
            sodipodi:nodetypes="cccccsssssssss" />
       </g>
@@ -4430,33 +4790,32 @@
        id="g6214"
        inkscape:export-filename="/media/freedrive/RebeccaCurrent2016/Personal Projects/LMMS Theme Source Files/design_elements/knob01.png"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
+       inkscape:export-ydpi="90"
+       transform="translate(-0.26659896,0.15565859)">
       <rect
          id="rect7129-6"
          y="-225.99998"
          x="616"
          height="29"
          width="29"
-         style="fill:none;stroke:none;display:inline" />
-      <path
-         d="m 24.857731,-314.34576 a 41.521179,41.521179 0 0 1 -41.521179,41.52118 41.521179,41.521179 0 0 1 -41.52118,-41.52118 41.521179,41.521179 0 0 1 41.52118,-41.52118 41.521179,41.521179 0 0 1 41.521179,41.52118 z"
-         sodipodi:ry="41.521179"
-         sodipodi:rx="41.521179"
-         sodipodi:cy="-314.34576"
-         sodipodi:cx="-16.663448"
+         style="display:inline;fill:none;stroke:none" />
+      <circle
          id="path3772"
          style="opacity:1;fill:#1c4933;fill-opacity:1;stroke:none"
-         sodipodi:type="arc"
          transform="matrix(-0.2047148,0,0,-0.20471425,627.08874,-275.85104)"
          inkscape:export-filename="/media/freedrive/RebeccaCurrent2016/Personal Projects/LMMS Theme Source Files/design_elements/knob03.png"
          inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" />
+         inkscape:export-ydpi="90"
+         cx="-16.663448"
+         cy="-314.34576"
+         r="41.521179" />
     </g>
     <g
        id="g4736"
        inkscape:export-filename="/media/freedrive/RebeccaCurrent2016/Personal Projects/LMMS Theme Source Files/design_elements/knob02.png"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
+       inkscape:export-ydpi="90"
+       transform="translate(-0.26659896,0.15565859)">
       <g
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
@@ -4481,25 +4840,22 @@
                  style="fill:none;stroke:none" />
             </g>
           </g>
-          <path
-             d="m 19.321579,-314.34576 a 35.985027,35.985027 0 0 1 -35.985027,35.98502 35.985027,35.985027 0 0 1 -35.985028,-35.98502 35.985027,35.985027 0 0 1 35.985028,-35.98503 35.985027,35.985027 0 0 1 35.985027,35.98503 z"
-             sodipodi:ry="35.985027"
-             sodipodi:rx="35.985027"
-             sodipodi:cy="-314.34576"
-             sodipodi:cx="-16.663448"
+          <circle
              id="path4730"
              style="opacity:1;fill:#1c4933;fill-opacity:1;stroke:none"
-             sodipodi:type="arc"
              transform="matrix(-0.22231468,0,0,-0.22231408,657.79547,-282.38347)"
              inkscape:export-filename="/media/freedrive/RebeccaCurrent2016/Personal Projects/LMMS Theme Source Files/design_elements/knob03.png"
              inkscape:export-xdpi="90"
-             inkscape:export-ydpi="90" />
+             inkscape:export-ydpi="90"
+             cx="-16.663448"
+             cy="-314.34576"
+             r="33.700478" />
         </g>
       </g>
     </g>
     <g
        id="g4598"
-       transform="translate(-16,0)"
+       transform="translate(-16.266599,0.15565859)"
        inkscape:export-filename="/media/freedrive/RebeccaCurrent2016/Personal Projects/LMMS Theme Source Files/design_elements/knob05.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
@@ -4510,7 +4866,7 @@
          inkscape:export-filename="/media/freedrive/RebeccaCurrent2016/Personal Projects/LMMS Theme Source Files/design_elements/knob04.png"
          id="g3811">
         <rect
-           style="fill:none;stroke:none;display:inline"
+           style="display:inline;fill:none;stroke:none"
            width="32"
            height="32"
            x="-752"
@@ -4518,19 +4874,16 @@
            id="rect4588"
            transform="scale(-1,1)" />
       </g>
-      <path
+      <circle
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
          inkscape:export-filename="/media/freedrive/RebeccaCurrent2016/Personal Projects/LMMS Theme Source Files/design_elements/knob03.png"
          transform="matrix(-0.2047148,0,0,-0.20471425,728.58875,-274.35104)"
-         sodipodi:type="arc"
          style="opacity:1;fill:#1c4933;fill-opacity:1;stroke:none"
          id="path4588"
-         sodipodi:cx="-16.663448"
-         sodipodi:cy="-314.34576"
-         sodipodi:rx="29.309124"
-         sodipodi:ry="29.309124"
-         d="m 12.645676,-314.34576 a 29.309124,29.309124 0 0 1 -29.309124,29.30912 29.309124,29.309124 0 0 1 -29.309124,-29.30912 29.309124,29.309124 0 0 1 29.309124,-29.30913 29.309124,29.309124 0 0 1 29.309124,29.30913 z" />
+         cx="-16.663448"
+         cy="-314.34576"
+         r="29.309124" />
     </g>
     <g
        id="g5447"
@@ -4542,7 +4895,8 @@
        id="g4585"
        inkscape:export-filename="/media/freedrive/RebeccaCurrent2016/Personal Projects/LMMS Theme Source Files/design_elements/effect_plugin.png"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
+       inkscape:export-ydpi="90"
+       transform="translate(-0.26666,0.15566385)">
       <g
          id="g5609"
          inkscape:export-ydpi="90"
@@ -4574,7 +4928,7 @@
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="csssscssc" />
         <path
-           style="opacity:0.07;fill:#ffffff;fill-opacity:1;stroke:none"
+           style="opacity:0.07000002;fill:#ffffff;fill-opacity:1;stroke:none"
            d="m 530,117.00001 c -0.554,0 -1,0.446 -1,1 l 0,1 c 0,-0.554 0.446,-1 1,-1 l 206,0 c 0.554,0 1,0.446 1,1 l 0,-1 c 0,-0.554 -0.446,-1 -1,-1 z"
            id="path5546"
            inkscape:connector-curvature="0"
@@ -4589,7 +4943,7 @@
        id="g3688" />
     <g
        id="g48798"
-       transform="translate(196,0.121726)"
+       transform="translate(195.7334,0.1556624)"
        inkscape:export-filename="/media/freedrive/RebeccaCurrent2016/Personal Projects/LMMS Theme Source Files/design_elements/lcd_19green.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
@@ -4601,13 +4955,13 @@
          y="-362"
          id="rect48232" />
       <path
-         style="opacity:0.15;fill:#0bd556;fill-opacity:1;stroke:none;display:inline"
+         style="display:inline;opacity:0.15;fill:#0bd556;fill-opacity:1;stroke:none"
          d="m 344,-358.99999 0,1 0,4.99997 0,1 0,6 0,1 2,0 5,0 0,-1.99997 -5,0 0,-4 5,0 0,-2.00003 -5,0 0,-3.99997 5,0 0,-2 z m 11,2 0,4 2,0 0,-4 z m 11,0 0,3.99997 0,1 0,5.00003 2,0 0,-5.00003 0,-1 0,-3.99997 z m 11,-2 0,2 9,0 0,-2 z m 18,2 0,4 2,0 0,-4 z m 11,0 0,4 2,0 0,-4 z m 4,0 0,3.99997 0,1 0,5.00003 0,1.99997 7,0 0,-1.99997 -5,0 0,-4 5,0 0,-2.00003 -5,0 0,-3.99997 z m 33,-2 0,1 0,5.99997 0,7 2,0 7,0 0,-1 0,-7 0,-4.99997 0,-1 -2,0 -5,0 z m 11,0 0,2 0,4.99997 c 0,0 0,3.33335 0,5.00003 0,0.66666 0,1.99997 0,1.99997 l 9,0 0,-1.99997 0,-6.00003 0,-3.99997 0,-2 -1,0 -7,0 z m -9,2 5,0 0,3.99997 -5,0 z m 11,0 5,0 0,4.99997 0,5.00003 -5,0 0,-6.00003 z m -121,3.99997 0,2.00003 5,0 0,-2.00003 z m 27,2.00003 0,4 2,0 0,-4 z m 15,-2.00003 0,7 0,1 7,0 0,-1.99997 -5,0 0,-6.00003 z m 11,2.00003 0,4 2,0 0,-4 z m 44,0 0,4 2,0 0,-4 z m 13,0 5,0 0,4 -5,0 z"
          id="path48234"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccscccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
       <path
-         style="fill:#0bd556;fill-opacity:1;stroke:none;display:inline"
+         style="display:inline;fill:#0bd556;fill-opacity:1;stroke:none"
          d="m 333,-358.99999 0,1 0,5.99997 0,7 1,0 8,0 0,-1 0,-7 0,-4.99997 0,-1 -1,0 -7,0 z m 18,0 0,5.99997 0,1 0,7 2,0 0,-7 0,-1 0,-5.99997 z m 4,0 0,2 7,0 0,3.99997 -5,3e-5 -2,-3e-5 0,6.00003 0,1.99997 9,0 0,-1.99997 -7,3e-5 0,-4 5,-3e-5 2,0 0,-6 0,-2 -2,0 z m 11,0 0,2 7,0 0,3.99997 -5,0 0,2.00003 5,0 0,4 -7,0 0,1.99997 9,0 0,-1.99997 0,-6.00003 0,-3.99997 0,-2 -1,0 z m 11,0 0,6.99997 1,0 6,0 0,7 2,0 0,-7 0,-1 0,-5.99997 -2,0 0,5 -5,0 0,-5 z m 11,-3e-5 0,1 0,7.00003 2,0 5,0 0,4 -7,0 0,1.99997 9,0 0,-1.99997 0,-6.00003 -1,0 -6,0 0,-3.99997 7,0 0,-2.00003 -7,0 z m 11,0 0,1 0,6.00003 0,6.99997 2,0 7,0 0,-1.99997 0,-6.00003 -2,0 -5,0 0,-3.99997 7,0 0,-2.00003 -7,0 z m 11,3e-5 0,2 7,0 0,4.99997 0,7 2,0 0,-8 0,-3.99997 0,-2 -2,0 z m 11,0 0,2 0,6 0,4 0,1.99997 9,0 0,-1.99997 0,-6.00003 0,-3.99997 0,-2 -2,0 -5,0 z m 11,0 0,2 0,6 2,0 5,0 0,4 -7,0 0,1.99997 9,0 0,-1.99997 0,-6.00003 0,-3.99997 0,-2 -2,0 -5,0 z m -97,2 5,0 0,4.99997 0,5.00003 -5,0 0,-6.00003 z m 88,0 5,0 0,3.99997 -5,0 z m 11,0 5,0 0,3.99997 -5,0 z m 22,4 0,2 5,0 0,-2 z m -55,2 5,0 0,4 -5,0 z m 22,0 5,0 0,4 -5,0 z"
          id="path48236"
          inkscape:connector-curvature="0"
@@ -4617,19 +4971,19 @@
          inkscape:connector-curvature="0"
          id="path48773"
          d="m 344,-339.99999 0,1 0,4.99997 0,1 0,6 0,1 2,0 5,0 0,-1.99997 -5,0 0,-4 5,0 0,-2.00003 -5,0 0,-3.99997 5,0 0,-2 z m 11,2 0,4 2,0 0,-4 z m 11,0 0,3.99997 0,1 0,5.00003 2,0 0,-5.00003 0,-1 0,-3.99997 z m 11,-2 0,2 9,0 0,-2 z m 18,2 0,4 2,0 0,-4 z m 11,0 0,4 2,0 0,-4 z m 4,0 0,3.99997 0,1 0,5.00003 0,1.99997 7,0 0,-1.99997 -5,0 0,-4 5,0 0,-2.00003 -5,0 0,-3.99997 z m 33,-2 0,1 0,5.99997 0,7 2,0 7,0 0,-1 0,-7 0,-4.99997 0,-1 -2,0 -5,0 z m 11,0 0,2 0,4.99997 c 0,0 0,3.33335 0,5.00003 0,0.66666 0,1.99997 0,1.99997 l 9,0 0,-1.99997 0,-6.00003 0,-3.99997 0,-2 -1,0 -7,0 z m -9,2 5,0 0,3.99997 -5,0 z m 11,0 5,0 0,4.99997 0,5.00003 -5,0 0,-6.00003 z m -121,3.99997 0,2.00003 5,0 0,-2.00003 z m 27,2.00003 0,4 2,0 0,-4 z m 15,-2.00003 0,7 0,1 7,0 0,-1.99997 -5,0 0,-6.00003 z m 11,2.00003 0,4 2,0 0,-4 z m 44,0 0,4 2,0 0,-4 z m 13,0 5,0 0,4 -5,0 z"
-         style="opacity:0.15;fill:#078837;fill-opacity:1;stroke:none;display:inline" />
+         style="display:inline;opacity:0.15;fill:#078837;fill-opacity:1;stroke:none" />
       <path
          sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
          inkscape:connector-curvature="0"
          id="path48775"
          d="m 333,-339.99996 0,1 0,5.99997 0,7 1,0 8,0 0,-1 0,-7 0,-4.99997 0,-1 -1,0 -7,0 z m 18,0 0,5.99997 0,1 0,7 2,0 0,-7 0,-1 0,-5.99997 z m 4,0 0,2 7,0 0,3.99997 -5,3e-5 -2,-3e-5 0,6.00003 0,1.99997 9,0 0,-1.99997 -7,3e-5 0,-4 5,-3e-5 2,0 0,-6 0,-2 -2,0 z m 11,0 0,2 7,0 0,3.99997 -5,0 0,2.00003 5,0 0,4 -7,0 0,1.99997 9,0 0,-1.99997 0,-6.00003 0,-3.99997 0,-2 -1,0 z m 11,0 0,6.99997 1,0 6,0 0,7 2,0 0,-7 0,-1 0,-5.99997 -2,0 0,5 -5,0 0,-5 z m 11,-3e-5 0,1 0,7.00003 2,0 5,0 0,4 -7,0 0,1.99997 9,0 0,-1.99997 0,-6.00003 -1,0 -6,0 0,-3.99997 7,0 0,-2.00003 -7,0 z m 11,0 0,1 0,6.00003 0,6.99997 2,0 7,0 0,-1.99997 0,-6.00003 -2,0 -5,0 0,-3.99997 7,0 0,-2.00003 -7,0 z m 11,3e-5 0,2 7,0 0,4.99997 0,7 2,0 0,-8 0,-3.99997 0,-2 -2,0 z m 11,0 0,2 0,6 0,4 0,1.99997 9,0 0,-1.99997 0,-6.00003 0,-3.99997 0,-2 -2,0 -5,0 z m 11,0 0,2 0,6 2,0 5,0 0,4 -7,0 0,1.99997 9,0 0,-1.99997 0,-6.00003 0,-3.99997 0,-2 -2,0 -5,0 z m -97,2 5,0 0,4.99997 0,5.00003 -5,0 0,-6.00003 z m 88,0 5,0 0,3.99997 -5,0 z m 11,0 5,0 0,3.99997 -5,0 z m 22,4 0,2 5,0 0,-2 z m -55,2 5,0 0,4 -5,0 z m 22,0 5,0 0,4 -5,0 z"
-         style="fill:#078837;fill-opacity:1;stroke:none;display:inline" />
+         style="display:inline;fill:#078837;fill-opacity:1;stroke:none" />
     </g>
     <g
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
        inkscape:export-filename="/media/freedrive/RebeccaCurrent2016/Personal Projects/LMMS Theme Source Files/design_elements/lcd_19red.png"
-       transform="translate(196,40.121726)"
+       transform="translate(195.7334,40.155662)"
        id="g3683">
       <rect
          id="rect3685"
@@ -4643,21 +4997,21 @@
          inkscape:connector-curvature="0"
          id="path3687"
          d="m 344,-358.99999 0,1 0,4.99997 0,1 0,6 0,1 2,0 5,0 0,-1.99997 -5,0 0,-4 5,0 0,-2.00003 -5,0 0,-3.99997 5,0 0,-2 z m 11,2 0,4 2,0 0,-4 z m 11,0 0,3.99997 0,1 0,5.00003 2,0 0,-5.00003 0,-1 0,-3.99997 z m 11,-2 0,2 9,0 0,-2 z m 18,2 0,4 2,0 0,-4 z m 11,0 0,4 2,0 0,-4 z m 4,0 0,3.99997 0,1 0,5.00003 0,1.99997 7,0 0,-1.99997 -5,0 0,-4 5,0 0,-2.00003 -5,0 0,-3.99997 z m 33,-2 0,1 0,5.99997 0,7 2,0 7,0 0,-1 0,-7 0,-4.99997 0,-1 -2,0 -5,0 z m 11,0 0,2 0,4.99997 c 0,0 0,3.33335 0,5.00003 0,0.66666 0,1.99997 0,1.99997 l 9,0 0,-1.99997 0,-6.00003 0,-3.99997 0,-2 -1,0 -7,0 z m -9,2 5,0 0,3.99997 -5,0 z m 11,0 5,0 0,4.99997 0,5.00003 -5,0 0,-6.00003 z m -121,3.99997 0,2.00003 5,0 0,-2.00003 z m 27,2.00003 0,4 2,0 0,-4 z m 15,-2.00003 0,7 0,1 7,0 0,-1.99997 -5,0 0,-6.00003 z m 11,2.00003 0,4 2,0 0,-4 z m 44,0 0,4 2,0 0,-4 z m 13,0 5,0 0,4 -5,0 z"
-         style="opacity:0.15;fill:#af0e28;fill-opacity:1;stroke:none;display:inline" />
+         style="display:inline;opacity:0.15;fill:#af0e28;fill-opacity:1;stroke:none" />
       <path
          sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
          inkscape:connector-curvature="0"
          id="path3689"
          d="m 333,-358.99999 0,1 0,5.99997 0,7 1,0 8,0 0,-1 0,-7 0,-4.99997 0,-1 -1,0 -7,0 z m 18,0 0,5.99997 0,1 0,7 2,0 0,-7 0,-1 0,-5.99997 z m 4,0 0,2 7,0 0,3.99997 -5,3e-5 -2,-3e-5 0,6.00003 0,1.99997 9,0 0,-1.99997 -7,3e-5 0,-4 5,-3e-5 2,0 0,-6 0,-2 -2,0 z m 11,0 0,2 7,0 0,3.99997 -5,0 0,2.00003 5,0 0,4 -7,0 0,1.99997 9,0 0,-1.99997 0,-6.00003 0,-3.99997 0,-2 -1,0 z m 11,0 0,6.99997 1,0 6,0 0,7 2,0 0,-7 0,-1 0,-5.99997 -2,0 0,5 -5,0 0,-5 z m 11,-3e-5 0,1 0,7.00003 2,0 5,0 0,4 -7,0 0,1.99997 9,0 0,-1.99997 0,-6.00003 -1,0 -6,0 0,-3.99997 7,0 0,-2.00003 -7,0 z m 11,0 0,1 0,6.00003 0,6.99997 2,0 7,0 0,-1.99997 0,-6.00003 -2,0 -5,0 0,-3.99997 7,0 0,-2.00003 -7,0 z m 11,3e-5 0,2 7,0 0,4.99997 0,7 2,0 0,-8 0,-3.99997 0,-2 -2,0 z m 11,0 0,2 0,6 0,4 0,1.99997 9,0 0,-1.99997 0,-6.00003 0,-3.99997 0,-2 -2,0 -5,0 z m 11,0 0,2 0,6 2,0 5,0 0,4 -7,0 0,1.99997 9,0 0,-1.99997 0,-6.00003 0,-3.99997 0,-2 -2,0 -5,0 z m -97,2 5,0 0,4.99997 0,5.00003 -5,0 0,-6.00003 z m 88,0 5,0 0,3.99997 -5,0 z m 11,0 5,0 0,3.99997 -5,0 z m 22,4 0,2 5,0 0,-2 z m -55,2 5,0 0,4 -5,0 z m 22,0 5,0 0,4 -5,0 z"
-         style="fill:#af0e28;fill-opacity:1;stroke:none;display:inline" />
+         style="display:inline;fill:#af0e28;fill-opacity:1;stroke:none" />
       <path
-         style="opacity:0.15;fill:#610816;fill-opacity:1;stroke:none;display:inline"
+         style="display:inline;opacity:0.15;fill:#610816;fill-opacity:1;stroke:none"
          d="m 344,-339.99999 0,1 0,4.99997 0,1 0,6 0,1 2,0 5,0 0,-1.99997 -5,0 0,-4 5,0 0,-2.00003 -5,0 0,-3.99997 5,0 0,-2 z m 11,2 0,4 2,0 0,-4 z m 11,0 0,3.99997 0,1 0,5.00003 2,0 0,-5.00003 0,-1 0,-3.99997 z m 11,-2 0,2 9,0 0,-2 z m 18,2 0,4 2,0 0,-4 z m 11,0 0,4 2,0 0,-4 z m 4,0 0,3.99997 0,1 0,5.00003 0,1.99997 7,0 0,-1.99997 -5,0 0,-4 5,0 0,-2.00003 -5,0 0,-3.99997 z m 33,-2 0,1 0,5.99997 0,7 2,0 7,0 0,-1 0,-7 0,-4.99997 0,-1 -2,0 -5,0 z m 11,0 0,2 0,4.99997 c 0,0 0,3.33335 0,5.00003 0,0.66666 0,1.99997 0,1.99997 l 9,0 0,-1.99997 0,-6.00003 0,-3.99997 0,-2 -1,0 -7,0 z m -9,2 5,0 0,3.99997 -5,0 z m 11,0 5,0 0,4.99997 0,5.00003 -5,0 0,-6.00003 z m -121,3.99997 0,2.00003 5,0 0,-2.00003 z m 27,2.00003 0,4 2,0 0,-4 z m 15,-2.00003 0,7 0,1 7,0 0,-1.99997 -5,0 0,-6.00003 z m 11,2.00003 0,4 2,0 0,-4 z m 44,0 0,4 2,0 0,-4 z m 13,0 5,0 0,4 -5,0 z"
          id="path3691"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccscccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
       <path
-         style="fill:#610816;fill-opacity:1;stroke:none;display:inline"
+         style="display:inline;fill:#610816;fill-opacity:1;stroke:none"
          d="m 333,-339.99996 0,1 0,5.99997 0,7 1,0 8,0 0,-1 0,-7 0,-4.99997 0,-1 -1,0 -7,0 z m 18,0 0,5.99997 0,1 0,7 2,0 0,-7 0,-1 0,-5.99997 z m 4,0 0,2 7,0 0,3.99997 -5,3e-5 -2,-3e-5 0,6.00003 0,1.99997 9,0 0,-1.99997 -7,3e-5 0,-4 5,-3e-5 2,0 0,-6 0,-2 -2,0 z m 11,0 0,2 7,0 0,3.99997 -5,0 0,2.00003 5,0 0,4 -7,0 0,1.99997 9,0 0,-1.99997 0,-6.00003 0,-3.99997 0,-2 -1,0 z m 11,0 0,6.99997 1,0 6,0 0,7 2,0 0,-7 0,-1 0,-5.99997 -2,0 0,5 -5,0 0,-5 z m 11,-3e-5 0,1 0,7.00003 2,0 5,0 0,4 -7,0 0,1.99997 9,0 0,-1.99997 0,-6.00003 -1,0 -6,0 0,-3.99997 7,0 0,-2.00003 -7,0 z m 11,0 0,1 0,6.00003 0,6.99997 2,0 7,0 0,-1.99997 0,-6.00003 -2,0 -5,0 0,-3.99997 7,0 0,-2.00003 -7,0 z m 11,3e-5 0,2 7,0 0,4.99997 0,7 2,0 0,-8 0,-3.99997 0,-2 -2,0 z m 11,0 0,2 0,6 0,4 0,1.99997 9,0 0,-1.99997 0,-6.00003 0,-3.99997 0,-2 -2,0 -5,0 z m 11,0 0,2 0,6 2,0 5,0 0,4 -7,0 0,1.99997 9,0 0,-1.99997 0,-6.00003 0,-3.99997 0,-2 -2,0 -5,0 z m -97,2 5,0 0,4.99997 0,5.00003 -5,0 0,-6.00003 z m 88,0 5,0 0,3.99997 -5,0 z m 11,0 5,0 0,3.99997 -5,0 z m 22,4 0,2 5,0 0,-2 z m -55,2 5,0 0,4 -5,0 z m 22,0 5,0 0,4 -5,0 z"
          id="path3693"
          inkscape:connector-curvature="0"
@@ -4665,7 +5019,7 @@
     </g>
     <g
        id="g4463"
-       transform="translate(196,80.000013)"
+       transform="translate(195.7334,80.155662)"
        inkscape:export-filename="/media/freedrive/RebeccaCurrent2016/Personal Projects/LMMS Theme Source Files/design_elements/lcd_21pink.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
@@ -4677,13 +5031,13 @@
          y="-362"
          id="rect4465" />
       <path
-         style="opacity:0.15;fill:#4235a6;fill-opacity:1;stroke:none;display:inline"
+         style="display:inline;opacity:0.15;fill:#4235a6;fill-opacity:1;stroke:none"
          d="m 344,-358.99999 0,1 0,4.99997 0,1 0,6 0,1 2,0 5,0 0,-1.99997 -5,0 0,-4 5,0 0,-2.00003 -5,0 0,-3.99997 5,0 0,-2 z m 11,2 0,4 2,0 0,-4 z m 11,0 0,3.99997 0,1 0,5.00003 2,0 0,-5.00003 0,-1 0,-3.99997 z m 11,-2 0,2 9,0 0,-2 z m 18,2 0,4 2,0 0,-4 z m 11,0 0,4 2,0 0,-4 z m 4,0 0,3.99997 0,1 0,5.00003 0,1.99997 7,0 0,-1.99997 -5,0 0,-4 5,0 0,-2.00003 -5,0 0,-3.99997 z m 33,-2 0,1 0,5.99997 0,7 2,0 7,0 0,-1 0,-7 0,-4.99997 0,-1 -2,0 -5,0 z m 11,0 0,2 0,4.99997 c 0,0 0,3.33335 0,5.00003 0,0.66666 0,1.99997 0,1.99997 l 9,0 0,-1.99997 0,-6.00003 0,-3.99997 0,-2 -1,0 -7,0 z m -9,2 5,0 0,3.99997 -5,0 z m 11,0 5,0 0,4.99997 0,5.00003 -5,0 0,-6.00003 z m -121,3.99997 0,2.00003 5,0 0,-2.00003 z m 27,2.00003 0,4 2,0 0,-4 z m 15,-2.00003 0,7 0,1 7,0 0,-1.99997 -5,0 0,-6.00003 z m 11,2.00003 0,4 2,0 0,-4 z m 44,0 0,4 2,0 0,-4 z m 13,0 5,0 0,4 -5,0 z"
          id="path4467"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccscccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
       <path
-         style="fill:#32287e;fill-opacity:1;stroke:none;display:inline"
+         style="display:inline;fill:#32287e;fill-opacity:1;stroke:none"
          d="m 333,-358.99999 0,1 0,5.99997 0,7 1,0 8,0 0,-1 0,-7 0,-4.99997 0,-1 -1,0 -7,0 z m 18,0 0,5.99997 0,1 0,7 2,0 0,-7 0,-1 0,-5.99997 z m 4,0 0,2 7,0 0,3.99997 -5,3e-5 -2,-3e-5 0,6.00003 0,1.99997 9,0 0,-1.99997 -7,3e-5 0,-4 5,-3e-5 2,0 0,-6 0,-2 -2,0 z m 11,0 0,2 7,0 0,3.99997 -5,0 0,2.00003 5,0 0,4 -7,0 0,1.99997 9,0 0,-1.99997 0,-6.00003 0,-3.99997 0,-2 -1,0 z m 11,0 0,6.99997 1,0 6,0 0,7 2,0 0,-7 0,-1 0,-5.99997 -2,0 0,5 -5,0 0,-5 z m 11,-3e-5 0,1 0,7.00003 2,0 5,0 0,4 -7,0 0,1.99997 9,0 0,-1.99997 0,-6.00003 -1,0 -6,0 0,-3.99997 7,0 0,-2.00003 -7,0 z m 11,0 0,1 0,6.00003 0,6.99997 2,0 7,0 0,-1.99997 0,-6.00003 -2,0 -5,0 0,-3.99997 7,0 0,-2.00003 -7,0 z m 11,3e-5 0,2 7,0 0,4.99997 0,7 2,0 0,-8 0,-3.99997 0,-2 -2,0 z m 11,0 0,2 0,6 0,4 0,1.99997 9,0 0,-1.99997 0,-6.00003 0,-3.99997 0,-2 -2,0 -5,0 z m 11,0 0,2 0,6 2,0 5,0 0,4 -7,0 0,1.99997 9,0 0,-1.99997 0,-6.00003 0,-3.99997 0,-2 -2,0 -5,0 z m -97,2 5,0 0,4.99997 0,5.00003 -5,0 0,-6.00003 z m 88,0 5,0 0,3.99997 -5,0 z m 11,0 5,0 0,3.99997 -5,0 z m 22,4 0,2 5,0 0,-2 z m -55,2 5,0 0,4 -5,0 z m 22,0 5,0 0,4 -5,0 z"
          id="path4469"
          inkscape:connector-curvature="0"
@@ -4693,19 +5047,20 @@
          inkscape:connector-curvature="0"
          id="path4471"
          d="m 344,-339.99999 0,1 0,4.99997 0,1 0,6 0,1 2,0 5,0 0,-1.99997 -5,0 0,-4 5,0 0,-2.00003 -5,0 0,-3.99997 5,0 0,-2 z m 11,2 0,4 2,0 0,-4 z m 11,0 0,3.99997 0,1 0,5.00003 2,0 0,-5.00003 0,-1 0,-3.99997 z m 11,-2 0,2 9,0 0,-2 z m 18,2 0,4 2,0 0,-4 z m 11,0 0,4 2,0 0,-4 z m 4,0 0,3.99997 0,1 0,5.00003 0,1.99997 7,0 0,-1.99997 -5,0 0,-4 5,0 0,-2.00003 -5,0 0,-3.99997 z m 33,-2 0,1 0,5.99997 0,7 2,0 7,0 0,-1 0,-7 0,-4.99997 0,-1 -2,0 -5,0 z m 11,0 0,2 0,4.99997 c 0,0 0,3.33335 0,5.00003 0,0.66666 0,1.99997 0,1.99997 l 9,0 0,-1.99997 0,-6.00003 0,-3.99997 0,-2 -1,0 -7,0 z m -9,2 5,0 0,3.99997 -5,0 z m 11,0 5,0 0,4.99997 0,5.00003 -5,0 0,-6.00003 z m -121,3.99997 0,2.00003 5,0 0,-2.00003 z m 27,2.00003 0,4 2,0 0,-4 z m 15,-2.00003 0,7 0,1 7,0 0,-1.99997 -5,0 0,-6.00003 z m 11,2.00003 0,4 2,0 0,-4 z m 44,0 0,4 2,0 0,-4 z m 13,0 5,0 0,4 -5,0 z"
-         style="opacity:0.15;fill:#201a4f;fill-opacity:1;stroke:none;display:inline" />
+         style="display:inline;opacity:0.15;fill:#201a4f;fill-opacity:1;stroke:none" />
       <path
          sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
          inkscape:connector-curvature="0"
          id="path4473"
          d="m 333,-339.99996 0,1 0,5.99997 0,7 1,0 8,0 0,-1 0,-7 0,-4.99997 0,-1 -1,0 -7,0 z m 18,0 0,5.99997 0,1 0,7 2,0 0,-7 0,-1 0,-5.99997 z m 4,0 0,2 7,0 0,3.99997 -5,3e-5 -2,-3e-5 0,6.00003 0,1.99997 9,0 0,-1.99997 -7,3e-5 0,-4 5,-3e-5 2,0 0,-6 0,-2 -2,0 z m 11,0 0,2 7,0 0,3.99997 -5,0 0,2.00003 5,0 0,4 -7,0 0,1.99997 9,0 0,-1.99997 0,-6.00003 0,-3.99997 0,-2 -1,0 z m 11,0 0,6.99997 1,0 6,0 0,7 2,0 0,-7 0,-1 0,-5.99997 -2,0 0,5 -5,0 0,-5 z m 11,-3e-5 0,1 0,7.00003 2,0 5,0 0,4 -7,0 0,1.99997 9,0 0,-1.99997 0,-6.00003 -1,0 -6,0 0,-3.99997 7,0 0,-2.00003 -7,0 z m 11,0 0,1 0,6.00003 0,6.99997 2,0 7,0 0,-1.99997 0,-6.00003 -2,0 -5,0 0,-3.99997 7,0 0,-2.00003 -7,0 z m 11,3e-5 0,2 7,0 0,4.99997 0,7 2,0 0,-8 0,-3.99997 0,-2 -2,0 z m 11,0 0,2 0,6 0,4 0,1.99997 9,0 0,-1.99997 0,-6.00003 0,-3.99997 0,-2 -2,0 -5,0 z m 11,0 0,2 0,6 2,0 5,0 0,4 -7,0 0,1.99997 9,0 0,-1.99997 0,-6.00003 0,-3.99997 0,-2 -2,0 -5,0 z m -97,2 5,0 0,4.99997 0,5.00003 -5,0 0,-6.00003 z m 88,0 5,0 0,3.99997 -5,0 z m 11,0 5,0 0,3.99997 -5,0 z m 22,4 0,2 5,0 0,-2 z m -55,2 5,0 0,4 -5,0 z m 22,0 5,0 0,4 -5,0 z"
-         style="fill:#1e184a;fill-opacity:1;stroke:none;display:inline" />
+         style="display:inline;fill:#1e184a;fill-opacity:1;stroke:none" />
     </g>
     <g
        id="g4603"
        inkscape:export-filename="/media/freedrive/RebeccaCurrent2016/Personal Projects/LMMS Theme Source Files/design_elements/knob03.png"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
+       inkscape:export-ydpi="90"
+       transform="translate(-0.26659896,0.15565859)">
       <rect
          transform="scale(-1,1)"
          id="rect3665"
@@ -4713,7 +5068,7 @@
          x="-695"
          height="19"
          width="19"
-         style="fill:none;stroke:none;display:inline"
+         style="display:inline;fill:none;stroke:none"
          inkscape:export-filename="/media/freedrive/RebeccaCurrent2016/Personal Projects/LMMS Theme Source Files/design_elements/knob03.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
@@ -4725,279 +5080,6 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       id="g7890"
-       inkscape:export-filename="/media/freedrive/RebeccaCurrent2016/Personal Projects/LMMS Theme Source Files/design_elements/led_green.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       transform="matrix(-1,0,0,1,1092,0)">
-      <rect
-         ry="9.2095098"
-         rx="0"
-         y="-479"
-         x="528"
-         height="14"
-         width="16"
-         id="rect6935"
-         style="fill:none;stroke:none" />
-      <rect
-         transform="translate(0,-3.3378601e-6)"
-         ry="0"
-         rx="0"
-         y="-474"
-         x="531"
-         height="4.0000067"
-         width="10"
-         id="rect4747-8"
-         style="fill:#0aff65;fill-opacity:1;stroke:none;display:inline;filter:url(#filter4657)" />
-      <rect
-         style="fill:#55ff91;fill-opacity:1;stroke:none;display:inline"
-         id="rect4235-6"
-         width="10"
-         height="4.0000124"
-         x="531"
-         y="-474"
-         rx="0"
-         ry="0" />
-      <rect
-         style="opacity:0.7;fill:url(#linearGradient7914);fill-opacity:1;stroke:none;display:inline"
-         id="rect4679"
-         width="8"
-         height="2"
-         x="532"
-         y="-473"
-         ry="0"
-         rx="0" />
-    </g>
-    <g
-       id="g7896"
-       inkscape:export-filename="/media/freedrive/RebeccaCurrent2016/Personal Projects/LMMS Theme Source Files/design_elements/led_blue.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
-      <rect
-         style="fill:none;stroke:none"
-         id="rect4802"
-         width="16"
-         height="14"
-         x="568"
-         y="-479"
-         rx="0"
-         ry="0" />
-      <rect
-         style="fill:#00c8bb;fill-opacity:1;stroke:none;display:inline;filter:url(#filter4657)"
-         id="rect4806"
-         width="10"
-         height="4.0000067"
-         x="571"
-         y="-474"
-         rx="0"
-         ry="0" />
-      <rect
-         ry="0"
-         rx="0"
-         y="-474"
-         x="571"
-         height="4.0000124"
-         width="10"
-         id="rect4808"
-         style="fill:#45fff3;fill-opacity:1;stroke:none;display:inline" />
-      <rect
-         rx="0"
-         ry="0"
-         y="-473"
-         x="572"
-         height="2"
-         width="8"
-         id="rect4810"
-         style="opacity:0.7;fill:url(#linearGradient7885);fill-opacity:1;stroke:none;display:inline" />
-    </g>
-    <g
-       id="g6095"
-       inkscape:export-filename="/media/freedrive/RebeccaCurrent2016/Personal Projects/LMMS Theme Source Files/design_elements/led_off.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       transform="matrix(-1,0,0,1,1092,0)">
-      <rect
-         style="fill:none;stroke:none"
-         id="rect4788"
-         width="16"
-         height="14"
-         x="548"
-         y="-479"
-         rx="0"
-         ry="9.2095098" />
-      <rect
-         style="fill:#222a33;fill-opacity:1;stroke:none;display:inline;filter:url(#filter7922)"
-         id="rect7916"
-         width="12"
-         height="6.0000124"
-         x="550"
-         y="-475"
-         rx="0"
-         ry="0" />
-      <rect
-         ry="0"
-         rx="0"
-         y="-475"
-         x="550"
-         height="6.0000124"
-         width="12"
-         id="rect4548"
-         style="fill:#080a0c;fill-opacity:1;stroke:none;display:inline" />
-      <rect
-         style="fill:#1c2127;fill-opacity:1;stroke:none;display:inline"
-         id="rect3753"
-         width="10"
-         height="4.0000124"
-         x="551"
-         y="-474"
-         rx="0"
-         ry="0" />
-      <rect
-         ry="0"
-         rx="0"
-         y="-474"
-         x="551"
-         height="1.0000125"
-         width="10"
-         id="rect3781"
-         style="fill:#2f3741;fill-opacity:1;stroke:none;display:inline" />
-      <rect
-         style="fill:#15181c;fill-opacity:1;stroke:none;display:inline"
-         id="rect4551"
-         width="10"
-         height="1.0000125"
-         x="551"
-         y="-471"
-         rx="0"
-         ry="0" />
-    </g>
-    <g
-       id="g7902"
-       inkscape:export-filename="/media/freedrive/RebeccaCurrent2016/Personal Projects/LMMS Theme Source Files/design_elements/led_red.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
-      <rect
-         style="fill:none;stroke:none"
-         id="rect4564"
-         width="16"
-         height="14"
-         x="588"
-         y="-479"
-         rx="0"
-         ry="9.2095098" />
-      <rect
-         style="fill:#ff1111;fill-opacity:1;stroke:none;display:inline;filter:url(#filter4657)"
-         id="rect4568"
-         width="10"
-         height="4.0000067"
-         x="591"
-         y="-474"
-         rx="0"
-         ry="0" />
-      <rect
-         ry="0"
-         rx="0"
-         y="-474"
-         x="591"
-         height="4.0000124"
-         width="10"
-         id="rect4566"
-         style="fill:#ff617b;fill-opacity:1;stroke:none;display:inline" />
-      <rect
-         rx="0"
-         ry="0"
-         y="-473"
-         x="592"
-         height="2"
-         width="8"
-         id="rect4570"
-         style="opacity:0.5;fill:url(#linearGradient7879);fill-opacity:1;stroke:none;display:inline" />
-    </g>
-    <g
-       id="g5241"
-       transform="matrix(0.85735256,0,0,0.85735256,75.28849,-74.745508)">
-      <rect
-         ry="14.000007"
-         rx="14.000007"
-         transform="matrix(0,-1,1,0,0,0)"
-         y="528"
-         x="510"
-         height="28.000013"
-         width="28.000013"
-         id="rect7515"
-         style="fill:url(#linearGradient6021);fill-opacity:1;stroke:#000000;stroke-opacity:1;display:inline" />
-      <rect
-         ry="14"
-         rx="14"
-         transform="matrix(0,-1,1,0,0,0)"
-         y="672"
-         x="510"
-         height="28"
-         width="28"
-         id="rect7517"
-         style="fill:url(#linearGradient6055);fill-opacity:1;stroke:#000000;stroke-opacity:1;display:inline" />
-      <rect
-         ry="14"
-         rx="14"
-         style="fill:url(#linearGradient6063);fill-opacity:1;stroke:#000000;stroke-opacity:1;display:inline"
-         id="rect7519"
-         width="28"
-         height="28"
-         x="510"
-         y="708"
-         transform="matrix(0,-1,1,0,0,0)" />
-      <rect
-         ry="14"
-         rx="14"
-         transform="matrix(0,1,1,0,0,0)"
-         style="fill:url(#linearGradient6031);fill-opacity:1;stroke:#000000;stroke-opacity:1;display:inline"
-         id="rect7521"
-         width="28"
-         height="28"
-         x="-538"
-         y="564" />
-      <rect
-         ry="14"
-         rx="14"
-         style="fill:url(#linearGradient6047);fill-opacity:1;stroke:#000000;stroke-opacity:1;display:inline"
-         id="rect7523"
-         width="28"
-         height="28"
-         x="510"
-         y="-664"
-         transform="matrix(0,-1,-1,0,0,0)" />
-      <rect
-         ry="14"
-         rx="14"
-         y="600"
-         x="-538"
-         height="28"
-         width="28"
-         id="rect7604"
-         style="fill:url(#linearGradient6039);fill-opacity:1;stroke:#000000;stroke-opacity:1;display:inline"
-         transform="matrix(0,1,1,0,0,0)" />
-      <rect
-         ry="14"
-         rx="14"
-         transform="matrix(0,-1,1,0,0,0)"
-         y="744"
-         x="510"
-         height="28"
-         width="28"
-         id="rect8608"
-         style="fill:url(#linearGradient6071);fill-opacity:1;stroke:#000000;stroke-opacity:1;display:inline" />
-      <rect
-         style="fill:url(#linearGradient5251);fill-opacity:1;stroke:#000000;stroke-opacity:1;display:inline"
-         id="rect5233"
-         width="28"
-         height="28"
-         x="510"
-         y="780"
-         transform="matrix(0,-1,1,0,0,0)"
-         rx="14"
-         ry="14" />
-    </g>
-    <g
        id="g4688"
        transform="matrix(0.53333325,0,0,0.53333325,93.3334,-159.33342)"
        inkscape:export-filename="/media/freedrive/RebeccaCurrent2016/Personal Projects/LMMS Theme Source Files/Backgrounds.png"
@@ -5007,124 +5089,35 @@
          id="g4613" />
     </g>
     <g
-       id="g5834"
-       inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/design_elements/fader_background.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       transform="translate(140,0)">
-      <g
-         id="g6115"
-         transform="translate(-140,0)">
-        <rect
-           style="fill:none;stroke:none"
-           id="rect6002"
-           width="23"
-           height="116"
-           x="684"
-           y="-362"
-           rx="0"
-           ry="0"
-           inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/design_elements/fader_background.png"
-           inkscape:export-xdpi="90"
-           inkscape:export-ydpi="90" />
-        <rect
-           ry="5.5"
-           rx="5.5"
-           y="-360"
-           x="684"
-           height="112.00002"
-           width="11"
-           id="rect6004"
-           style="opacity:0.08999999;fill:url(#linearGradient6312);fill-opacity:1;stroke:none"
-           inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/design_elements/fader_background.png"
-           inkscape:export-xdpi="90"
-           inkscape:export-ydpi="90" />
-        <rect
-           style="fill:#060708;fill-opacity:1;stroke:none"
-           id="rect5651"
-           width="9"
-           height="110.00002"
-           x="685"
-           y="-359"
-           rx="4.5"
-           ry="4.5"
-           inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/design_elements/fader_background.png"
-           inkscape:export-xdpi="90"
-           inkscape:export-ydpi="90" />
-        <rect
-           style="opacity:0.08999999;fill:url(#linearGradient6314);fill-opacity:1;stroke:none"
-           id="rect6014"
-           width="11"
-           height="112.00002"
-           x="696"
-           y="-360"
-           rx="5.5"
-           ry="5.5"
-           inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/design_elements/fader_background.png"
-           inkscape:export-xdpi="90"
-           inkscape:export-ydpi="90" />
-        <rect
-           ry="4.5"
-           rx="4.5"
-           y="-359"
-           x="697"
-           height="110.00002"
-           width="9"
-           id="rect6016"
-           style="fill:#060708;fill-opacity:1;stroke:none"
-           inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/design_elements/fader_background.png"
-           inkscape:export-xdpi="90"
-           inkscape:export-ydpi="90" />
-        <rect
-           ry="2.5"
-           rx="2.5"
-           y="-357"
-           x="687"
-           height="106.00002"
-           width="5"
-           id="rect6166"
-           style="opacity:0.406;fill:url(#linearGradient5851);fill-opacity:1;stroke:none;filter:url(#filter5826)"
-           inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/design_elements/fader_background.png"
-           inkscape:export-xdpi="90"
-           inkscape:export-ydpi="90" />
-        <rect
-           style="opacity:0.406;fill:url(#linearGradient5853);fill-opacity:1;stroke:none;filter:url(#filter5830)"
-           id="rect6168"
-           width="5"
-           height="106.00002"
-           x="699"
-           y="-357"
-           rx="2.5"
-           ry="2.5"
-           inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/design_elements/fader_background.png"
-           inkscape:export-xdpi="90"
-           inkscape:export-ydpi="90" />
-        <path
-           id="path5961"
-           d="m 686,-352 0,0.99996 7,0 0,-0.99996 z"
-           style="fill:#350303;fill-opacity:1;stroke:none"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="ccccc"
-           inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/design_elements/fader_background.png"
-           inkscape:export-xdpi="90"
-           inkscape:export-ydpi="90" />
-        <path
-           sodipodi:nodetypes="ccccc"
-           inkscape:connector-curvature="0"
-           style="fill:#350303;fill-opacity:1;stroke:none"
-           d="m 698,-352 0,0.99996 7,0 0,-0.99996 z"
-           id="path6018"
-           inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/design_elements/fader_background.png"
-           inkscape:export-xdpi="90"
-           inkscape:export-ydpi="90" />
-      </g>
-    </g>
-    <g
-       id="g4627">
+       id="g6025">
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/design_elements/fader_background.png"
+         ry="0"
+         rx="0"
+         y="-361.84433"
+         x="683.7334"
+         height="116"
+         width="23"
+         id="rect6002"
+         style="fill:none;stroke:none" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/design_elements/fader_background.png"
+         ry="2.5"
+         rx="2.5"
+         y="-356.84433"
+         x="698.7334"
+         height="106.00002"
+         width="5"
+         id="rect6168"
+         style="opacity:0.406;fill:url(#linearGradient5853);fill-opacity:1;stroke:none;filter:url(#filter5830)" />
       <rect
          id="rect8899"
-         y="-362"
-         x="684"
+         y="-361.83643"
+         x="683.7334"
          height="116"
          width="23"
          style="fill:none;stroke:none"
@@ -5133,8 +5126,8 @@
          inkscape:export-ydpi="90" />
       <rect
          id="rect9079"
-         y="-362"
-         x="684"
+         y="-361.83643"
+         x="683.7334"
          height="116"
          width="23"
          style="fill:none;stroke:none"
@@ -5146,31 +5139,127 @@
          id="rect6058"
          width="23"
          height="116"
-         x="684"
-         y="-362"
+         x="683.7334"
+         y="-361.83643"
          rx="0"
          ry="0" />
-      <rect
-         style="fill:url(#linearGradient4634);fill-opacity:1;stroke:none"
-         id="rect4871"
-         width="7"
-         height="107.99997"
-         x="698"
-         y="-358"
-         rx="3.5"
-         ry="3.5" />
-      <rect
-         ry="3.5"
-         rx="3.5"
-         y="-358"
-         x="686"
-         height="107.99997"
-         width="7"
-         id="rect6133"
-         style="fill:url(#linearGradient4636);fill-opacity:1;stroke:none" />
+      <g
+         transform="translate(0,-3.0000268)"
+         id="g5172">
+        <rect
+           ry="3"
+           rx="3"
+           y="-356.8443"
+           x="683.73334"
+           height="112.00002"
+           width="11"
+           id="rect6004-1"
+           style="opacity:0.08999999;fill:url(#linearGradient3992);fill-opacity:1;stroke:none"
+           inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/design_elements/fader_background.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <rect
+           style="fill:#060708;fill-opacity:1;stroke:none"
+           id="rect5651-1"
+           width="9"
+           height="110.00002"
+           x="684.73334"
+           y="-355.8443"
+           rx="2"
+           ry="2"
+           inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/design_elements/fader_background.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <rect
+           style="opacity:0.08999999;fill:url(#linearGradient3988);fill-opacity:1;stroke:none"
+           id="rect6014-7"
+           width="11"
+           height="112.00002"
+           x="695.73334"
+           y="-356.8443"
+           rx="3"
+           ry="3"
+           inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/design_elements/fader_background.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <rect
+           ry="2"
+           rx="2"
+           y="-355.8443"
+           x="696.73334"
+           height="110.00002"
+           width="9"
+           id="rect6016-0"
+           style="fill:#060708;fill-opacity:1;stroke:none"
+           inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/design_elements/fader_background.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <rect
+           ry="1"
+           rx="1"
+           y="-353.8443"
+           x="686.73334"
+           height="106.00002"
+           width="5"
+           id="rect6166-4"
+           style="opacity:0.406;fill:url(#linearGradient3984);fill-opacity:1;stroke:none;filter:url(#filter5826-1)"
+           inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/design_elements/fader_background.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <rect
+           style="opacity:0.406;fill:url(#linearGradient3981);fill-opacity:1;stroke:none;filter:url(#filter5830-0)"
+           id="rect6168-0"
+           width="5"
+           height="106.00002"
+           x="698.73334"
+           y="-353.8443"
+           rx="1"
+           ry="1"
+           inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/design_elements/fader_background.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <rect
+           style="fill:#d6ec52;fill-opacity:1;stroke:none"
+           id="rect4886"
+           width="7"
+           height="14"
+           x="685.73334"
+           y="-336.8443" />
+        <path
+           style="fill:#c12038;fill-opacity:1;stroke:none"
+           d="m 686.73334,-354.84433 c -0.554,0 -1,0.446 -1,1 l 0,7 0,9 0,1 1,0 5,0 1,0 0,-1 0,-9 0,-7 c 0,-0.554 -0.446,-1 -1,-1 z"
+           id="rect4888"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ssccccccccsss" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#0ad45c;fill-opacity:1;stroke:none"
+           d="m 691.73334,-246.84433 c 0.554,0 1,-0.446 1,-1 l 0,-67 0,-7 0,-1 -1,0 -5,0 -1,0 0,1 0,7 0,67 c 0,0.554 0.446,1 1,1 z"
+           id="rect4888-5"
+           sodipodi:nodetypes="ssccccccccsss" />
+        <rect
+           style="fill:#d6ec52;fill-opacity:1;stroke:none"
+           id="rect4886-6"
+           width="7"
+           height="14"
+           x="697.73334"
+           y="-336.8443" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#c12038;fill-opacity:1;stroke:none"
+           d="m 698.73334,-354.84433 c -0.554,0 -1,0.446 -1,1 l 0,7 0,9 0,1 1,0 5,0 1,0 0,-1 0,-9 0,-7 c 0,-0.554 -0.446,-1 -1,-1 z"
+           id="rect4888-2"
+           sodipodi:nodetypes="ssccccccccsss" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#0ad45c;fill-opacity:1;stroke:none"
+           d="m 703.73334,-246.84433 c 0.554,0 1,-0.446 1,-1 l 0,-67 0,-7 0,-1 -1,0 -5,0 -1,0 0,1 0,7 0,67 c 0,0.554 0.446,1 1,1 z"
+           id="rect4888-5-9"
+           sodipodi:nodetypes="ssccccccccsss" />
+      </g>
     </g>
     <g
-       transform="translate(0,5.749996)"
+       transform="translate(-0.26659896,5.9135598)"
        id="g6139"
        inkscape:export-filename="/media/freedrive/RebeccaCurrent2016/Personal Projects/LMMS Theme Source Files/design_elements/fader_knob.png"
        inkscape:export-xdpi="90"
@@ -5220,142 +5309,6 @@
          id="rect6151"
          style="fill:url(#linearGradient6318);fill-opacity:1;stroke:none"
          transform="scale(-1,-1)" />
-    </g>
-    <rect
-       ry="0"
-       rx="0"
-       transform="matrix(0,-1,1,0,0,0)"
-       y="523.73334"
-       x="562.4118"
-       height="84"
-       width="35.999966"
-       id="rect5159"
-       style="display:inline;fill:url(#linearGradient6055);fill-opacity:0.99468599;stroke:none" />
-    <rect
-       ry="0"
-       rx="0"
-       style="display:inline;fill:url(#linearGradient6063);fill-opacity:1;stroke:none"
-       id="rect5161"
-       width="35.999962"
-       height="84.000008"
-       x="562.4118"
-       y="607.73334"
-       transform="matrix(0,-1,1,0,0,0)" />
-    <rect
-       ry="0"
-       rx="0"
-       transform="matrix(0,-1,1,0,0,0)"
-       y="691.73334"
-       x="562.4118"
-       height="84.000031"
-       width="35.999962"
-       id="rect5163"
-       style="display:inline;fill:url(#linearGradient6071);fill-opacity:1;stroke:none" />
-    <g
-       style="display:inline"
-       id="g8718"
-       transform="matrix(0.53333325,0,0,0.53333325,97.066738,-161.46673)">
-      <text
-         sodipodi:linespacing="125%"
-         id="text5165"
-         y="-800.44769"
-         x="806.6369"
-         style="font-style:normal;font-weight:normal;font-size:13.88888741px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient5235);fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           y="-800.44769"
-           x="806.6369"
-           id="tspan5167"
-           sodipodi:role="line">Dark BG</tspan></text>
-      <text
-         transform="scale(0.99914243,1.0008583)"
-         sodipodi:linespacing="125%"
-         id="text5169"
-         y="-799.7431"
-         x="967.46655"
-         style="font-style:normal;font-weight:normal;font-size:13.90080833px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient5235);fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           y="-799.7431"
-           x="967.46655"
-           id="tspan5171"
-           sodipodi:role="line">Primary BG</tspan></text>
-      <text
-         transform="scale(0.99914243,1.0008583)"
-         sodipodi:linespacing="125%"
-         id="text5173"
-         y="-799.7431"
-         x="1127.6039"
-         style="font-style:normal;font-weight:normal;font-size:13.90080833px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient5235);fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           y="-799.7431"
-           x="1127.6039"
-           id="tspan5175"
-           sodipodi:role="line">Light BG</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:13.88888741px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#d1d8e4;fill-opacity:1;stroke:none"
-         x="806.6369"
-         y="-783.03668"
-         id="text5203"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           id="tspan5205"
-           x="806.6369"
-           y="-783.03668">Example text</tspan></text>
-      <text
-         sodipodi:linespacing="125%"
-         id="text5207"
-         y="-781.67896"
-         x="965.54242"
-         style="font-style:normal;font-weight:normal;font-size:13.88888741px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#d1d8e4;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           y="-781.67896"
-           x="965.54242"
-           id="tspan5209"
-           sodipodi:role="line">Example text</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:13.88888741px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#d1d8e4;fill-opacity:1;stroke:none"
-         x="1126.8756"
-         y="-781.67896"
-         id="text5211"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           id="tspan5213"
-           x="1126.8756"
-           y="-781.67896">Example text</tspan></text>
-      <text
-         sodipodi:linespacing="125%"
-         id="text5215"
-         y="-762.93329"
-         x="806.72504"
-         style="font-style:normal;font-weight:bold;font-size:13.88888741px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#d1d8e4;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           y="-762.93329"
-           x="806.72504"
-           id="tspan5217"
-           sodipodi:role="line">Example text</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:bold;font-size:13.88888741px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#d1d8e4;fill-opacity:1;stroke:none"
-         x="965.63049"
-         y="-762.93329"
-         id="text5219"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           id="tspan5221"
-           x="965.63049"
-           y="-762.93329">Example text</tspan></text>
-      <text
-         sodipodi:linespacing="125%"
-         id="text5223"
-         y="-762.93329"
-         x="1126.9637"
-         style="font-style:normal;font-weight:bold;font-size:13.88888741px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#d1d8e4;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           y="-762.93329"
-           x="1126.9637"
-           id="tspan5225"
-           sodipodi:role="line">Example text</tspan></text>
     </g>
   </g>
 </svg>

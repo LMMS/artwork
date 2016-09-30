@@ -10,12 +10,14 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="132.93259"
-   height="137.50005"
+   width="132.00005"
+   height="137"
    id="svg6125"
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="SmileyNote.svg">
+  <title
+     id="title3361">Kawaii Old LMMS Logo</title>
   <defs
      id="defs6127">
     <linearGradient
@@ -108,11 +110,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.889675"
-     inkscape:cx="23.630887"
-     inkscape:cy="32.707766"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="62.453542"
+     inkscape:cy="80.714386"
      inkscape:document-units="px"
-     inkscape:current-layer="g7098"
+     inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1600"
      inkscape:window-height="806"
@@ -142,8 +144,8 @@
        visible="true"
        enabled="true"
        snapvisiblegridlinesonly="true"
-       originx="-1.5"
-       originy="-0.48717578" />
+       originx="0"
+       originy="0" />
   </sodipodi:namedview>
   <metadata
      id="metadata6130">
@@ -153,15 +155,32 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title>Kawaii Old LMMS Logo</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Rebecca DeField</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:description>lol</dc:description>
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
       </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
     </rdf:RDF>
   </metadata>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-414,-316.88777)">
+     transform="translate(-414.5,-316.87498)">
     <g
        id="g6985"
        transform="translate(3.995261e-5,0)"
@@ -196,7 +215,7 @@
          sodipodi:nodetypes="cscc"
          inkscape:connector-curvature="0"
          id="path7035"
-         d="m 426.5,441.87501 c -6.90356,0 -12.5,-5.59644 -12.5,-12.50001 0,-6.90356 5.59644,-12.5 12.5,-12.5 z"
+         d="m 426.5,441.87501 c -6.62742,0 -12,-5.59644 -12,-12.50001 0,-6.90356 5.37258,-12.5 12,-12.5 z"
          style="fill:#767676;fill-opacity:1;stroke:none" />
       <path
          sodipodi:nodetypes="ccccc"
@@ -206,7 +225,7 @@
          style="fill:#2b2b2b;fill-opacity:1;stroke:none" />
       <path
          style="fill:#767676;fill-opacity:1;stroke:none"
-         d="m 526.5,441.875 c 6.90356,0 12.5,-5.59644 12.5,-12.5 0,-6.90356 -5.59644,-12.5 -12.5,-12.5 z"
+         d="m 526.5,441.875 c 6.62742,0 12,-5.59644 12,-12.5 0,-6.90356 -5.37258,-12.5 -12,-12.5 z"
          id="path7038"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cscc" />
@@ -218,9 +237,10 @@
          style="fill:#9c9c9c;fill-opacity:1;stroke:none" />
       <path
          id="path6174"
-         d="m 496.59375,316.88782 -0.0937,89.6875 c -5.67043,-2.9679 -12.56085,-4.6875 -20,-4.6875 -19.32998,0 -35,11.75252 -35,26.25 0,14.49748 15.67002,26.25 35,26.25 19.32998,0 35,-11.75252 35,-26.25 0,-0.42217 -0.005,-0.86396 -0.0312,-1.28125 l 0.0312,0.0312 0,-80 c 14.21529,-0.18735 25.00004,10.00001 35,30 5.00005,-30.00002 -35,-60 -35,-60 l -14.90625,0 z"
+         d="m 496.5,316.87498 0,90 c -5.67043,-2.9679 -12.5608,-4.98716 -19.99995,-4.98716 -19.32998,0 -35,11.75252 -35,26.25 0,14.49748 15.66997,25.73716 34.99995,25.73716 19.32998,0 35.00005,-11.23968 35.00005,-25.73716 0,-0.42217 -0.005,-0.86396 -0.0312,-1.28125 l 0.0312,0.0312 0,-80 c 14.21529,-0.18735 25.00004,10.00001 35,30 -5e-5,-30.01278 -35,-60 -35,-60 z"
          style="fill:url(#radialGradient7113);fill-opacity:1;stroke:none"
-         inkscape:connector-curvature="0" />
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccsssscccccc" />
       <path
          sodipodi:open="true"
          sodipodi:type="arc"
