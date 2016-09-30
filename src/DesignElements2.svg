@@ -11,8 +11,8 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="363.26666"
-   height="852.56744"
+   width="248.00012"
+   height="798.00049"
    id="svg2"
    sodipodi:version="0.32"
    inkscape:version="0.91 r13725"
@@ -24,22 +24,22 @@
   <sodipodi:namedview
      id="base"
      pagecolor="#121316"
-     bordercolor="#666666"
-     borderopacity="0"
+     bordercolor="#ffffff"
+     borderopacity="1"
      gridtolerance="10000"
      guidetolerance="10"
      objecttolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="114.14428"
-     inkscape:cy="737.3527"
+     inkscape:zoom="3.5243466"
+     inkscape:cx="124.00003"
+     inkscape:cy="718.00099"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="false"
+     showgrid="true"
      showborder="false"
      inkscape:window-width="1600"
-     inkscape:window-height="811"
+     inkscape:window-height="806"
      inkscape:window-x="0"
      inkscape:window-y="32"
      showguides="true"
@@ -69,14 +69,14 @@
        enabled="true"
        spacingx="1"
        spacingy="1"
-       empspacing="1"
+       empspacing="2"
        empcolor="#ffffff"
-       empopacity="0.05882353"
+       empopacity="0.09803922"
        snapvisiblegridlinesonly="true"
-       originx="0"
-       originy="0"
+       originx="8.1976562e-06"
+       originy="3.9807129e-06"
        color="#ffffff"
-       opacity="0.05882353"
+       opacity="0.09803922"
        dotted="false" />
   </sodipodi:namedview>
   <defs
@@ -200,7 +200,7 @@
     <linearGradient
        id="linearGradient5235"
        osb:paint="solid"
-       gradientTransform="translate(374.44268,-1120.4249)">
+       gradientTransform="translate(466.17609,-1008.6337)">
       <stop
          style="stop-color:#d1d8e4;stop-opacity:1;"
          offset="0"
@@ -218,7 +218,7 @@
     <linearGradient
        id="linearGradient6063"
        osb:paint="solid"
-       gradientTransform="matrix(0.90235159,0,0,3.8943301,3129.5753,-3152.932)">
+       gradientTransform="matrix(0.99258558,0,0,4.1233992,3491.0627,-3197.3164)">
       <stop
          style="stop-color:#282a32;stop-opacity:1;"
          offset="0"
@@ -1064,7 +1064,7 @@
      inkscape:groupmode="layer"
      id="layer1"
      style="display:inline"
-     transform="translate(-523.73334,598.41177)">
+     transform="translate(-523.73334,543.84483)">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:100%;font-family:Verdana;-inkscape-font-specification:Verdana;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
@@ -1591,7 +1591,7 @@
        sodipodi:nodetypes="ccccc"
        inkscape:connector-curvature="0"
        id="path5312"
-       d="m 563.7334,98.157179 0,11.998491 -40,-0.002 0,-11.998491 z"
+       d="m 567.73335,98.157179 0,11.998491 -43.99995,-0.002 0,-11.998491 z"
        style="display:inline;fill:url(#linearGradient6063);fill-opacity:1;stroke:none" />
     <rect
        y="110.15567"
@@ -1610,7 +1610,7 @@
          sodipodi:role="line"
          id="tspan5318"
          x="526.25696"
-         y="106.27689">Plugin BG</tspan></text>
+         y="106.27689">Plugin Box</tspan></text>
     <path
        style="display:inline;fill:url(#linearGradient6063);fill-opacity:1;stroke:none"
        d="m 575.7334,182.15717 0,11.9985 -52,-0.002 0,-11.9985 z"
@@ -1676,9 +1676,8 @@
        d="m 559.73334,-493.84283 0,11.9985 -36,-0.002 0,-11.9985 z"
        style="display:inline;fill:url(#linearGradient6063);fill-opacity:1;stroke:none" />
     <path
-       transform="translate(91.73341,113.79275)"
        style="display:inline;fill:url(#linearGradient6063);fill-opacity:1;stroke:none"
-       d="m 483.99993,-657.63558 0,11.9985 -52,-0.002 0,-11.9985 z"
+       d="m 575.73335,-545.84435 0,11.9985 -52,-0.002 0,-11.9985 z"
        id="path4774-1"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
@@ -1686,20 +1685,19 @@
        sodipodi:nodetypes="ccccc"
        inkscape:connector-curvature="0"
        id="path4776-2"
-       d="m 771.7334,-531.84142 0,33.99709 -248.00005,-0.003 0,-33.99709 z"
+       d="m 771.7334,-533.84135 0,35.99684 -248.00005,-0.003 0,-35.99684 z"
        style="display:inline;fill:url(#linearGradient6063);fill-opacity:1;stroke:none" />
     <text
-       transform="translate(91.73341,113.79275)"
        xml:space="preserve"
-       style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.48583794px;line-height:125%;font-family:Cabin;-inkscape-font-specification:Cabin;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient5235);fill-opacity:1;stroke:none;"
-       x="435.6636"
-       y="-649.48193"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.48583794px;line-height:125%;font-family:Cabin;-inkscape-font-specification:Cabin;letter-spacing:0px;word-spacing:0px;display:inline;fill:url(#linearGradient5235);fill-opacity:1;stroke:none"
+       x="527.39703"
+       y="-537.69067"
        id="text4778-7"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4780-0"
-         x="435.6636"
-         y="-649.48193">Main palette</tspan></text>
+         x="527.39703"
+         y="-537.69067">Main palette</tspan></text>
     <rect
        ry="13"
        rx="13"
@@ -1784,7 +1782,7 @@
      id="layer2"
      inkscape:label="elements"
      style="display:inline"
-     transform="translate(-523.73334,598.41177)">
+     transform="translate(-523.73334,543.84483)">
     <g
        id="g3179"
        transform="translate(-7.8278936,0.991005)">
@@ -1894,7 +1892,7 @@
        inkscape:export-filename="/home/rebecca/Personal Projects/LMMS Theme Source Files/design_elements/cpuload_bg.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       transform="translate(-0.26659896,0.14783952)">
+       transform="translate(-0.26659896,0.1556888)">
       <rect
          id="rect5307"
          y="-478.00003"
@@ -4728,7 +4726,7 @@
          rx="0" />
     </g>
     <g
-       transform="translate(-4.266599,0.15566132)"
+       transform="translate(-4.26244,0.15566132)"
        id="g4601"
        inkscape:export-filename="/home/rebecca/Step.png"
        inkscape:export-xdpi="90"
