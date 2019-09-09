@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="14"
+   height="14"
+   viewBox="0 0 3.7041666 3.7041666"
+   version="1.1"
+   id="svg1626"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   sodipodi:docname="round_square_wave_active.svg">
+  <defs
+     id="defs1620" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#121316"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="32.040762"
+     inkscape:cx="0.87096636"
+     inkscape:cy="6.3474284"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer2"
+     showgrid="true"
+     units="px"
+     inkscape:window-width="1440"
+     inkscape:window-height="836"
+     inkscape:window-x="0"
+     inkscape:window-y="35"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:snap-page="true"
+     inkscape:snap-text-baseline="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2171"
+       empspacing="14"
+       dotted="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata1623">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Background"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-293.29583)"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/rebecca/Personal projects 2016/LMMS Theme Source Files/exported_icons/moog_saw_wave_active.png"
+       ry="0.26458502"
+       rx="0.26458502"
+       style="display:inline;opacity:1;fill:#000000;fill-opacity:0.66810345;stroke:none;stroke-width:0.26458332"
+       id="rect821"
+       width="3.7041667"
+       height="3.7041683"
+       x="0"
+       y="293.29584" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Icon"
+     transform="translate(0,-1.5875)">
+    <path
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="M 2.1177267,2.378152 2.1174674,4.4922707 3.17606,4.4974007 3.175,4.7625 1.8526019,4.75631 1.8526204,2.7178065 C 1.5567889,2.8207682 1.3014024,3.0418461 1.1162364,3.3792665 0.9024928,3.7687676 0.8185511,4.2708145 0.79481,4.7594126 H 0.5302267 C 0.55544149,4.2402419 0.68765643,3.6997325 0.9219344,3.2728141 1.1562123,2.8458956 1.4990727,2.4827206 1.9433187,2.4018984 Z"
+       id="path8135"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccsccscc" />
+  </g>
+</svg>
