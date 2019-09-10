@@ -21,13 +21,13 @@
   <sodipodi:namedview
      id="base"
      pagecolor="#121316"
-     bordercolor="#666666"
-     borderopacity="1.0"
+     bordercolor="#ffffff"
+     borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="39.999982"
-     inkscape:cx="2.2624979"
-     inkscape:cy="6.9999689"
+     inkscape:zoom="43.357123"
+     inkscape:cx="7.0000001"
+     inkscape:cy="6.9999688"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="true"
@@ -49,7 +49,9 @@
      inkscape:snap-object-midpoints="true"
      inkscape:snap-center="true"
      inkscape:snap-page="true"
-     inkscape:snap-text-baseline="false">
+     inkscape:snap-text-baseline="false"
+     inkscape:showpageshadow="false"
+     borderlayer="true">
     <inkscape:grid
        type="xygrid"
        id="grid2171"
