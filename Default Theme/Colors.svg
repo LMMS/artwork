@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -45,9 +45,9 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:zoom="1"
-     inkscape:cx="301.80758"
-     inkscape:cy="95.999977"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="269.99239"
+     inkscape:cy="93.878657"
      inkscape:window-x="0"
      inkscape:window-y="35"
      inkscape:window-maximized="1"
@@ -74,7 +74,7 @@
        rx="12.700028"
        transform="rotate(-90)" />
     <rect
-       style="fill:#800a1d;fill-opacity:0.9729996;stroke:none;stroke-width:0.26499999"
+       style="fill:#800a1d;fill-opacity:1;stroke:none;stroke-width:0.26499999"
        id="rect8"
        class="C"
        y="76.597191"
@@ -91,7 +91,7 @@
        width="25.400057"
        class="C"
        id="rect14"
-       style="fill:#3c3282;fill-opacity:0.9729996;stroke:none;stroke-width:0.26499999" />
+       style="fill:#3c3282;fill-opacity:1;stroke:none;stroke-width:0.26499999" />
     <rect
        style="fill:#3e414e;stroke:none;stroke-width:0.26499999"
        id="rect16"
@@ -136,7 +136,7 @@
        transform="scale(-1,1)"
        class="C"
        id="rect24"
-       style="fill:#db9300;fill-opacity:0.9729996;stroke:none;stroke-width:0.26499999" />
+       style="fill:#db9300;fill-opacity:1;stroke:none;stroke-width:0.26499999" />
     <path
        d="M 13.097037,-25.003085 A 12.680029,12.680029 0 0 1 25.797066,-12.303057 12.680029,12.680029 0 0 1 13.097037,0.3969716"
        id="path26"
