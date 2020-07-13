@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="factory_files.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   id="svg1626"
+   version="1.1"
+   viewBox="0 0 4.2333332 4.2333332"
+   height="16"
+   width="16">
+  <defs
+     id="defs1620" />
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     inkscape:window-maximized="1"
+     inkscape:window-y="35"
+     inkscape:window-x="0"
+     inkscape:window-height="837"
+     inkscape:window-width="1440"
+     units="px"
+     showgrid="true"
+     inkscape:current-layer="layer2"
+     inkscape:document-units="px"
+     inkscape:cy="7.1428326"
+     inkscape:cx="10.374999"
+     inkscape:zoom="28"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#121316"
+     id="base">
+    <inkscape:grid
+       dotted="false"
+       empspacing="20"
+       id="grid2171"
+       type="xygrid" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata1623">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-291.70833)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Background" />
+  <g
+     inkscape:label="Icon"
+     id="layer2"
+     inkscape:groupmode="layer">
+    <g
+       id="g3657"
+       transform="matrix(0.26458333,0,0,0.26458333,6.0854161,50.800018)">
+      <path
+         inkscape:connector-curvature="0"
+         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
+         d="m 247,137 v 14 h 10 v -10 h -4 v -4 z m 7,0 v 3 h 3 z m -3,5 h 2 v 1.59375 l 1.125,-1.125 1.40625,1.40625 -1.125,1.125 H 256 v 2 h -1.59375 l 1.125,1.125 -1.40625,1.40625 -1.125,-1.125 V 150 h -2 v -1.59375 l -1.125,1.125 -1.40625,-1.40625 1.125,-1.125 H 248 v -2 h 1.59375 l -1.125,-1.125 1.40625,-1.40625 1.125,1.125 z"
+         transform="translate(-267,-328.00007)"
+         id="path4407" />
+    </g>
+    <circle
+       r="0.26561737"
+       cy="2.6468713"
+       cx="2.1156342"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       id="path4548" />
+  </g>
+</svg>
